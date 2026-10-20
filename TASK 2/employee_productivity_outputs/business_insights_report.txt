@@ -1,0 +1,49 @@
+
+EMPLOYEE PRODUCTIVITY STUDY
+===========================
+
+PROJECT SUMMARY
+This project analyzes a synthetic dataset of employee
+work patterns and productivity using Python and Pandas.
+
+KEY METRICS
+-----------
+Employees analyzed: 1000
+Average productivity score: 71.07/100
+Average attendance: 85.28%
+Average weekly work hours: 42.60
+Total tasks completed: 37,928
+
+DEPARTMENT FINDINGS
+-------------------
+Highest average productivity:
+Marketing -
+72.20/100
+
+Lowest average productivity:
+Finance -
+69.85/100
+
+CORRELATION RESULTS
+-------------------
+Attendance vs productivity: 0.198
+Work hours vs productivity: -0.009
+Experience vs productivity: 0.323
+
+BUSINESS RECOMMENDATIONS
+------------------------
+1. Compare productivity and workload across departments.
+2. Review attendance patterns alongside other factors,
+   without assuming attendance alone determines output.
+3. Monitor overtime and workload to identify possible
+   risks of excessive work.
+4. Evaluate training opportunities using broader evidence.
+5. Use these results for exploration, not as the sole
+   basis for decisions about individual employees.
+
+LIMITATIONS
+-----------
+The dataset is synthetic and does not represent a real
+workforce. Correlation does not prove causation.
+Productivity scores are practice metrics and should not
+be treated as definitive measures of employee value.

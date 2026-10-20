@@ -1,0 +1,1001 @@
+Customer_ID,Product,Rating,Review_Text,Review_Date,Sentiment
+1,Clothing,1,Very poor quality and disappointing.,2025-05-21,Negative
+2,Sports,2,Delivery was late and packaging was damaged.,2025-02-22,Negative
+3,Electronics,1,"Very bad experience, not recommended.",2025-08-05,Negative
+4,Clothing,1,Very poor quality and disappointing.,2025-04-22,Negative
+5,Sports,5,"Great experience, highly recommended.",2025-01-14,Positive
+6,Sports,2,Poor customer service.,2025-11-29,Negative
+7,Sports,4,Amazing quality and fast delivery.,2025-08-18,Positive
+8,Beauty,3,The product is okay.,2025-03-23,Neutral
+9,Clothing,3,It works as expected.,2025-03-21,Neutral
+10,Beauty,3,The product is okay.,2025-02-17,Neutral
+11,Sports,1,Not worth the money.,2025-06-26,Negative
+12,Sports,3,The product is okay.,2025-08-24,Neutral
+13,Sports,1,The product stopped working quickly.,2025-02-10,Negative
+14,Home,3,An ordinary purchase.,2025-11-13,Neutral
+15,Electronics,5,Amazing quality and fast delivery.,2025-12-27,Positive
+16,Home,1,Poor customer service.,2025-04-27,Negative
+17,Beauty,1,Delivery was late and packaging was damaged.,2025-02-21,Negative
+18,Home,3,Delivery was on time.,2025-11-22,Neutral
+19,Clothing,2,Not worth the money.,2025-07-01,Negative
+20,Electronics,3,An ordinary purchase.,2025-12-16,Neutral
+21,Sports,5,Works perfectly and looks great.,2025-03-29,Positive
+22,Beauty,2,Delivery was late and packaging was damaged.,2025-08-25,Negative
+23,Sports,3,An ordinary purchase.,2025-12-19,Neutral
+24,Electronics,2,Poor customer service.,2025-06-16,Negative
+25,Beauty,2,Very poor quality and disappointing.,2025-06-11,Negative
+26,Sports,3,The product is okay.,2025-04-19,Neutral
+27,Beauty,3,Average quality for the price.,2025-12-02,Neutral
+28,Clothing,4,Works perfectly and looks great.,2025-08-23,Positive
+29,Sports,3,Average quality for the price.,2025-05-07,Neutral
+30,Beauty,5,Good value for money.,2025-10-27,Positive
+31,Clothing,5,I love this product.,2025-07-05,Positive
+32,Electronics,2,"Very bad experience, not recommended.",2025-09-10,Negative
+33,Clothing,1,Very poor quality and disappointing.,2025-03-20,Negative
+34,Beauty,4,"Great experience, highly recommended.",2025-02-02,Positive
+35,Sports,4,"Great experience, highly recommended.",2025-08-28,Positive
+36,Electronics,3,Nothing special about this product.,2025-01-06,Neutral
+37,Home,5,Good value for money.,2025-11-25,Positive
+38,Clothing,1,Not worth the money.,2025-08-11,Negative
+39,Sports,4,"Excellent product, very satisfied!",2025-05-15,Positive
+40,Home,2,"Very bad experience, not recommended.",2025-02-24,Negative
+41,Clothing,5,"Great experience, highly recommended.",2025-04-12,Positive
+42,Sports,3,Average quality for the price.,2025-10-04,Neutral
+43,Beauty,1,"Very bad experience, not recommended.",2025-06-15,Negative
+44,Home,1,Very poor quality and disappointing.,2025-07-05,Negative
+45,Sports,2,Very poor quality and disappointing.,2025-05-04,Negative
+46,Electronics,1,Very poor quality and disappointing.,2025-09-06,Negative
+47,Beauty,5,Amazing quality and fast delivery.,2025-03-07,Positive
+48,Sports,5,Amazing quality and fast delivery.,2025-05-16,Positive
+49,Sports,5,I love this product.,2025-04-19,Positive
+50,Beauty,2,Poor customer service.,2025-06-09,Negative
+51,Beauty,3,Delivery was on time.,2025-09-22,Neutral
+52,Electronics,1,Delivery was late and packaging was damaged.,2025-04-26,Negative
+53,Sports,3,The product is okay.,2025-10-29,Neutral
+54,Electronics,2,"Very bad experience, not recommended.",2025-04-23,Negative
+55,Electronics,1,Poor customer service.,2025-11-20,Negative
+56,Home,2,Very poor quality and disappointing.,2025-01-17,Negative
+57,Home,1,"Very bad experience, not recommended.",2025-05-02,Negative
+58,Clothing,4,Amazing quality and fast delivery.,2025-10-04,Positive
+59,Clothing,5,"Great experience, highly recommended.",2025-08-31,Positive
+60,Electronics,4,I love this product.,2025-04-08,Positive
+61,Home,1,Poor customer service.,2025-08-09,Negative
+62,Electronics,4,I love this product.,2025-08-28,Positive
+63,Home,1,Very poor quality and disappointing.,2025-07-26,Negative
+64,Clothing,1,Delivery was late and packaging was damaged.,2025-04-09,Negative
+65,Beauty,5,I love this product.,2025-03-13,Positive
+66,Clothing,2,Not worth the money.,2025-08-25,Negative
+67,Electronics,1,The product stopped working quickly.,2025-10-09,Negative
+68,Electronics,1,Poor customer service.,2025-10-04,Negative
+69,Beauty,1,Delivery was late and packaging was damaged.,2025-03-27,Negative
+70,Beauty,4,I love this product.,2025-04-20,Positive
+71,Electronics,1,Delivery was late and packaging was damaged.,2025-07-14,Negative
+72,Home,4,Good value for money.,2025-08-21,Positive
+73,Beauty,4,Works perfectly and looks great.,2025-10-12,Positive
+74,Clothing,2,Delivery was late and packaging was damaged.,2025-06-01,Negative
+75,Electronics,1,"Very bad experience, not recommended.",2025-10-05,Negative
+76,Sports,3,The product is okay.,2025-01-26,Neutral
+77,Clothing,4,"Great experience, highly recommended.",2025-09-29,Positive
+78,Clothing,1,"Very bad experience, not recommended.",2025-02-11,Negative
+79,Clothing,1,"Very bad experience, not recommended.",2025-02-04,Negative
+80,Clothing,4,"Excellent product, very satisfied!",2025-10-19,Positive
+81,Sports,5,"Great experience, highly recommended.",2025-01-21,Positive
+82,Sports,1,The product stopped working quickly.,2025-12-03,Negative
+83,Home,5,"Great experience, highly recommended.",2025-06-11,Positive
+84,Clothing,2,Poor customer service.,2025-06-10,Negative
+85,Home,3,Delivery was on time.,2025-03-09,Neutral
+86,Electronics,4,Good value for money.,2025-02-07,Positive
+87,Electronics,4,"Great experience, highly recommended.",2025-10-16,Positive
+88,Sports,1,"Very bad experience, not recommended.",2025-04-20,Negative
+89,Electronics,3,Average quality for the price.,2025-06-28,Neutral
+90,Clothing,2,Not worth the money.,2025-05-26,Negative
+91,Home,4,"Great experience, highly recommended.",2025-12-27,Positive
+92,Electronics,5,Works perfectly and looks great.,2025-09-28,Positive
+93,Electronics,5,Good value for money.,2025-12-06,Positive
+94,Electronics,2,Not worth the money.,2025-03-01,Negative
+95,Home,5,Amazing quality and fast delivery.,2025-05-20,Positive
+96,Clothing,5,Amazing quality and fast delivery.,2025-06-25,Positive
+97,Home,3,Nothing special about this product.,2025-09-08,Neutral
+98,Beauty,1,Very poor quality and disappointing.,2025-11-21,Negative
+99,Home,3,The product is okay.,2025-01-02,Neutral
+100,Clothing,2,Poor customer service.,2025-05-15,Negative
+101,Beauty,4,"Great experience, highly recommended.",2025-12-28,Positive
+102,Electronics,5,"Excellent product, very satisfied!",2025-02-27,Positive
+103,Home,2,"Very bad experience, not recommended.",2025-01-19,Negative
+104,Beauty,5,"Great experience, highly recommended.",2025-03-17,Positive
+105,Home,2,Very poor quality and disappointing.,2025-06-07,Negative
+106,Clothing,1,Not worth the money.,2025-04-18,Negative
+107,Beauty,1,Not worth the money.,2025-10-14,Negative
+108,Clothing,5,Works perfectly and looks great.,2025-03-21,Positive
+109,Electronics,2,Delivery was late and packaging was damaged.,2025-07-31,Negative
+110,Beauty,2,Poor customer service.,2025-06-20,Negative
+111,Electronics,2,Not worth the money.,2025-03-23,Negative
+112,Clothing,4,"Excellent product, very satisfied!",2025-08-29,Positive
+113,Home,2,The product stopped working quickly.,2025-06-29,Negative
+114,Clothing,2,Delivery was late and packaging was damaged.,2025-01-13,Negative
+115,Electronics,4,Good value for money.,2025-05-23,Positive
+116,Sports,3,It works as expected.,2025-11-25,Neutral
+117,Home,4,Works perfectly and looks great.,2025-10-02,Positive
+118,Clothing,1,Very poor quality and disappointing.,2025-05-14,Negative
+119,Electronics,5,Good value for money.,2025-01-20,Positive
+120,Home,5,I love this product.,2025-06-26,Positive
+121,Electronics,4,"Great experience, highly recommended.",2025-09-19,Positive
+122,Home,4,"Great experience, highly recommended.",2025-04-08,Positive
+123,Electronics,1,Poor customer service.,2025-08-12,Negative
+124,Clothing,5,"Great experience, highly recommended.",2025-12-18,Positive
+125,Home,3,Delivery was on time.,2025-02-05,Neutral
+126,Electronics,5,Good value for money.,2025-12-06,Positive
+127,Beauty,3,Nothing special about this product.,2025-06-08,Neutral
+128,Home,3,Delivery was on time.,2025-12-23,Neutral
+129,Beauty,5,Amazing quality and fast delivery.,2025-04-09,Positive
+130,Sports,4,Works perfectly and looks great.,2025-03-31,Positive
+131,Sports,5,Good value for money.,2025-07-27,Positive
+132,Clothing,1,Not worth the money.,2025-05-27,Negative
+133,Home,4,"Great experience, highly recommended.",2025-11-07,Positive
+134,Clothing,4,I love this product.,2025-08-15,Positive
+135,Electronics,5,I love this product.,2025-03-28,Positive
+136,Sports,3,Nothing special about this product.,2025-12-06,Neutral
+137,Home,3,The product is okay.,2025-05-01,Neutral
+138,Electronics,2,Delivery was late and packaging was damaged.,2025-03-17,Negative
+139,Sports,1,Delivery was late and packaging was damaged.,2025-09-01,Negative
+140,Sports,1,The product stopped working quickly.,2025-08-01,Negative
+141,Beauty,2,Poor customer service.,2025-12-23,Negative
+142,Clothing,4,I love this product.,2025-05-05,Positive
+143,Clothing,1,Very poor quality and disappointing.,2025-08-06,Negative
+144,Beauty,2,Poor customer service.,2025-09-23,Negative
+145,Electronics,1,"Very bad experience, not recommended.",2025-05-08,Negative
+146,Sports,4,Amazing quality and fast delivery.,2025-08-26,Positive
+147,Beauty,5,"Great experience, highly recommended.",2025-06-12,Positive
+148,Beauty,5,Works perfectly and looks great.,2025-09-16,Positive
+149,Beauty,5,I love this product.,2025-03-23,Positive
+150,Home,4,Good value for money.,2025-05-07,Positive
+151,Clothing,5,I love this product.,2025-11-17,Positive
+152,Home,3,Delivery was on time.,2025-02-09,Neutral
+153,Home,2,Not worth the money.,2025-06-21,Negative
+154,Clothing,5,"Excellent product, very satisfied!",2025-03-12,Positive
+155,Clothing,2,The product stopped working quickly.,2025-12-22,Negative
+156,Beauty,2,Very poor quality and disappointing.,2025-08-01,Negative
+157,Beauty,3,Nothing special about this product.,2025-08-27,Neutral
+158,Beauty,1,Delivery was late and packaging was damaged.,2025-08-04,Negative
+159,Sports,5,Works perfectly and looks great.,2025-01-11,Positive
+160,Home,4,I love this product.,2025-01-04,Positive
+161,Sports,3,Delivery was on time.,2025-08-03,Neutral
+162,Beauty,5,"Great experience, highly recommended.",2025-04-23,Positive
+163,Beauty,2,Not worth the money.,2025-08-12,Negative
+164,Beauty,1,The product stopped working quickly.,2025-06-22,Negative
+165,Sports,2,The product stopped working quickly.,2025-03-07,Negative
+166,Sports,5,"Excellent product, very satisfied!",2025-07-21,Positive
+167,Electronics,5,Works perfectly and looks great.,2025-01-14,Positive
+168,Clothing,4,Amazing quality and fast delivery.,2025-08-25,Positive
+169,Home,1,Not worth the money.,2025-07-14,Negative
+170,Home,2,The product stopped working quickly.,2025-06-17,Negative
+171,Home,4,Good value for money.,2025-08-04,Positive
+172,Sports,1,The product stopped working quickly.,2025-01-10,Negative
+173,Electronics,1,Not worth the money.,2025-04-25,Negative
+174,Clothing,1,Very poor quality and disappointing.,2025-05-07,Negative
+175,Clothing,1,"Very bad experience, not recommended.",2025-03-20,Negative
+176,Electronics,2,The product stopped working quickly.,2025-12-09,Negative
+177,Home,5,Amazing quality and fast delivery.,2025-08-27,Positive
+178,Sports,3,Average quality for the price.,2025-11-07,Neutral
+179,Electronics,1,Delivery was late and packaging was damaged.,2025-06-09,Negative
+180,Sports,5,"Excellent product, very satisfied!",2025-06-09,Positive
+181,Electronics,4,I love this product.,2025-04-12,Positive
+182,Clothing,5,Works perfectly and looks great.,2025-11-18,Positive
+183,Sports,1,Poor customer service.,2025-06-04,Negative
+184,Home,1,"Very bad experience, not recommended.",2025-01-22,Negative
+185,Home,5,I love this product.,2025-12-05,Positive
+186,Home,1,"Very bad experience, not recommended.",2025-11-28,Negative
+187,Electronics,1,The product stopped working quickly.,2025-09-08,Negative
+188,Beauty,4,Good value for money.,2025-11-22,Positive
+189,Sports,2,The product stopped working quickly.,2025-04-01,Negative
+190,Beauty,3,Nothing special about this product.,2025-10-03,Neutral
+191,Home,4,I love this product.,2025-10-31,Positive
+192,Home,3,Average quality for the price.,2025-02-14,Neutral
+193,Sports,4,Amazing quality and fast delivery.,2025-08-26,Positive
+194,Home,5,Works perfectly and looks great.,2025-07-14,Positive
+195,Clothing,1,The product stopped working quickly.,2025-06-16,Negative
+196,Home,4,Amazing quality and fast delivery.,2025-07-01,Positive
+197,Home,3,It works as expected.,2025-11-02,Neutral
+198,Clothing,5,"Excellent product, very satisfied!",2025-09-22,Positive
+199,Beauty,1,Delivery was late and packaging was damaged.,2025-07-28,Negative
+200,Beauty,5,Amazing quality and fast delivery.,2025-12-20,Positive
+201,Electronics,4,I love this product.,2025-01-09,Positive
+202,Clothing,3,Average quality for the price.,2025-07-27,Neutral
+203,Home,3,An ordinary purchase.,2025-10-25,Neutral
+204,Home,4,"Great experience, highly recommended.",2025-09-29,Positive
+205,Home,4,Works perfectly and looks great.,2025-10-09,Positive
+206,Home,3,An ordinary purchase.,2025-08-21,Neutral
+207,Electronics,3,It works as expected.,2025-04-29,Neutral
+208,Sports,2,Not worth the money.,2025-03-03,Negative
+209,Beauty,2,Delivery was late and packaging was damaged.,2025-04-21,Negative
+210,Sports,3,An ordinary purchase.,2025-10-29,Neutral
+211,Clothing,5,Good value for money.,2025-02-21,Positive
+212,Clothing,3,Average quality for the price.,2025-07-04,Neutral
+213,Sports,3,The product is okay.,2025-12-29,Neutral
+214,Electronics,2,Not worth the money.,2025-01-24,Negative
+215,Clothing,5,Good value for money.,2025-12-24,Positive
+216,Sports,4,"Excellent product, very satisfied!",2025-01-07,Positive
+217,Beauty,3,Delivery was on time.,2025-09-03,Neutral
+218,Home,3,Average quality for the price.,2025-01-27,Neutral
+219,Beauty,4,"Excellent product, very satisfied!",2025-02-03,Positive
+220,Electronics,4,"Excellent product, very satisfied!",2025-10-23,Positive
+221,Home,2,Delivery was late and packaging was damaged.,2025-10-16,Negative
+222,Sports,1,Delivery was late and packaging was damaged.,2025-03-02,Negative
+223,Sports,4,"Great experience, highly recommended.",2025-11-02,Positive
+224,Beauty,2,"Very bad experience, not recommended.",2025-07-14,Negative
+225,Beauty,4,Good value for money.,2025-10-29,Positive
+226,Electronics,3,Nothing special about this product.,2025-11-14,Neutral
+227,Clothing,5,Works perfectly and looks great.,2025-02-20,Positive
+228,Electronics,2,Not worth the money.,2025-12-05,Negative
+229,Sports,2,Delivery was late and packaging was damaged.,2025-03-30,Negative
+230,Beauty,1,Delivery was late and packaging was damaged.,2025-01-02,Negative
+231,Beauty,4,Works perfectly and looks great.,2025-11-01,Positive
+232,Home,3,The product is okay.,2025-04-29,Neutral
+233,Electronics,3,An ordinary purchase.,2025-08-21,Neutral
+234,Sports,2,Not worth the money.,2025-11-17,Negative
+235,Sports,2,The product stopped working quickly.,2025-02-28,Negative
+236,Home,2,Poor customer service.,2025-03-18,Negative
+237,Clothing,2,Very poor quality and disappointing.,2025-01-31,Negative
+238,Home,3,Nothing special about this product.,2025-10-19,Neutral
+239,Home,4,"Excellent product, very satisfied!",2025-08-28,Positive
+240,Sports,4,Good value for money.,2025-09-14,Positive
+241,Sports,4,I love this product.,2025-02-11,Positive
+242,Sports,1,The product stopped working quickly.,2025-06-15,Negative
+243,Clothing,3,The product is okay.,2025-02-16,Neutral
+244,Home,5,"Great experience, highly recommended.",2025-01-11,Positive
+245,Beauty,5,"Excellent product, very satisfied!",2025-03-31,Positive
+246,Home,5,Works perfectly and looks great.,2025-08-15,Positive
+247,Beauty,2,"Very bad experience, not recommended.",2025-08-12,Negative
+248,Beauty,1,The product stopped working quickly.,2025-06-28,Negative
+249,Electronics,3,It works as expected.,2025-12-10,Neutral
+250,Beauty,2,Not worth the money.,2025-07-30,Negative
+251,Sports,3,An ordinary purchase.,2025-07-25,Neutral
+252,Home,1,The product stopped working quickly.,2025-02-15,Negative
+253,Beauty,3,It works as expected.,2025-03-01,Neutral
+254,Sports,5,"Excellent product, very satisfied!",2025-12-03,Positive
+255,Clothing,4,I love this product.,2025-01-28,Positive
+256,Beauty,5,Good value for money.,2025-11-15,Positive
+257,Home,4,"Excellent product, very satisfied!",2025-04-15,Positive
+258,Beauty,5,Amazing quality and fast delivery.,2025-05-28,Positive
+259,Sports,4,"Excellent product, very satisfied!",2025-01-15,Positive
+260,Home,2,Poor customer service.,2025-03-23,Negative
+261,Beauty,5,"Excellent product, very satisfied!",2025-10-10,Positive
+262,Beauty,1,Delivery was late and packaging was damaged.,2025-02-28,Negative
+263,Beauty,1,Poor customer service.,2025-03-20,Negative
+264,Home,3,Nothing special about this product.,2025-12-28,Neutral
+265,Clothing,4,I love this product.,2025-08-30,Positive
+266,Beauty,4,"Great experience, highly recommended.",2025-03-16,Positive
+267,Clothing,2,"Very bad experience, not recommended.",2025-09-18,Negative
+268,Home,1,Not worth the money.,2025-08-01,Negative
+269,Home,5,Good value for money.,2025-01-02,Positive
+270,Beauty,3,Nothing special about this product.,2025-10-24,Neutral
+271,Beauty,2,The product stopped working quickly.,2025-10-03,Negative
+272,Sports,3,It works as expected.,2025-10-10,Neutral
+273,Clothing,4,I love this product.,2025-06-14,Positive
+274,Clothing,2,"Very bad experience, not recommended.",2025-07-16,Negative
+275,Beauty,4,"Excellent product, very satisfied!",2025-06-12,Positive
+276,Clothing,4,I love this product.,2025-12-06,Positive
+277,Sports,4,"Excellent product, very satisfied!",2025-03-06,Positive
+278,Beauty,5,Good value for money.,2025-02-21,Positive
+279,Electronics,1,"Very bad experience, not recommended.",2025-08-22,Negative
+280,Clothing,2,The product stopped working quickly.,2025-12-02,Negative
+281,Home,1,The product stopped working quickly.,2025-05-16,Negative
+282,Electronics,5,Works perfectly and looks great.,2025-07-23,Positive
+283,Beauty,3,An ordinary purchase.,2025-10-01,Neutral
+284,Sports,3,An ordinary purchase.,2025-09-07,Neutral
+285,Clothing,1,"Very bad experience, not recommended.",2025-02-05,Negative
+286,Beauty,3,Average quality for the price.,2025-02-16,Neutral
+287,Electronics,1,Poor customer service.,2025-12-27,Negative
+288,Home,4,Amazing quality and fast delivery.,2025-12-22,Positive
+289,Electronics,1,Very poor quality and disappointing.,2025-06-16,Negative
+290,Beauty,3,It works as expected.,2025-07-11,Neutral
+291,Beauty,2,Delivery was late and packaging was damaged.,2025-09-29,Negative
+292,Clothing,5,Works perfectly and looks great.,2025-04-03,Positive
+293,Beauty,2,Very poor quality and disappointing.,2025-11-09,Negative
+294,Beauty,5,Works perfectly and looks great.,2025-05-04,Positive
+295,Beauty,5,Amazing quality and fast delivery.,2025-04-29,Positive
+296,Electronics,3,Delivery was on time.,2025-05-11,Neutral
+297,Sports,4,Good value for money.,2025-12-13,Positive
+298,Home,2,Very poor quality and disappointing.,2025-08-15,Negative
+299,Beauty,5,Good value for money.,2025-11-24,Positive
+300,Clothing,3,Delivery was on time.,2025-06-04,Neutral
+301,Clothing,4,I love this product.,2025-02-24,Positive
+302,Sports,4,"Great experience, highly recommended.",2025-07-03,Positive
+303,Electronics,3,An ordinary purchase.,2025-06-01,Neutral
+304,Sports,4,Good value for money.,2025-01-05,Positive
+305,Home,1,"Very bad experience, not recommended.",2025-09-12,Negative
+306,Clothing,2,"Very bad experience, not recommended.",2025-06-30,Negative
+307,Clothing,2,"Very bad experience, not recommended.",2025-05-09,Negative
+308,Electronics,1,Poor customer service.,2025-11-27,Negative
+309,Sports,3,Delivery was on time.,2025-01-18,Neutral
+310,Electronics,3,An ordinary purchase.,2025-03-09,Neutral
+311,Clothing,3,It works as expected.,2025-08-01,Neutral
+312,Home,2,Delivery was late and packaging was damaged.,2025-10-04,Negative
+313,Clothing,5,"Great experience, highly recommended.",2025-05-20,Positive
+314,Home,3,Delivery was on time.,2025-06-01,Neutral
+315,Clothing,1,The product stopped working quickly.,2025-02-08,Negative
+316,Beauty,2,Poor customer service.,2025-12-12,Negative
+317,Beauty,5,Good value for money.,2025-02-16,Positive
+318,Electronics,1,Not worth the money.,2025-10-02,Negative
+319,Home,4,Good value for money.,2025-12-11,Positive
+320,Home,5,I love this product.,2025-11-23,Positive
+321,Beauty,1,Poor customer service.,2025-04-30,Negative
+322,Home,1,"Very bad experience, not recommended.",2025-10-15,Negative
+323,Electronics,5,Amazing quality and fast delivery.,2025-11-28,Positive
+324,Beauty,4,Works perfectly and looks great.,2025-06-04,Positive
+325,Electronics,1,Delivery was late and packaging was damaged.,2025-01-24,Negative
+326,Electronics,3,Delivery was on time.,2025-03-01,Neutral
+327,Beauty,2,"Very bad experience, not recommended.",2025-03-11,Negative
+328,Sports,4,Good value for money.,2025-12-10,Positive
+329,Beauty,4,"Great experience, highly recommended.",2025-03-21,Positive
+330,Beauty,1,The product stopped working quickly.,2025-11-12,Negative
+331,Home,3,The product is okay.,2025-12-20,Neutral
+332,Clothing,2,The product stopped working quickly.,2025-08-16,Negative
+333,Home,3,The product is okay.,2025-12-18,Neutral
+334,Electronics,5,Works perfectly and looks great.,2025-07-03,Positive
+335,Electronics,4,Good value for money.,2025-04-08,Positive
+336,Clothing,4,"Excellent product, very satisfied!",2025-12-06,Positive
+337,Home,5,"Excellent product, very satisfied!",2025-01-26,Positive
+338,Clothing,2,Delivery was late and packaging was damaged.,2025-10-17,Negative
+339,Sports,1,"Very bad experience, not recommended.",2025-04-17,Negative
+340,Clothing,2,Delivery was late and packaging was damaged.,2025-06-18,Negative
+341,Clothing,5,"Excellent product, very satisfied!",2025-05-22,Positive
+342,Clothing,2,"Very bad experience, not recommended.",2025-05-09,Negative
+343,Clothing,1,Poor customer service.,2025-01-14,Negative
+344,Sports,1,Not worth the money.,2025-05-02,Negative
+345,Home,3,The product is okay.,2025-03-31,Neutral
+346,Sports,1,Delivery was late and packaging was damaged.,2025-08-04,Negative
+347,Beauty,1,Poor customer service.,2025-02-02,Negative
+348,Sports,4,Good value for money.,2025-09-20,Positive
+349,Clothing,1,The product stopped working quickly.,2025-09-15,Negative
+350,Sports,5,"Excellent product, very satisfied!",2025-12-04,Positive
+351,Electronics,3,Delivery was on time.,2025-11-26,Neutral
+352,Beauty,1,The product stopped working quickly.,2025-07-25,Negative
+353,Beauty,1,The product stopped working quickly.,2025-12-31,Negative
+354,Sports,1,Very poor quality and disappointing.,2025-06-14,Negative
+355,Home,2,Very poor quality and disappointing.,2025-03-06,Negative
+356,Sports,5,Works perfectly and looks great.,2025-10-27,Positive
+357,Sports,3,Delivery was on time.,2025-11-02,Neutral
+358,Sports,3,Delivery was on time.,2025-09-16,Neutral
+359,Electronics,4,"Excellent product, very satisfied!",2025-12-26,Positive
+360,Beauty,5,Works perfectly and looks great.,2025-04-21,Positive
+361,Home,4,Amazing quality and fast delivery.,2025-07-31,Positive
+362,Electronics,4,I love this product.,2025-08-01,Positive
+363,Home,3,Delivery was on time.,2025-06-10,Neutral
+364,Beauty,3,Average quality for the price.,2025-12-18,Neutral
+365,Electronics,1,Very poor quality and disappointing.,2025-02-13,Negative
+366,Clothing,4,"Excellent product, very satisfied!",2025-07-10,Positive
+367,Sports,5,"Excellent product, very satisfied!",2025-10-28,Positive
+368,Electronics,5,Good value for money.,2025-12-10,Positive
+369,Beauty,4,Good value for money.,2025-12-07,Positive
+370,Home,1,Not worth the money.,2025-11-04,Negative
+371,Sports,3,The product is okay.,2025-10-23,Neutral
+372,Beauty,2,Delivery was late and packaging was damaged.,2025-12-03,Negative
+373,Sports,2,Very poor quality and disappointing.,2025-06-29,Negative
+374,Sports,3,The product is okay.,2025-05-23,Neutral
+375,Sports,2,The product stopped working quickly.,2025-10-15,Negative
+376,Sports,5,Works perfectly and looks great.,2025-11-26,Positive
+377,Home,1,"Very bad experience, not recommended.",2025-12-03,Negative
+378,Home,1,Delivery was late and packaging was damaged.,2025-05-20,Negative
+379,Clothing,3,It works as expected.,2025-01-04,Neutral
+380,Beauty,2,"Very bad experience, not recommended.",2025-12-03,Negative
+381,Electronics,1,Delivery was late and packaging was damaged.,2025-11-21,Negative
+382,Clothing,1,Poor customer service.,2025-09-29,Negative
+383,Home,4,I love this product.,2025-08-21,Positive
+384,Home,2,Not worth the money.,2025-06-09,Negative
+385,Electronics,5,"Great experience, highly recommended.",2025-02-13,Positive
+386,Electronics,2,Delivery was late and packaging was damaged.,2025-11-13,Negative
+387,Beauty,1,Not worth the money.,2025-08-15,Negative
+388,Beauty,4,"Great experience, highly recommended.",2025-08-15,Positive
+389,Electronics,3,Average quality for the price.,2025-09-20,Neutral
+390,Home,3,Delivery was on time.,2025-02-26,Neutral
+391,Home,5,I love this product.,2025-09-27,Positive
+392,Sports,1,Delivery was late and packaging was damaged.,2025-07-22,Negative
+393,Home,1,Very poor quality and disappointing.,2025-04-15,Negative
+394,Home,2,Delivery was late and packaging was damaged.,2025-05-11,Negative
+395,Beauty,3,The product is okay.,2025-01-04,Neutral
+396,Beauty,4,Amazing quality and fast delivery.,2025-03-08,Positive
+397,Sports,5,Works perfectly and looks great.,2025-04-28,Positive
+398,Electronics,5,Works perfectly and looks great.,2025-07-01,Positive
+399,Beauty,4,Works perfectly and looks great.,2025-01-22,Positive
+400,Home,1,The product stopped working quickly.,2025-02-09,Negative
+401,Beauty,5,I love this product.,2025-10-21,Positive
+402,Beauty,4,Good value for money.,2025-02-28,Positive
+403,Sports,1,Not worth the money.,2025-03-29,Negative
+404,Electronics,4,Works perfectly and looks great.,2025-07-05,Positive
+405,Beauty,4,"Excellent product, very satisfied!",2025-05-05,Positive
+406,Electronics,5,I love this product.,2025-09-26,Positive
+407,Clothing,4,Good value for money.,2025-06-23,Positive
+408,Sports,3,Average quality for the price.,2025-02-09,Neutral
+409,Clothing,1,"Very bad experience, not recommended.",2025-09-19,Negative
+410,Clothing,3,It works as expected.,2025-11-27,Neutral
+411,Home,2,Very poor quality and disappointing.,2025-03-16,Negative
+412,Clothing,2,Delivery was late and packaging was damaged.,2025-11-05,Negative
+413,Beauty,1,Delivery was late and packaging was damaged.,2025-11-18,Negative
+414,Beauty,4,"Great experience, highly recommended.",2025-10-24,Positive
+415,Sports,5,Works perfectly and looks great.,2025-11-22,Positive
+416,Clothing,3,An ordinary purchase.,2025-06-11,Neutral
+417,Beauty,4,"Excellent product, very satisfied!",2025-08-29,Positive
+418,Electronics,3,It works as expected.,2025-10-30,Neutral
+419,Home,3,Nothing special about this product.,2025-02-07,Neutral
+420,Electronics,4,I love this product.,2025-01-20,Positive
+421,Electronics,3,It works as expected.,2025-02-09,Neutral
+422,Beauty,5,"Great experience, highly recommended.",2025-09-17,Positive
+423,Electronics,4,"Great experience, highly recommended.",2025-10-11,Positive
+424,Clothing,4,"Great experience, highly recommended.",2025-11-30,Positive
+425,Sports,3,Nothing special about this product.,2025-09-01,Neutral
+426,Electronics,2,Very poor quality and disappointing.,2025-08-19,Negative
+427,Sports,3,An ordinary purchase.,2025-02-13,Neutral
+428,Beauty,2,Very poor quality and disappointing.,2025-05-07,Negative
+429,Sports,4,"Great experience, highly recommended.",2025-09-25,Positive
+430,Home,2,Not worth the money.,2025-07-10,Negative
+431,Sports,4,I love this product.,2025-06-23,Positive
+432,Home,1,Poor customer service.,2025-11-28,Negative
+433,Sports,1,Not worth the money.,2025-02-18,Negative
+434,Sports,4,Good value for money.,2025-05-10,Positive
+435,Sports,2,Not worth the money.,2025-02-11,Negative
+436,Beauty,2,Not worth the money.,2025-06-08,Negative
+437,Electronics,2,"Very bad experience, not recommended.",2025-12-29,Negative
+438,Home,3,Nothing special about this product.,2025-07-12,Neutral
+439,Sports,2,Poor customer service.,2025-12-26,Negative
+440,Beauty,1,Poor customer service.,2025-12-10,Negative
+441,Home,5,Good value for money.,2025-01-10,Positive
+442,Home,3,Average quality for the price.,2025-04-20,Neutral
+443,Clothing,4,Amazing quality and fast delivery.,2025-04-26,Positive
+444,Electronics,2,Very poor quality and disappointing.,2025-06-01,Negative
+445,Electronics,5,"Great experience, highly recommended.",2025-09-27,Positive
+446,Sports,3,Nothing special about this product.,2025-03-09,Neutral
+447,Clothing,4,Amazing quality and fast delivery.,2025-03-25,Positive
+448,Electronics,5,Amazing quality and fast delivery.,2025-08-13,Positive
+449,Clothing,4,Good value for money.,2025-12-13,Positive
+450,Beauty,4,"Great experience, highly recommended.",2025-05-26,Positive
+451,Home,2,"Very bad experience, not recommended.",2025-05-03,Negative
+452,Sports,4,Amazing quality and fast delivery.,2025-07-08,Positive
+453,Beauty,4,I love this product.,2025-05-25,Positive
+454,Clothing,5,"Great experience, highly recommended.",2025-08-03,Positive
+455,Home,2,"Very bad experience, not recommended.",2025-03-12,Negative
+456,Home,1,Poor customer service.,2025-09-04,Negative
+457,Sports,5,"Excellent product, very satisfied!",2025-12-31,Positive
+458,Clothing,1,Not worth the money.,2025-02-12,Negative
+459,Clothing,3,Delivery was on time.,2025-09-20,Neutral
+460,Beauty,4,"Excellent product, very satisfied!",2025-04-24,Positive
+461,Electronics,3,The product is okay.,2025-08-01,Neutral
+462,Clothing,4,"Great experience, highly recommended.",2025-07-11,Positive
+463,Clothing,4,"Excellent product, very satisfied!",2025-07-11,Positive
+464,Home,1,Not worth the money.,2025-02-20,Negative
+465,Home,2,Delivery was late and packaging was damaged.,2025-01-20,Negative
+466,Beauty,4,Works perfectly and looks great.,2025-03-13,Positive
+467,Electronics,4,"Great experience, highly recommended.",2025-01-03,Positive
+468,Clothing,1,Not worth the money.,2025-04-21,Negative
+469,Sports,5,Works perfectly and looks great.,2025-11-08,Positive
+470,Clothing,4,"Excellent product, very satisfied!",2025-05-28,Positive
+471,Clothing,3,The product is okay.,2025-01-25,Neutral
+472,Beauty,4,Works perfectly and looks great.,2025-11-15,Positive
+473,Sports,1,Very poor quality and disappointing.,2025-09-13,Negative
+474,Sports,5,"Excellent product, very satisfied!",2025-11-20,Positive
+475,Home,5,Amazing quality and fast delivery.,2025-03-15,Positive
+476,Home,4,"Excellent product, very satisfied!",2025-11-11,Positive
+477,Clothing,2,"Very bad experience, not recommended.",2025-08-02,Negative
+478,Electronics,1,"Very bad experience, not recommended.",2025-07-04,Negative
+479,Sports,5,"Great experience, highly recommended.",2025-09-17,Positive
+480,Beauty,5,"Excellent product, very satisfied!",2025-07-19,Positive
+481,Home,1,Poor customer service.,2025-07-18,Negative
+482,Home,3,An ordinary purchase.,2025-01-09,Neutral
+483,Electronics,1,Not worth the money.,2025-05-04,Negative
+484,Clothing,5,Works perfectly and looks great.,2025-06-20,Positive
+485,Home,1,Not worth the money.,2025-10-07,Negative
+486,Beauty,2,Poor customer service.,2025-08-26,Negative
+487,Beauty,2,Delivery was late and packaging was damaged.,2025-02-02,Negative
+488,Electronics,1,Not worth the money.,2025-04-14,Negative
+489,Home,2,Very poor quality and disappointing.,2025-06-11,Negative
+490,Beauty,5,I love this product.,2025-10-06,Positive
+491,Clothing,3,The product is okay.,2025-11-28,Neutral
+492,Home,3,It works as expected.,2025-01-25,Neutral
+493,Beauty,3,The product is okay.,2025-07-08,Neutral
+494,Beauty,4,Works perfectly and looks great.,2025-08-14,Positive
+495,Beauty,3,Average quality for the price.,2025-09-12,Neutral
+496,Electronics,3,Nothing special about this product.,2025-05-17,Neutral
+497,Sports,4,"Excellent product, very satisfied!",2025-08-09,Positive
+498,Home,2,"Very bad experience, not recommended.",2025-05-31,Negative
+499,Home,1,Very poor quality and disappointing.,2025-06-17,Negative
+500,Beauty,3,Delivery was on time.,2025-11-05,Neutral
+501,Home,2,Poor customer service.,2025-08-16,Negative
+502,Sports,4,"Excellent product, very satisfied!",2025-06-30,Positive
+503,Electronics,4,Good value for money.,2025-11-24,Positive
+504,Beauty,1,Poor customer service.,2025-11-23,Negative
+505,Clothing,3,Nothing special about this product.,2025-12-14,Neutral
+506,Beauty,1,Delivery was late and packaging was damaged.,2025-11-08,Negative
+507,Clothing,1,Delivery was late and packaging was damaged.,2025-02-04,Negative
+508,Sports,3,It works as expected.,2025-07-16,Neutral
+509,Beauty,1,"Very bad experience, not recommended.",2025-03-20,Negative
+510,Electronics,3,It works as expected.,2025-08-16,Neutral
+511,Home,5,Amazing quality and fast delivery.,2025-09-29,Positive
+512,Home,4,Good value for money.,2025-11-29,Positive
+513,Clothing,2,Very poor quality and disappointing.,2025-01-14,Negative
+514,Sports,4,"Great experience, highly recommended.",2025-07-18,Positive
+515,Beauty,1,Not worth the money.,2025-05-14,Negative
+516,Beauty,2,"Very bad experience, not recommended.",2025-05-27,Negative
+517,Electronics,2,Very poor quality and disappointing.,2025-03-11,Negative
+518,Electronics,4,Amazing quality and fast delivery.,2025-08-16,Positive
+519,Electronics,3,An ordinary purchase.,2025-06-27,Neutral
+520,Home,5,"Great experience, highly recommended.",2025-05-29,Positive
+521,Clothing,2,Poor customer service.,2025-12-30,Negative
+522,Electronics,3,Nothing special about this product.,2025-04-25,Neutral
+523,Beauty,2,Delivery was late and packaging was damaged.,2025-05-02,Negative
+524,Sports,1,Not worth the money.,2025-10-11,Negative
+525,Clothing,3,Delivery was on time.,2025-10-10,Neutral
+526,Home,5,"Excellent product, very satisfied!",2025-02-03,Positive
+527,Sports,4,Works perfectly and looks great.,2025-09-03,Positive
+528,Electronics,4,I love this product.,2025-10-22,Positive
+529,Electronics,2,Not worth the money.,2025-11-25,Negative
+530,Sports,4,I love this product.,2025-12-15,Positive
+531,Sports,3,Average quality for the price.,2025-10-10,Neutral
+532,Sports,2,Delivery was late and packaging was damaged.,2025-08-10,Negative
+533,Clothing,1,Very poor quality and disappointing.,2025-09-23,Negative
+534,Home,3,Average quality for the price.,2025-03-24,Neutral
+535,Home,2,Not worth the money.,2025-09-23,Negative
+536,Sports,1,Not worth the money.,2025-04-11,Negative
+537,Home,3,Average quality for the price.,2025-11-17,Neutral
+538,Sports,5,"Great experience, highly recommended.",2025-02-17,Positive
+539,Clothing,2,"Very bad experience, not recommended.",2025-10-25,Negative
+540,Sports,2,Poor customer service.,2025-11-16,Negative
+541,Electronics,3,Nothing special about this product.,2025-01-22,Neutral
+542,Sports,1,Very poor quality and disappointing.,2025-11-25,Negative
+543,Sports,3,An ordinary purchase.,2025-04-18,Neutral
+544,Electronics,4,"Great experience, highly recommended.",2025-11-24,Positive
+545,Home,4,Works perfectly and looks great.,2025-10-07,Positive
+546,Beauty,3,Delivery was on time.,2025-05-06,Neutral
+547,Electronics,3,Delivery was on time.,2025-02-07,Neutral
+548,Beauty,2,The product stopped working quickly.,2025-08-01,Negative
+549,Sports,4,Amazing quality and fast delivery.,2025-06-24,Positive
+550,Home,2,Not worth the money.,2025-06-13,Negative
+551,Sports,4,Amazing quality and fast delivery.,2025-07-09,Positive
+552,Clothing,5,"Excellent product, very satisfied!",2025-06-13,Positive
+553,Beauty,4,"Excellent product, very satisfied!",2025-05-17,Positive
+554,Electronics,2,Delivery was late and packaging was damaged.,2025-02-19,Negative
+555,Beauty,3,Delivery was on time.,2025-11-12,Neutral
+556,Sports,2,Delivery was late and packaging was damaged.,2025-06-17,Negative
+557,Beauty,3,Average quality for the price.,2025-03-23,Neutral
+558,Home,5,I love this product.,2025-09-13,Positive
+559,Beauty,4,"Excellent product, very satisfied!",2025-02-16,Positive
+560,Clothing,5,I love this product.,2025-05-04,Positive
+561,Electronics,5,Good value for money.,2025-01-25,Positive
+562,Beauty,3,Delivery was on time.,2025-11-02,Neutral
+563,Electronics,3,Nothing special about this product.,2025-01-05,Neutral
+564,Home,4,Amazing quality and fast delivery.,2025-05-16,Positive
+565,Beauty,4,Good value for money.,2025-01-24,Positive
+566,Clothing,1,"Very bad experience, not recommended.",2025-10-15,Negative
+567,Electronics,3,Nothing special about this product.,2025-05-28,Neutral
+568,Sports,4,"Great experience, highly recommended.",2025-08-19,Positive
+569,Sports,3,Nothing special about this product.,2025-12-15,Neutral
+570,Beauty,1,Delivery was late and packaging was damaged.,2025-02-19,Negative
+571,Home,3,It works as expected.,2025-10-13,Neutral
+572,Sports,2,Delivery was late and packaging was damaged.,2025-11-05,Negative
+573,Electronics,4,"Great experience, highly recommended.",2025-01-21,Positive
+574,Beauty,1,Delivery was late and packaging was damaged.,2025-06-20,Negative
+575,Sports,5,I love this product.,2025-03-18,Positive
+576,Sports,5,Amazing quality and fast delivery.,2025-06-17,Positive
+577,Sports,3,Average quality for the price.,2025-07-21,Neutral
+578,Sports,3,Nothing special about this product.,2025-06-22,Neutral
+579,Sports,5,"Great experience, highly recommended.",2025-09-08,Positive
+580,Home,3,Delivery was on time.,2025-01-09,Neutral
+581,Beauty,3,An ordinary purchase.,2025-02-26,Neutral
+582,Electronics,5,Good value for money.,2025-12-19,Positive
+583,Sports,5,I love this product.,2025-05-16,Positive
+584,Sports,5,Amazing quality and fast delivery.,2025-01-27,Positive
+585,Sports,4,Amazing quality and fast delivery.,2025-09-26,Positive
+586,Clothing,4,Amazing quality and fast delivery.,2025-12-15,Positive
+587,Electronics,1,"Very bad experience, not recommended.",2025-12-25,Negative
+588,Home,2,Very poor quality and disappointing.,2025-08-14,Negative
+589,Clothing,4,Amazing quality and fast delivery.,2025-07-31,Positive
+590,Beauty,4,"Great experience, highly recommended.",2025-11-10,Positive
+591,Sports,1,Poor customer service.,2025-03-12,Negative
+592,Beauty,2,"Very bad experience, not recommended.",2025-06-16,Negative
+593,Clothing,5,I love this product.,2025-06-10,Positive
+594,Sports,4,"Great experience, highly recommended.",2025-06-25,Positive
+595,Home,3,An ordinary purchase.,2025-12-15,Neutral
+596,Clothing,5,I love this product.,2025-04-09,Positive
+597,Clothing,3,Nothing special about this product.,2025-06-02,Neutral
+598,Clothing,3,It works as expected.,2025-12-27,Neutral
+599,Home,4,Good value for money.,2025-09-03,Positive
+600,Home,5,Works perfectly and looks great.,2025-05-21,Positive
+601,Sports,1,"Very bad experience, not recommended.",2025-12-13,Negative
+602,Clothing,4,I love this product.,2025-06-26,Positive
+603,Electronics,3,The product is okay.,2025-05-28,Neutral
+604,Home,3,Delivery was on time.,2025-12-02,Neutral
+605,Sports,4,Amazing quality and fast delivery.,2025-04-14,Positive
+606,Home,3,Nothing special about this product.,2025-12-23,Neutral
+607,Sports,2,Very poor quality and disappointing.,2025-11-12,Negative
+608,Sports,2,Delivery was late and packaging was damaged.,2025-01-26,Negative
+609,Electronics,2,Poor customer service.,2025-04-30,Negative
+610,Beauty,1,The product stopped working quickly.,2025-06-19,Negative
+611,Electronics,1,Poor customer service.,2025-03-12,Negative
+612,Beauty,5,Amazing quality and fast delivery.,2025-07-28,Positive
+613,Home,4,Works perfectly and looks great.,2025-04-13,Positive
+614,Electronics,3,It works as expected.,2025-11-27,Neutral
+615,Clothing,1,Poor customer service.,2025-10-21,Negative
+616,Clothing,5,Works perfectly and looks great.,2025-01-20,Positive
+617,Beauty,4,Amazing quality and fast delivery.,2025-01-19,Positive
+618,Electronics,4,Amazing quality and fast delivery.,2025-05-29,Positive
+619,Sports,1,Not worth the money.,2025-10-18,Negative
+620,Beauty,1,Not worth the money.,2025-05-26,Negative
+621,Clothing,5,"Great experience, highly recommended.",2025-09-10,Positive
+622,Clothing,5,I love this product.,2025-05-20,Positive
+623,Beauty,1,Not worth the money.,2025-03-25,Negative
+624,Electronics,3,An ordinary purchase.,2025-04-06,Neutral
+625,Clothing,3,It works as expected.,2025-10-18,Neutral
+626,Beauty,2,"Very bad experience, not recommended.",2025-11-24,Negative
+627,Electronics,4,"Great experience, highly recommended.",2025-06-17,Positive
+628,Clothing,4,Works perfectly and looks great.,2025-02-18,Positive
+629,Clothing,2,The product stopped working quickly.,2025-06-15,Negative
+630,Clothing,1,Not worth the money.,2025-07-16,Negative
+631,Home,4,Good value for money.,2025-06-18,Positive
+632,Electronics,5,Works perfectly and looks great.,2025-10-21,Positive
+633,Clothing,3,An ordinary purchase.,2025-07-04,Neutral
+634,Beauty,1,Poor customer service.,2025-03-02,Negative
+635,Sports,3,Average quality for the price.,2025-07-27,Neutral
+636,Home,3,An ordinary purchase.,2025-03-02,Neutral
+637,Clothing,3,Nothing special about this product.,2025-04-24,Neutral
+638,Beauty,2,The product stopped working quickly.,2025-03-20,Negative
+639,Sports,5,Good value for money.,2025-08-01,Positive
+640,Clothing,4,"Great experience, highly recommended.",2025-12-07,Positive
+641,Electronics,2,Poor customer service.,2025-11-02,Negative
+642,Home,5,I love this product.,2025-09-28,Positive
+643,Electronics,1,"Very bad experience, not recommended.",2025-02-27,Negative
+644,Sports,5,"Great experience, highly recommended.",2025-04-14,Positive
+645,Home,5,Amazing quality and fast delivery.,2025-03-26,Positive
+646,Clothing,5,I love this product.,2025-03-01,Positive
+647,Sports,5,I love this product.,2025-02-16,Positive
+648,Clothing,4,"Excellent product, very satisfied!",2025-08-21,Positive
+649,Sports,5,I love this product.,2025-08-22,Positive
+650,Home,1,"Very bad experience, not recommended.",2025-08-25,Negative
+651,Electronics,1,The product stopped working quickly.,2025-05-11,Negative
+652,Electronics,2,"Very bad experience, not recommended.",2025-02-07,Negative
+653,Electronics,4,Good value for money.,2025-12-25,Positive
+654,Beauty,5,"Excellent product, very satisfied!",2025-02-05,Positive
+655,Clothing,1,Not worth the money.,2025-07-29,Negative
+656,Beauty,2,Poor customer service.,2025-11-27,Negative
+657,Beauty,3,Delivery was on time.,2025-08-18,Neutral
+658,Sports,4,"Excellent product, very satisfied!",2025-12-16,Positive
+659,Electronics,2,Poor customer service.,2025-06-28,Negative
+660,Sports,2,"Very bad experience, not recommended.",2025-07-21,Negative
+661,Electronics,2,Poor customer service.,2025-04-25,Negative
+662,Sports,1,Not worth the money.,2025-08-26,Negative
+663,Clothing,4,"Great experience, highly recommended.",2025-07-14,Positive
+664,Clothing,2,The product stopped working quickly.,2025-06-27,Negative
+665,Electronics,3,Average quality for the price.,2025-02-27,Neutral
+666,Clothing,4,"Great experience, highly recommended.",2025-01-09,Positive
+667,Sports,2,Very poor quality and disappointing.,2025-02-21,Negative
+668,Electronics,1,The product stopped working quickly.,2025-11-03,Negative
+669,Beauty,2,Poor customer service.,2025-01-23,Negative
+670,Clothing,4,Amazing quality and fast delivery.,2025-10-04,Positive
+671,Home,1,Delivery was late and packaging was damaged.,2025-09-15,Negative
+672,Home,2,Poor customer service.,2025-10-22,Negative
+673,Home,5,"Great experience, highly recommended.",2025-12-11,Positive
+674,Sports,2,Not worth the money.,2025-03-15,Negative
+675,Home,2,The product stopped working quickly.,2025-06-03,Negative
+676,Clothing,1,"Very bad experience, not recommended.",2025-10-30,Negative
+677,Electronics,4,"Great experience, highly recommended.",2025-09-11,Positive
+678,Beauty,3,An ordinary purchase.,2025-12-10,Neutral
+679,Beauty,5,Good value for money.,2025-12-23,Positive
+680,Beauty,4,Amazing quality and fast delivery.,2025-06-03,Positive
+681,Clothing,2,"Very bad experience, not recommended.",2025-08-31,Negative
+682,Clothing,2,Not worth the money.,2025-12-29,Negative
+683,Beauty,4,"Excellent product, very satisfied!",2025-10-15,Positive
+684,Clothing,4,"Great experience, highly recommended.",2025-09-29,Positive
+685,Clothing,4,Amazing quality and fast delivery.,2025-05-11,Positive
+686,Beauty,3,An ordinary purchase.,2025-02-10,Neutral
+687,Clothing,3,The product is okay.,2025-10-02,Neutral
+688,Sports,1,Not worth the money.,2025-07-13,Negative
+689,Clothing,5,"Excellent product, very satisfied!",2025-02-07,Positive
+690,Sports,5,Works perfectly and looks great.,2025-12-10,Positive
+691,Home,2,The product stopped working quickly.,2025-04-17,Negative
+692,Clothing,3,The product is okay.,2025-04-19,Neutral
+693,Clothing,1,Poor customer service.,2025-09-03,Negative
+694,Beauty,5,Works perfectly and looks great.,2025-04-15,Positive
+695,Home,2,"Very bad experience, not recommended.",2025-06-14,Negative
+696,Home,4,I love this product.,2025-10-01,Positive
+697,Sports,3,It works as expected.,2025-07-04,Neutral
+698,Beauty,4,I love this product.,2025-02-20,Positive
+699,Home,3,Average quality for the price.,2025-07-09,Neutral
+700,Clothing,4,"Excellent product, very satisfied!",2025-10-16,Positive
+701,Sports,2,Very poor quality and disappointing.,2025-05-14,Negative
+702,Home,5,"Great experience, highly recommended.",2025-08-02,Positive
+703,Clothing,2,Delivery was late and packaging was damaged.,2025-06-18,Negative
+704,Beauty,4,"Great experience, highly recommended.",2025-05-06,Positive
+705,Home,5,Works perfectly and looks great.,2025-12-17,Positive
+706,Beauty,3,Delivery was on time.,2025-11-25,Neutral
+707,Clothing,4,Amazing quality and fast delivery.,2025-06-30,Positive
+708,Beauty,2,Poor customer service.,2025-10-07,Negative
+709,Electronics,2,"Very bad experience, not recommended.",2025-11-25,Negative
+710,Electronics,5,"Excellent product, very satisfied!",2025-02-08,Positive
+711,Clothing,1,The product stopped working quickly.,2025-03-12,Negative
+712,Electronics,1,Poor customer service.,2025-03-19,Negative
+713,Home,2,"Very bad experience, not recommended.",2025-08-22,Negative
+714,Sports,1,"Very bad experience, not recommended.",2025-11-23,Negative
+715,Electronics,4,Works perfectly and looks great.,2025-09-07,Positive
+716,Beauty,1,"Very bad experience, not recommended.",2025-10-10,Negative
+717,Home,1,Very poor quality and disappointing.,2025-09-29,Negative
+718,Sports,5,Good value for money.,2025-01-09,Positive
+719,Electronics,4,Amazing quality and fast delivery.,2025-02-24,Positive
+720,Clothing,5,Amazing quality and fast delivery.,2025-05-04,Positive
+721,Home,5,"Great experience, highly recommended.",2025-05-10,Positive
+722,Home,3,Delivery was on time.,2025-02-10,Neutral
+723,Clothing,4,I love this product.,2025-10-17,Positive
+724,Electronics,2,Not worth the money.,2025-12-17,Negative
+725,Beauty,1,Very poor quality and disappointing.,2025-07-27,Negative
+726,Electronics,4,"Great experience, highly recommended.",2025-09-01,Positive
+727,Electronics,1,Poor customer service.,2025-03-29,Negative
+728,Home,4,I love this product.,2025-11-27,Positive
+729,Electronics,5,"Excellent product, very satisfied!",2025-09-28,Positive
+730,Sports,2,Delivery was late and packaging was damaged.,2025-12-21,Negative
+731,Electronics,4,Good value for money.,2025-01-24,Positive
+732,Electronics,3,Nothing special about this product.,2025-10-16,Neutral
+733,Clothing,2,Not worth the money.,2025-01-09,Negative
+734,Beauty,5,Amazing quality and fast delivery.,2025-12-31,Positive
+735,Sports,1,Not worth the money.,2025-03-25,Negative
+736,Sports,2,"Very bad experience, not recommended.",2025-07-19,Negative
+737,Electronics,3,Delivery was on time.,2025-03-13,Neutral
+738,Electronics,5,Works perfectly and looks great.,2025-06-27,Positive
+739,Electronics,1,The product stopped working quickly.,2025-04-29,Negative
+740,Sports,3,Nothing special about this product.,2025-11-11,Neutral
+741,Home,4,Good value for money.,2025-01-16,Positive
+742,Home,4,I love this product.,2025-04-27,Positive
+743,Clothing,5,I love this product.,2025-08-10,Positive
+744,Electronics,5,Works perfectly and looks great.,2025-07-14,Positive
+745,Electronics,5,Good value for money.,2025-05-07,Positive
+746,Beauty,1,Not worth the money.,2025-03-20,Negative
+747,Home,2,Poor customer service.,2025-07-19,Negative
+748,Electronics,3,The product is okay.,2025-02-16,Neutral
+749,Home,3,Delivery was on time.,2025-07-04,Neutral
+750,Clothing,1,Delivery was late and packaging was damaged.,2025-02-14,Negative
+751,Sports,4,I love this product.,2025-10-13,Positive
+752,Electronics,5,I love this product.,2025-02-22,Positive
+753,Electronics,1,Not worth the money.,2025-10-11,Negative
+754,Beauty,5,"Great experience, highly recommended.",2025-06-16,Positive
+755,Beauty,1,Not worth the money.,2025-07-31,Negative
+756,Clothing,1,Poor customer service.,2025-10-14,Negative
+757,Beauty,5,"Great experience, highly recommended.",2025-03-28,Positive
+758,Home,2,Delivery was late and packaging was damaged.,2025-05-18,Negative
+759,Electronics,3,Delivery was on time.,2025-03-16,Neutral
+760,Beauty,2,The product stopped working quickly.,2025-05-22,Negative
+761,Home,3,Delivery was on time.,2025-02-09,Neutral
+762,Beauty,3,Average quality for the price.,2025-11-17,Neutral
+763,Beauty,5,"Great experience, highly recommended.",2025-04-11,Positive
+764,Electronics,1,Delivery was late and packaging was damaged.,2025-06-05,Negative
+765,Beauty,4,Good value for money.,2025-11-14,Positive
+766,Beauty,3,Delivery was on time.,2025-06-21,Neutral
+767,Home,5,Amazing quality and fast delivery.,2025-06-03,Positive
+768,Beauty,5,Works perfectly and looks great.,2025-04-13,Positive
+769,Home,3,Average quality for the price.,2025-07-23,Neutral
+770,Beauty,3,An ordinary purchase.,2025-12-22,Neutral
+771,Beauty,5,Amazing quality and fast delivery.,2025-06-16,Positive
+772,Electronics,3,Delivery was on time.,2025-07-06,Neutral
+773,Sports,5,Amazing quality and fast delivery.,2025-10-31,Positive
+774,Electronics,2,Poor customer service.,2025-10-09,Negative
+775,Beauty,4,Works perfectly and looks great.,2025-04-18,Positive
+776,Beauty,3,An ordinary purchase.,2025-02-05,Neutral
+777,Home,4,Amazing quality and fast delivery.,2025-11-21,Positive
+778,Clothing,2,Not worth the money.,2025-12-04,Negative
+779,Beauty,4,I love this product.,2025-02-07,Positive
+780,Beauty,5,I love this product.,2025-10-26,Positive
+781,Beauty,5,"Great experience, highly recommended.",2025-12-21,Positive
+782,Sports,5,"Excellent product, very satisfied!",2025-07-04,Positive
+783,Electronics,5,Works perfectly and looks great.,2025-02-13,Positive
+784,Home,2,Poor customer service.,2025-12-07,Negative
+785,Electronics,2,Poor customer service.,2025-11-10,Negative
+786,Beauty,5,Works perfectly and looks great.,2025-12-13,Positive
+787,Electronics,3,Delivery was on time.,2025-02-24,Neutral
+788,Sports,1,Not worth the money.,2025-04-24,Negative
+789,Sports,5,"Great experience, highly recommended.",2025-10-25,Positive
+790,Beauty,2,The product stopped working quickly.,2025-07-11,Negative
+791,Sports,4,Works perfectly and looks great.,2025-10-29,Positive
+792,Beauty,2,Not worth the money.,2025-01-13,Negative
+793,Electronics,1,Not worth the money.,2025-08-01,Negative
+794,Home,1,Poor customer service.,2025-03-14,Negative
+795,Clothing,3,It works as expected.,2025-08-22,Neutral
+796,Beauty,5,I love this product.,2025-06-28,Positive
+797,Beauty,1,The product stopped working quickly.,2025-12-23,Negative
+798,Electronics,3,The product is okay.,2025-06-03,Neutral
+799,Electronics,1,Very poor quality and disappointing.,2025-06-25,Negative
+800,Sports,2,Poor customer service.,2025-05-05,Negative
+801,Home,2,"Very bad experience, not recommended.",2025-03-23,Negative
+802,Clothing,5,I love this product.,2025-08-25,Positive
+803,Clothing,4,Works perfectly and looks great.,2025-04-05,Positive
+804,Sports,4,I love this product.,2025-01-15,Positive
+805,Beauty,2,The product stopped working quickly.,2025-10-31,Negative
+806,Clothing,4,"Excellent product, very satisfied!",2025-12-27,Positive
+807,Electronics,2,Not worth the money.,2025-12-27,Negative
+808,Clothing,5,"Excellent product, very satisfied!",2025-10-02,Positive
+809,Beauty,3,It works as expected.,2025-04-11,Neutral
+810,Beauty,1,Not worth the money.,2025-12-10,Negative
+811,Sports,5,Works perfectly and looks great.,2025-06-10,Positive
+812,Sports,4,"Great experience, highly recommended.",2025-07-20,Positive
+813,Beauty,1,Not worth the money.,2025-06-30,Negative
+814,Home,5,Amazing quality and fast delivery.,2025-12-11,Positive
+815,Clothing,5,"Great experience, highly recommended.",2025-02-13,Positive
+816,Home,3,The product is okay.,2025-05-03,Neutral
+817,Clothing,1,Delivery was late and packaging was damaged.,2025-07-11,Negative
+818,Sports,5,I love this product.,2025-08-03,Positive
+819,Beauty,2,"Very bad experience, not recommended.",2025-07-16,Negative
+820,Sports,2,The product stopped working quickly.,2025-11-22,Negative
+821,Beauty,2,"Very bad experience, not recommended.",2025-03-27,Negative
+822,Home,3,Average quality for the price.,2025-04-06,Neutral
+823,Home,4,"Great experience, highly recommended.",2025-01-28,Positive
+824,Clothing,1,The product stopped working quickly.,2025-03-11,Negative
+825,Beauty,4,"Great experience, highly recommended.",2025-09-16,Positive
+826,Beauty,4,Works perfectly and looks great.,2025-09-09,Positive
+827,Electronics,4,I love this product.,2025-03-27,Positive
+828,Home,5,"Excellent product, very satisfied!",2025-04-23,Positive
+829,Sports,1,Not worth the money.,2025-04-26,Negative
+830,Sports,3,Average quality for the price.,2025-08-23,Neutral
+831,Electronics,4,"Great experience, highly recommended.",2025-09-19,Positive
+832,Sports,5,"Excellent product, very satisfied!",2025-05-18,Positive
+833,Beauty,3,Nothing special about this product.,2025-01-22,Neutral
+834,Electronics,5,Amazing quality and fast delivery.,2025-08-06,Positive
+835,Beauty,2,Not worth the money.,2025-01-17,Negative
+836,Beauty,3,It works as expected.,2025-02-14,Neutral
+837,Sports,1,Delivery was late and packaging was damaged.,2025-04-18,Negative
+838,Beauty,3,An ordinary purchase.,2025-11-09,Neutral
+839,Clothing,2,"Very bad experience, not recommended.",2025-03-13,Negative
+840,Home,2,Very poor quality and disappointing.,2025-10-19,Negative
+841,Sports,5,Good value for money.,2025-11-02,Positive
+842,Home,2,Not worth the money.,2025-12-27,Negative
+843,Sports,3,Nothing special about this product.,2025-05-17,Neutral
+844,Electronics,1,Delivery was late and packaging was damaged.,2025-07-30,Negative
+845,Clothing,3,An ordinary purchase.,2025-03-06,Neutral
+846,Home,2,Delivery was late and packaging was damaged.,2025-12-31,Negative
+847,Beauty,2,Poor customer service.,2025-07-21,Negative
+848,Home,2,"Very bad experience, not recommended.",2025-11-20,Negative
+849,Electronics,4,I love this product.,2025-08-20,Positive
+850,Home,1,The product stopped working quickly.,2025-09-21,Negative
+851,Home,3,Delivery was on time.,2025-09-07,Neutral
+852,Beauty,5,"Excellent product, very satisfied!",2025-02-17,Positive
+853,Beauty,3,The product is okay.,2025-10-01,Neutral
+854,Beauty,2,The product stopped working quickly.,2025-04-19,Negative
+855,Home,3,It works as expected.,2025-05-26,Neutral
+856,Sports,5,"Great experience, highly recommended.",2025-03-08,Positive
+857,Electronics,4,Good value for money.,2025-12-16,Positive
+858,Beauty,1,Very poor quality and disappointing.,2025-11-17,Negative
+859,Beauty,1,Very poor quality and disappointing.,2025-03-22,Negative
+860,Clothing,4,"Excellent product, very satisfied!",2025-08-08,Positive
+861,Clothing,2,Poor customer service.,2025-06-04,Negative
+862,Home,3,The product is okay.,2025-12-02,Neutral
+863,Clothing,3,The product is okay.,2025-07-10,Neutral
+864,Home,1,The product stopped working quickly.,2025-11-17,Negative
+865,Electronics,2,The product stopped working quickly.,2025-12-02,Negative
+866,Beauty,1,Very poor quality and disappointing.,2025-04-20,Negative
+867,Clothing,1,Delivery was late and packaging was damaged.,2025-10-31,Negative
+868,Electronics,5,Works perfectly and looks great.,2025-08-16,Positive
+869,Electronics,1,Poor customer service.,2025-06-25,Negative
+870,Beauty,4,Works perfectly and looks great.,2025-03-09,Positive
+871,Electronics,1,Delivery was late and packaging was damaged.,2025-07-16,Negative
+872,Home,1,Very poor quality and disappointing.,2025-06-10,Negative
+873,Clothing,3,Average quality for the price.,2025-07-15,Neutral
+874,Sports,2,Very poor quality and disappointing.,2025-09-29,Negative
+875,Clothing,1,"Very bad experience, not recommended.",2025-11-29,Negative
+876,Clothing,4,Good value for money.,2025-04-20,Positive
+877,Beauty,4,"Great experience, highly recommended.",2025-12-18,Positive
+878,Clothing,2,Very poor quality and disappointing.,2025-02-21,Negative
+879,Home,1,"Very bad experience, not recommended.",2025-07-16,Negative
+880,Clothing,4,Good value for money.,2025-03-13,Positive
+881,Clothing,3,An ordinary purchase.,2025-02-13,Neutral
+882,Sports,5,"Great experience, highly recommended.",2025-11-04,Positive
+883,Home,3,An ordinary purchase.,2025-01-14,Neutral
+884,Sports,2,"Very bad experience, not recommended.",2025-11-07,Negative
+885,Home,2,Poor customer service.,2025-07-20,Negative
+886,Beauty,1,Delivery was late and packaging was damaged.,2025-09-11,Negative
+887,Sports,1,Delivery was late and packaging was damaged.,2025-09-13,Negative
+888,Home,1,"Very bad experience, not recommended.",2025-01-07,Negative
+889,Sports,3,Average quality for the price.,2025-07-18,Neutral
+890,Clothing,4,Good value for money.,2025-10-07,Positive
+891,Sports,4,"Excellent product, very satisfied!",2025-01-09,Positive
+892,Clothing,1,Very poor quality and disappointing.,2025-05-15,Negative
+893,Sports,1,Very poor quality and disappointing.,2025-07-23,Negative
+894,Sports,3,An ordinary purchase.,2025-12-31,Neutral
+895,Beauty,4,I love this product.,2025-12-26,Positive
+896,Sports,1,Poor customer service.,2025-10-02,Negative
+897,Electronics,5,Amazing quality and fast delivery.,2025-05-23,Positive
+898,Clothing,3,The product is okay.,2025-09-19,Neutral
+899,Beauty,2,"Very bad experience, not recommended.",2025-06-17,Negative
+900,Electronics,5,Works perfectly and looks great.,2025-11-29,Positive
+901,Clothing,3,An ordinary purchase.,2025-08-12,Neutral
+902,Beauty,1,Delivery was late and packaging was damaged.,2025-02-14,Negative
+903,Sports,1,The product stopped working quickly.,2025-11-10,Negative
+904,Clothing,1,Not worth the money.,2025-12-08,Negative
+905,Clothing,1,Very poor quality and disappointing.,2025-12-29,Negative
+906,Home,1,Delivery was late and packaging was damaged.,2025-09-12,Negative
+907,Clothing,5,"Great experience, highly recommended.",2025-05-13,Positive
+908,Electronics,3,Average quality for the price.,2025-05-18,Neutral
+909,Home,1,Not worth the money.,2025-08-08,Negative
+910,Sports,5,"Excellent product, very satisfied!",2025-05-15,Positive
+911,Sports,1,The product stopped working quickly.,2025-08-22,Negative
+912,Sports,3,The product is okay.,2025-09-13,Neutral
+913,Home,2,Not worth the money.,2025-03-22,Negative
+914,Electronics,1,"Very bad experience, not recommended.",2025-12-12,Negative
+915,Electronics,2,Poor customer service.,2025-09-18,Negative
+916,Electronics,1,Very poor quality and disappointing.,2025-05-06,Negative
+917,Clothing,4,Good value for money.,2025-07-16,Positive
+918,Beauty,2,Very poor quality and disappointing.,2025-10-11,Negative
+919,Beauty,2,Not worth the money.,2025-05-08,Negative
+920,Sports,3,It works as expected.,2025-02-09,Neutral
+921,Electronics,3,The product is okay.,2025-09-15,Neutral
+922,Electronics,2,Delivery was late and packaging was damaged.,2025-09-22,Negative
+923,Home,4,"Excellent product, very satisfied!",2025-08-27,Positive
+924,Sports,3,It works as expected.,2025-02-14,Neutral
+925,Clothing,4,"Excellent product, very satisfied!",2025-07-08,Positive
+926,Sports,3,Nothing special about this product.,2025-06-05,Neutral
+927,Sports,2,The product stopped working quickly.,2025-07-08,Negative
+928,Clothing,4,Amazing quality and fast delivery.,2025-10-07,Positive
+929,Electronics,2,Very poor quality and disappointing.,2025-07-29,Negative
+930,Electronics,2,"Very bad experience, not recommended.",2025-06-27,Negative
+931,Beauty,3,The product is okay.,2025-12-03,Neutral
+932,Sports,3,The product is okay.,2025-04-16,Neutral
+933,Electronics,2,The product stopped working quickly.,2025-09-09,Negative
+934,Electronics,2,Poor customer service.,2025-05-24,Negative
+935,Beauty,1,Delivery was late and packaging was damaged.,2025-09-24,Negative
+936,Sports,3,Delivery was on time.,2025-02-13,Neutral
+937,Beauty,1,"Very bad experience, not recommended.",2025-03-10,Negative
+938,Electronics,1,"Very bad experience, not recommended.",2025-10-18,Negative
+939,Clothing,4,Works perfectly and looks great.,2025-03-08,Positive
+940,Beauty,3,It works as expected.,2025-06-11,Neutral
+941,Home,3,It works as expected.,2025-08-20,Neutral
+942,Clothing,2,Very poor quality and disappointing.,2025-04-14,Negative
+943,Electronics,5,"Excellent product, very satisfied!",2025-03-21,Positive
+944,Home,2,The product stopped working quickly.,2025-08-27,Negative
+945,Home,4,"Excellent product, very satisfied!",2025-10-02,Positive
+946,Beauty,2,The product stopped working quickly.,2025-06-07,Negative
+947,Clothing,3,The product is okay.,2025-02-16,Neutral
+948,Sports,3,An ordinary purchase.,2025-12-23,Neutral
+949,Clothing,1,Delivery was late and packaging was damaged.,2025-06-17,Negative
+950,Home,1,Poor customer service.,2025-05-08,Negative
+951,Home,4,"Great experience, highly recommended.",2025-01-26,Positive
+952,Beauty,3,Average quality for the price.,2025-01-16,Neutral
+953,Clothing,4,"Great experience, highly recommended.",2025-10-09,Positive
+954,Clothing,1,The product stopped working quickly.,2025-02-22,Negative
+955,Clothing,1,Very poor quality and disappointing.,2025-02-01,Negative
+956,Home,2,Delivery was late and packaging was damaged.,2025-07-25,Negative
+957,Home,1,"Very bad experience, not recommended.",2025-10-28,Negative
+958,Clothing,1,Very poor quality and disappointing.,2025-02-03,Negative
+959,Home,4,Amazing quality and fast delivery.,2025-02-17,Positive
+960,Electronics,1,Very poor quality and disappointing.,2025-08-25,Negative
+961,Beauty,2,"Very bad experience, not recommended.",2025-08-10,Negative
+962,Beauty,4,"Excellent product, very satisfied!",2025-07-15,Positive
+963,Clothing,2,Not worth the money.,2025-04-20,Negative
+964,Clothing,3,It works as expected.,2025-08-17,Neutral
+965,Sports,1,"Very bad experience, not recommended.",2025-11-14,Negative
+966,Beauty,2,Poor customer service.,2025-06-01,Negative
+967,Electronics,4,"Great experience, highly recommended.",2025-09-03,Positive
+968,Clothing,1,Not worth the money.,2025-07-16,Negative
+969,Sports,4,Amazing quality and fast delivery.,2025-11-26,Positive
+970,Electronics,2,Poor customer service.,2025-10-06,Negative
+971,Beauty,4,Works perfectly and looks great.,2025-07-03,Positive
+972,Sports,5,I love this product.,2025-06-26,Positive
+973,Home,5,Good value for money.,2025-07-18,Positive
+974,Sports,2,Very poor quality and disappointing.,2025-06-13,Negative
+975,Electronics,2,Very poor quality and disappointing.,2025-05-24,Negative
+976,Sports,4,"Great experience, highly recommended.",2025-07-03,Positive
+977,Clothing,2,Delivery was late and packaging was damaged.,2025-02-21,Negative
+978,Electronics,2,Not worth the money.,2025-10-01,Negative
+979,Home,2,"Very bad experience, not recommended.",2025-07-18,Negative
+980,Sports,2,Delivery was late and packaging was damaged.,2025-05-02,Negative
+981,Home,3,An ordinary purchase.,2025-12-24,Neutral
+982,Home,5,"Excellent product, very satisfied!",2025-12-27,Positive
+983,Sports,5,"Great experience, highly recommended.",2025-03-14,Positive
+984,Home,2,The product stopped working quickly.,2025-10-05,Negative
+985,Electronics,2,The product stopped working quickly.,2025-01-20,Negative
+986,Clothing,1,Delivery was late and packaging was damaged.,2025-11-05,Negative
+987,Electronics,1,"Very bad experience, not recommended.",2025-09-02,Negative
+988,Clothing,3,Nothing special about this product.,2025-04-14,Neutral
+989,Home,3,An ordinary purchase.,2025-04-01,Neutral
+990,Sports,1,Very poor quality and disappointing.,2025-03-17,Negative
+991,Home,2,Very poor quality and disappointing.,2025-09-27,Negative
+992,Beauty,1,Not worth the money.,2025-12-27,Negative
+993,Home,5,"Excellent product, very satisfied!",2025-06-22,Positive
+994,Beauty,3,Average quality for the price.,2025-03-22,Neutral
+995,Clothing,4,Works perfectly and looks great.,2025-06-12,Positive
+996,Home,5,Works perfectly and looks great.,2025-11-11,Positive
+997,Clothing,2,Poor customer service.,2025-10-29,Negative
+998,Home,4,Good value for money.,2025-12-19,Positive
+999,Sports,2,Delivery was late and packaging was damaged.,2025-01-01,Negative
+1000,Clothing,4,"Great experience, highly recommended.",2025-01-17,Positive

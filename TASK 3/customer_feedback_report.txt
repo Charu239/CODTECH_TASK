@@ -1,0 +1,17 @@
+CUSTOMER FEEDBACK SENTIMENT ANALYSIS
+========================================
+
+Total Reviews: 1000
+Average Rating: 2.95/5
+Positive Reviews: 386
+Negative Reviews: 411
+Neutral Reviews: 203
+
+PRODUCT-WISE ANALYSIS
+             Total_Reviews  Average_Rating
+Product                                   
+Beauty                 216            2.94
+Clothing               197            2.93
+Electronics            185            2.85
+Home                   202            2.91
+Sports                 200            3.10

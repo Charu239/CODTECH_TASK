@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Product,Category,Region,Sales_Channel,Customer_Type,Payment_Method,Quantity,Unit_Price,Discount_Percent,Sales_Amount,Cost,Profit
+ORD-01488,2025-01-01,Storage Organizer,Home & Kitchen,North,Online,New,Net Banking,1,857.31,0,857.31,522.5,334.81
+ORD-01409,2025-01-01,Desk Lamp,Home & Kitchen,Central,Online,Returning,UPI,1,5912.89,0,5912.89,3720.66,2192.23
+ORD-01482,2025-01-02,Jacket,Fashion,West,In-store,Returning,UPI,1,620.83,0,620.83,439.47,181.36
+ORD-00901,2025-01-03,Water Bottle,Home & Kitchen,North,In-store,New,UPI,3,2222.99,5,6335.52,3686.15,2649.37
+ORD-01294,2025-01-03,Perfume,Beauty,East,Online,New,Cash,1,1488.47,0,1488.47,1100.58,387.89
+ORD-00845,2025-01-04,Dumbbells,Sports,Central,Online,Returning,Cash,2,1247.83,0,2495.66,1519.58,976.08
+ORD-01237,2025-01-04,Air Fryer,Home & Kitchen,South,In-store,New,UPI,3,7432.36,0,22297.08,15920.87,6376.21
+ORD-00846,2025-01-04,Dumbbells,Sports,East,Online,New,UPI,2,2877.17,10,5178.91,3573.34,1605.57
+ORD-00773,2025-01-04,Moisturizer,Beauty,West,Marketplace,Returning,Net Banking,5,2928.3,15,12445.28,10972.79,1472.49
+ORD-00381,2025-01-04,Moisturizer,Beauty,South,Online,Returning,Debit Card,1,1938.37,15,1647.61,1357.99,289.62
+ORD-00104,2025-01-05,Hair Dryer,Beauty,West,In-store,Returning,UPI,3,2909.08,10,7854.52,5043.67,2810.85
+ORD-00575,2025-01-05,Coffee Maker,Home & Kitchen,South,Marketplace,Returning,Net Banking,5,706.68,10,3180.06,2261.33,918.73
+ORD-00465,2025-01-05,Water Bottle,Home & Kitchen,West,Online,Returning,Credit Card,2,8787.18,15,14938.21,12979.74,1958.47
+ORD-01190,2025-01-05,Smart Watch,Electronics,East,Marketplace,Returning,Cash,2,6843.21,15,11633.46,10220.92,1412.54
+ORD-00707,2025-01-06,Bluetooth Speaker,Electronics,South,Online,New,Debit Card,2,21364.95,0,42729.9,30635.69,12094.21
+ORD-01279,2025-01-06,Jacket,Fashion,South,In-store,Returning,Net Banking,1,587.18,5,557.82,445.48,112.34
+ORD-01175,2025-01-06,Laptop Stand,Electronics,West,In-store,New,Credit Card,1,6860.52,0,6860.52,5266.52,1594.0
+ORD-01070,2025-01-07,Sneakers,Fashion,North,Marketplace,Returning,Cash,2,954.93,10,1718.87,1482.07,236.8
+ORD-00303,2025-01-07,Air Fryer,Home & Kitchen,South,Online,Returning,Debit Card,2,2392.62,20,3828.19,2630.9,1197.29
+ORD-00801,2025-01-08,Wireless Headphones,Electronics,North,In-store,Returning,UPI,2,2216.43,20,3546.29,3408.4,137.89
+ORD-00790,2025-01-08,Air Fryer,Home & Kitchen,West,In-store,Returning,Debit Card,1,8150.75,5,7743.21,5027.49,2715.72
+ORD-01121,2025-01-09,Coffee Maker,Home & Kitchen,Central,Online,Returning,Net Banking,3,896.74,0,2690.22,1826.18,864.04
+ORD-00410,2025-01-09,Resistance Bands,Sports,North,Online,New,Debit Card,4,3318.49,10,11946.56,8162.25,3784.31
+ORD-00839,2025-01-10,Air Fryer,Home & Kitchen,West,Marketplace,Returning,Debit Card,2,7692.23,10,13846.01,9367.79,4478.22
+ORD-01038,2025-01-10,Sports Bag,Sports,West,In-store,Returning,Net Banking,1,3205.87,10,2885.28,2487.78,397.5
+ORD-00889,2025-01-11,Storage Organizer,Home & Kitchen,Central,Online,Returning,UPI,1,592.96,20,474.37,359.83,114.54
+ORD-00415,2025-01-12,Bluetooth Speaker,Electronics,South,Online,Returning,Net Banking,5,24211.46,10,108951.57,94415.68,14535.89
+ORD-01366,2025-01-12,Sunscreen,Beauty,North,Online,New,UPI,2,992.98,5,1886.66,1098.39,788.27
+ORD-00478,2025-01-12,Backpack,Fashion,Central,Online,Returning,Net Banking,1,4979.3,10,4481.37,3810.96,670.41
+ORD-00233,2025-01-13,Resistance Bands,Sports,East,Online,Returning,Debit Card,3,3086.5,0,9259.5,5860.53,3398.97
+ORD-00300,2025-01-14,Storage Organizer,Home & Kitchen,North,In-store,Returning,Debit Card,4,1079.7,0,4318.8,2926.17,1392.63
+ORD-00540,2025-01-14,Sneakers,Fashion,South,In-store,Returning,Cash,3,849.39,10,2293.35,1531.18,762.17
+ORD-01167,2025-01-14,Sneakers,Fashion,North,Online,Returning,UPI,3,5918.53,0,17755.59,9487.68,8267.91
+ORD-00272,2025-01-15,Resistance Bands,Sports,East,Online,New,Credit Card,1,3845.06,0,3845.06,2394.56,1450.5
+ORD-00369,2025-01-15,Water Bottle,Home & Kitchen,North,Online,Returning,UPI,2,6944.19,10,12499.54,7710.91,4788.63
+ORD-00170,2025-01-15,T-Shirt,Fashion,East,Online,Returning,UPI,1,2179.32,10,1961.39,1536.21,425.18
+ORD-01399,2025-01-16,Resistance Bands,Sports,North,In-store,Returning,Debit Card,1,4526.2,10,4073.58,2401.02,1672.56
+ORD-00821,2025-01-16,Air Fryer,Home & Kitchen,West,Online,Returning,Credit Card,1,7422.92,0,7422.92,4976.01,2446.91
+ORD-01180,2025-01-16,Coffee Maker,Home & Kitchen,Central,Online,New,UPI,1,6033.18,20,4826.54,4135.63,690.91
+ORD-00454,2025-01-16,Yoga Mat,Sports,North,Marketplace,New,Credit Card,3,3420.01,15,8721.03,7558.33,1162.7
+ORD-00429,2025-01-17,Wireless Headphones,Electronics,Central,In-store,Returning,Credit Card,4,19562.88,25,58688.64,55042.83,3645.81
+ORD-01300,2025-01-19,Storage Organizer,Home & Kitchen,West,Online,Returning,Debit Card,1,8889.5,10,8000.55,6013.38,1987.17
+ORD-00830,2025-01-19,Sunscreen,Beauty,West,Online,Returning,UPI,5,2133.39,0,10666.95,6086.88,4580.07
+ORD-01493,2025-01-19,Water Bottle,Home & Kitchen,Central,Marketplace,Returning,Credit Card,4,8563.27,15,29115.12,19428.29,9686.83
+ORD-00138,2025-01-20,Laptop Stand,Electronics,North,In-store,New,Net Banking,4,17844.3,15,60670.62,41952.63,18717.99
+ORD-00385,2025-01-21,Face Cleanser,Beauty,North,Marketplace,New,Credit Card,4,1991.55,10,7169.58,5185.51,1984.07
+ORD-00787,2025-01-21,Dumbbells,Sports,Central,Marketplace,Returning,Debit Card,5,1268.64,15,5391.72,4216.86,1174.86
+ORD-01446,2025-01-23,Yoga Mat,Sports,South,Online,Returning,UPI,2,420.61,5,799.16,533.99,265.17
+ORD-00663,2025-01-23,Moisturizer,Beauty,Central,Online,New,Debit Card,1,1166.29,10,1049.66,863.53,186.13
+ORD-00147,2025-01-23,Desk Lamp,Home & Kitchen,West,Marketplace,Returning,Credit Card,2,2336.33,5,4439.03,3186.99,1252.04
+ORD-00970,2025-01-24,Dumbbells,Sports,North,Online,Returning,Debit Card,3,2782.67,5,7930.61,6372.63,1557.98
+ORD-01266,2025-01-24,T-Shirt,Fashion,East,Online,New,UPI,1,2930.98,10,2637.88,2136.47,501.41
+ORD-00844,2025-01-24,Storage Organizer,Home & Kitchen,East,In-store,New,Debit Card,1,5845.13,0,5845.13,3626.56,2218.57
+ORD-00117,2025-01-24,Moisturizer,Beauty,North,Online,Returning,Debit Card,1,747.81,5,710.42,404.74,305.68
+ORD-00328,2025-01-24,T-Shirt,Fashion,West,Online,Returning,Credit Card,2,668.58,0,1337.16,924.32,412.84
+ORD-00870,2025-01-26,Smart Watch,Electronics,East,Online,Returning,Credit Card,3,25965.22,0,77895.66,58846.38,19049.28
+ORD-01019,2025-01-27,Laptop Stand,Electronics,North,Online,New,UPI,1,8093.4,5,7688.73,4395.58,3293.15
+ORD-01099,2025-01-27,Desk Lamp,Home & Kitchen,West,In-store,New,UPI,3,1470.69,15,3750.26,2894.03,856.23
+ORD-00250,2025-01-27,Air Fryer,Home & Kitchen,East,Online,New,Cash,1,7500.39,5,7125.37,5024.74,2100.63
+ORD-01240,2025-01-27,Wireless Headphones,Electronics,West,Online,Returning,UPI,3,11769.15,0,35307.45,25583.49,9723.96
+ORD-01452,2025-01-27,Perfume,Beauty,Central,Online,New,UPI,2,3596.86,10,6474.35,5060.33,1414.02
+ORD-00817,2025-01-28,Laptop Stand,Electronics,South,Online,Returning,Net Banking,1,1622.81,20,1298.25,1103.75,194.5
+ORD-00056,2025-01-28,Smart Watch,Electronics,East,In-store,New,Net Banking,4,26055.08,10,93798.29,57403.94,36394.35
+ORD-00902,2025-01-28,Desk Lamp,Home & Kitchen,West,Online,Returning,Credit Card,2,2018.38,15,3431.25,2393.19,1038.06
+ORD-00562,2025-01-28,Hair Dryer,Beauty,East,Online,New,Debit Card,2,689.67,5,1310.37,791.07,519.3
+ORD-00397,2025-01-29,Sports Bag,Sports,North,Online,Returning,UPI,1,2933.9,0,2933.9,1821.99,1111.91
+ORD-00352,2025-01-29,Desk Lamp,Home & Kitchen,North,In-store,Returning,Cash,1,4686.24,10,4217.62,3030.54,1187.08
+ORD-00811,2025-01-29,Perfume,Beauty,East,Online,New,Net Banking,1,1346.94,15,1144.9,712.65,432.25
+ORD-01110,2025-01-29,Coffee Maker,Home & Kitchen,East,In-store,New,Credit Card,1,3395.54,0,3395.54,2627.42,768.12
+ORD-01463,2025-01-31,Perfume,Beauty,South,In-store,New,UPI,3,212.35,10,573.34,340.41,232.93
+ORD-01286,2025-02-01,Resistance Bands,Sports,North,In-store,Returning,Debit Card,1,1129.4,10,1016.46,709.31,307.15
+ORD-01270,2025-02-01,Storage Organizer,Home & Kitchen,West,In-store,New,Credit Card,1,2203.39,15,1872.88,1328.84,544.04
+ORD-00699,2025-02-01,T-Shirt,Fashion,North,In-store,Returning,UPI,1,1249.59,15,1062.15,953.99,108.16
+ORD-00574,2025-02-01,Resistance Bands,Sports,South,In-store,Returning,UPI,1,3660.99,5,3477.94,2443.27,1034.67
+ORD-01464,2025-02-02,Sneakers,Fashion,Central,Online,Returning,UPI,1,4671.05,5,4437.5,3615.11,822.39
+ORD-00848,2025-02-02,Laptop Stand,Electronics,West,In-store,Returning,Credit Card,1,11464.11,15,9744.49,8602.99,1141.5
+ORD-01453,2025-02-02,Face Cleanser,Beauty,West,Online,Returning,Debit Card,1,3191.8,5,3032.21,2038.91,993.3
+ORD-00887,2025-02-03,Air Fryer,Home & Kitchen,Central,Online,Returning,Net Banking,1,6797.78,5,6457.89,4480.2,1977.69
+ORD-00584,2025-02-03,Sunscreen,Beauty,West,Online,New,UPI,3,3325.23,15,8479.34,6163.08,2316.26
+ORD-00898,2025-02-04,Dumbbells,Sports,South,Online,New,Cash,3,4034.29,10,10892.58,6709.67,4182.91
+ORD-00546,2025-02-04,Air Fryer,Home & Kitchen,East,Marketplace,Returning,Credit Card,3,2656.58,15,6774.28,4716.89,2057.39
+ORD-01026,2025-02-05,Backpack,Fashion,Central,Marketplace,Returning,Cash,3,1101.09,0,3303.27,2256.85,1046.42
+ORD-01021,2025-02-05,T-Shirt,Fashion,South,Online,Returning,UPI,1,1353.35,20,1082.68,814.31,268.37
+ORD-00542,2025-02-05,Backpack,Fashion,East,Online,New,UPI,1,6214.41,10,5592.97,4569.49,1023.48
+ORD-01267,2025-02-05,Air Fryer,Home & Kitchen,South,Online,New,Cash,2,4389.89,10,7901.8,4739.42,3162.38
+ORD-00858,2025-02-06,Desk Lamp,Home & Kitchen,South,Online,New,Credit Card,4,5610.44,0,22441.76,17294.76,5147.0
+ORD-01136,2025-02-07,Storage Organizer,Home & Kitchen,North,In-store,Returning,UPI,2,2090.51,20,3344.82,2875.48,469.34
+ORD-00150,2025-02-07,Sneakers,Fashion,North,Online,Returning,UPI,1,999.61,10,899.65,638.86,260.79
+ORD-01470,2025-02-08,Coffee Maker,Home & Kitchen,South,Marketplace,Returning,UPI,1,2482.98,5,2358.83,1911.86,446.97
+ORD-01351,2025-02-08,Yoga Mat,Sports,North,Marketplace,New,Debit Card,1,1504.06,15,1278.45,1015.8,262.65
+ORD-01411,2025-02-08,Coffee Maker,Home & Kitchen,South,Marketplace,Returning,Debit Card,4,4684.23,15,15926.38,11004.27,4922.11
+ORD-00619,2025-02-09,USB-C Hub,Electronics,South,Online,New,Debit Card,2,17033.36,5,32363.38,23768.91,8594.47
+ORD-00036,2025-02-10,Storage Organizer,Home & Kitchen,West,Online,Returning,Net Banking,1,2777.46,20,2221.97,1774.8,447.17
+ORD-00279,2025-02-11,Yoga Mat,Sports,South,Online,Returning,Credit Card,3,1739.17,10,4695.76,2931.45,1764.31
+ORD-01456,2025-02-11,Jacket,Fashion,South,In-store,Returning,Debit Card,2,5137.49,10,9247.48,6328.55,2918.93
+ORD-00518,2025-02-12,Sunscreen,Beauty,North,In-store,Returning,UPI,1,1538.26,5,1461.35,916.5,544.85
+ORD-01035,2025-02-12,Coffee Maker,Home & Kitchen,North,Marketplace,New,Cash,1,8995.33,0,8995.33,6812.69,2182.64
+ORD-01362,2025-02-12,T-Shirt,Fashion,East,Online,Returning,Debit Card,6,3652.48,0,21914.88,15316.31,6598.57
+ORD-00387,2025-02-13,Jacket,Fashion,East,Online,New,Debit Card,2,5797.43,0,11594.86,9016.66,2578.2
+ORD-00045,2025-02-13,Laptop Stand,Electronics,West,Online,Returning,UPI,1,9235.69,0,9235.69,5034.51,4201.18
+ORD-00899,2025-02-14,Perfume,Beauty,North,In-store,Returning,Net Banking,1,2817.79,15,2395.12,1607.43,787.69
+ORD-01022,2025-02-15,Resistance Bands,Sports,North,Online,Returning,Debit Card,1,1602.56,10,1442.3,958.92,483.38
+ORD-00659,2025-02-16,Face Cleanser,Beauty,Central,Online,Returning,Debit Card,1,3735.0,20,2988.0,2660.22,327.78
+ORD-01215,2025-02-17,Sports Bag,Sports,East,Online,Returning,Credit Card,3,3594.14,15,9165.06,7454.57,1710.49
+ORD-01253,2025-02-17,Face Cleanser,Beauty,North,In-store,Returning,Cash,2,3654.12,5,6942.83,4492.74,2450.09
+ORD-01055,2025-02-18,Running Bottle,Sports,West,In-store,New,Cash,3,4237.49,5,12076.85,8639.34,3437.51
+ORD-00069,2025-02-18,Sneakers,Fashion,West,In-store,New,Net Banking,1,4488.48,0,4488.48,2785.28,1703.2
+ORD-01027,2025-02-19,Running Bottle,Sports,West,Online,Returning,Cash,1,4647.03,5,4414.68,3558.74,855.94
+ORD-00127,2025-02-20,Coffee Maker,Home & Kitchen,East,Marketplace,New,Net Banking,1,2500.48,5,2375.46,1766.24,609.22
+ORD-00217,2025-02-20,Perfume,Beauty,South,Online,Returning,UPI,2,3928.37,5,7463.9,5395.72,2068.18
+ORD-01096,2025-02-21,Sneakers,Fashion,South,In-store,New,Cash,1,4394.58,10,3955.12,3032.97,922.15
+ORD-00439,2025-02-21,Smart Watch,Electronics,North,In-store,Returning,Credit Card,1,14930.94,10,13437.85,10452.89,2984.96
+ORD-00280,2025-02-22,Coffee Maker,Home & Kitchen,North,In-store,New,UPI,2,8351.3,10,15032.34,11266.18,3766.16
+ORD-01361,2025-02-22,T-Shirt,Fashion,South,In-store,Returning,Credit Card,5,5404.46,0,27022.3,15722.48,11299.82
+ORD-01122,2025-02-23,Coffee Maker,Home & Kitchen,West,Online,New,UPI,1,2214.26,10,1992.83,1452.29,540.54
+ORD-00678,2025-02-23,Laptop Stand,Electronics,East,Online,Returning,UPI,3,19884.8,10,53688.96,43697.35,9991.61
+ORD-00246,2025-02-23,Air Fryer,Home & Kitchen,East,Online,New,UPI,2,5445.8,10,9802.44,8142.48,1659.96
+ORD-00431,2025-02-23,Yoga Mat,Sports,East,In-store,Returning,Debit Card,1,2607.63,5,2477.25,1931.02,546.23
+ORD-01256,2025-02-24,Sunscreen,Beauty,North,In-store,New,Debit Card,2,1330.23,0,2660.46,1938.43,722.03
+ORD-00881,2025-02-24,Backpack,Fashion,West,Online,New,UPI,2,1772.45,0,3544.9,2353.84,1191.06
+ORD-00007,2025-02-24,Air Fryer,Home & Kitchen,East,Online,Returning,Net Banking,2,1285.07,0,2570.14,1426.09,1144.05
+ORD-01328,2025-02-24,Bluetooth Speaker,Electronics,West,Online,Returning,Net Banking,1,6134.2,5,5827.49,3346.53,2480.96
+ORD-00196,2025-02-25,Water Bottle,Home & Kitchen,South,In-store,Returning,UPI,1,1528.68,0,1528.68,926.62,602.06
+ORD-00753,2025-02-25,Desk Lamp,Home & Kitchen,South,Online,Returning,Cash,1,3058.11,10,2752.3,2153.44,598.86
+ORD-00728,2025-02-25,Hair Dryer,Beauty,South,Online,New,Credit Card,3,1115.2,10,3011.04,2023.04,988.0
+ORD-00001,2025-02-26,Desk Lamp,Home & Kitchen,West,Online,Returning,UPI,1,7894.51,10,7105.06,5807.12,1297.94
+ORD-00172,2025-02-27,Hair Dryer,Beauty,West,Online,Returning,Credit Card,3,2756.83,15,7029.92,6290.62,739.3
+ORD-00826,2025-02-27,Smart Watch,Electronics,East,Online,Returning,Credit Card,1,2157.93,15,1834.24,1478.91,355.33
+ORD-00133,2025-02-27,Moisturizer,Beauty,North,Online,Returning,Net Banking,6,1766.31,5,10067.97,8109.07,1958.9
+ORD-00695,2025-02-27,Smart Watch,Electronics,West,Marketplace,Returning,Net Banking,2,15797.12,10,28434.82,23825.7,4609.12
+ORD-00359,2025-02-28,Moisturizer,Beauty,West,Online,Returning,Cash,2,2482.25,20,3971.6,3237.33,734.27
+ORD-00910,2025-02-28,Bluetooth Speaker,Electronics,West,Marketplace,New,UPI,1,24178.64,0,24178.64,16955.2,7223.44
+ORD-00033,2025-02-28,Desk Lamp,Home & Kitchen,South,In-store,New,Debit Card,1,3734.89,15,3174.66,2139.18,1035.48
+ORD-00951,2025-03-01,Moisturizer,Beauty,South,Online,Returning,Net Banking,3,167.13,5,476.32,364.22,112.1
+ORD-00581,2025-03-01,Dumbbells,Sports,West,Online,Returning,Credit Card,2,3637.33,0,7274.66,4728.29,2546.37
+ORD-00376,2025-03-02,Jacket,Fashion,South,In-store,New,Credit Card,2,1647.36,0,3294.72,1950.34,1344.38
+ORD-00977,2025-03-02,Air Fryer,Home & Kitchen,North,Online,Returning,Cash,1,6458.01,10,5812.21,4114.48,1697.73
+ORD-00700,2025-03-02,USB-C Hub,Electronics,South,In-store,Returning,Credit Card,1,6869.63,10,6182.67,4640.61,1542.06
+ORD-00674,2025-03-02,Air Fryer,Home & Kitchen,South,Online,Returning,UPI,5,4925.76,10,22165.92,16374.43,5791.49
+ORD-00243,2025-03-02,Running Bottle,Sports,Central,In-store,New,Cash,1,387.56,10,348.8,265.0,83.8
+ORD-00010,2025-03-02,Wallet,Fashion,West,Online,Returning,UPI,3,499.85,10,1349.6,1098.89,250.71
+ORD-00218,2025-03-03,USB-C Hub,Electronics,North,In-store,Returning,Cash,3,27805.36,5,79245.28,48856.14,30389.14
+ORD-00791,2025-03-03,Sports Bag,Sports,South,Online,New,Cash,3,1374.79,10,3711.93,3092.0,619.93
+ORD-00087,2025-03-04,Dumbbells,Sports,North,In-store,Returning,Credit Card,2,1514.93,10,2726.87,1947.57,779.3
+ORD-00588,2025-03-05,Sneakers,Fashion,East,Online,Returning,Credit Card,2,3573.9,10,6433.02,3873.59,2559.43
+ORD-00891,2025-03-05,Yoga Mat,Sports,North,In-store,Returning,UPI,1,2980.01,15,2533.01,2076.9,456.11
+ORD-00580,2025-03-06,Laptop Stand,Electronics,North,In-store,Returning,Net Banking,3,2894.11,10,7814.1,5822.71,1991.39
+ORD-01436,2025-03-07,Smart Watch,Electronics,East,In-store,Returning,Net Banking,2,27898.67,10,50217.61,29405.0,20812.61
+ORD-00258,2025-03-07,Coffee Maker,Home & Kitchen,South,Marketplace,New,Credit Card,2,8125.1,0,16250.2,10249.66,6000.54
+ORD-01289,2025-03-07,T-Shirt,Fashion,Central,Marketplace,Returning,Debit Card,3,3393.92,10,9163.58,6613.76,2549.82
+ORD-01359,2025-03-07,Air Fryer,Home & Kitchen,East,In-store,New,Debit Card,2,6148.76,5,11682.64,7169.15,4513.49
+ORD-01450,2025-03-07,Running Bottle,Sports,North,In-store,Returning,Credit Card,2,1555.58,0,3111.16,1965.6,1145.56
+ORD-01166,2025-03-08,Laptop Stand,Electronics,South,In-store,Returning,UPI,2,26738.84,10,48129.91,34519.77,13610.14
+ORD-00516,2025-03-09,Sports Bag,Sports,West,Online,Returning,Debit Card,2,4681.66,15,7958.82,5881.09,2077.73
+ORD-00460,2025-03-09,Water Bottle,Home & Kitchen,West,In-store,Returning,Net Banking,6,8767.1,0,52602.6,29500.17,23102.43
+ORD-00171,2025-03-09,Wireless Headphones,Electronics,Central,Online,Returning,Net Banking,1,5539.1,10,4985.19,4141.9,843.29
+ORD-00818,2025-03-09,Wireless Headphones,Electronics,South,Marketplace,New,Net Banking,1,1044.25,15,887.61,738.49,149.12
+ORD-01227,2025-03-10,T-Shirt,Fashion,East,In-store,New,Net Banking,2,4875.65,10,8776.17,6419.68,2356.49
+ORD-00583,2025-03-10,Backpack,Fashion,South,Online,Returning,Credit Card,1,1692.09,10,1522.88,1029.46,493.42
+ORD-00322,2025-03-10,Jacket,Fashion,South,Online,New,UPI,1,2051.25,5,1948.69,1552.02,396.67
+ORD-00480,2025-03-11,Bluetooth Speaker,Electronics,East,Marketplace,New,UPI,2,20394.09,10,36709.36,30847.99,5861.37
+ORD-00310,2025-03-11,Sports Bag,Sports,North,In-store,Returning,Credit Card,5,3301.57,5,15682.46,12715.73,2966.73
+ORD-01272,2025-03-11,Smart Watch,Electronics,East,Marketplace,Returning,Net Banking,2,23982.92,10,43169.26,33778.3,9390.96
+ORD-01489,2025-03-12,Water Bottle,Home & Kitchen,South,Marketplace,New,Credit Card,5,8943.03,10,40243.64,28764.47,11479.17
+ORD-00808,2025-03-12,Jacket,Fashion,West,Online,Returning,UPI,4,651.23,20,2083.94,2023.51,60.43
+ORD-01484,2025-03-13,Perfume,Beauty,South,Online,Returning,Cash,1,2636.01,0,2636.01,1810.74,825.27
+ORD-01466,2025-03-13,Wireless Headphones,Electronics,North,Online,New,Credit Card,1,24264.51,0,24264.51,17220.71,7043.8
+ORD-01216,2025-03-14,Laptop Stand,Electronics,North,Online,New,Credit Card,4,16134.23,0,64536.92,34324.17,30212.75
+ORD-00501,2025-03-14,Wireless Headphones,Electronics,South,Online,Returning,UPI,3,19622.16,15,50036.51,39447.04,10589.47
+ORD-00873,2025-03-14,Dumbbells,Sports,North,Online,Returning,Credit Card,1,3369.03,0,3369.03,2562.64,806.39
+ORD-00365,2025-03-15,Perfume,Beauty,South,In-store,Returning,Cash,2,3087.68,25,4631.52,3463.65,1167.87
+ORD-01020,2025-03-15,Running Bottle,Sports,West,In-store,Returning,Credit Card,2,3694.12,0,7388.24,5031.75,2356.49
+ORD-00120,2025-03-15,USB-C Hub,Electronics,South,In-store,New,Cash,3,23968.1,5,68309.08,50630.02,17679.06
+ORD-00538,2025-03-15,Storage Organizer,Home & Kitchen,East,Online,Returning,UPI,2,2313.48,10,4164.26,2772.66,1391.6
+ORD-01321,2025-03-15,Hair Dryer,Beauty,West,In-store,New,Debit Card,3,3258.07,0,9774.21,5195.82,4578.39
+ORD-00726,2025-03-16,T-Shirt,Fashion,West,Online,Returning,Credit Card,1,5289.13,0,5289.13,4088.48,1200.65
+ORD-00198,2025-03-17,Face Cleanser,Beauty,North,Online,New,Cash,2,1094.34,5,2079.25,1335.55,743.7
+ORD-00497,2025-03-17,Jacket,Fashion,West,Online,Returning,Credit Card,1,776.62,10,698.96,459.34,239.62
+ORD-00778,2025-03-17,Wallet,Fashion,North,In-store,Returning,Cash,1,4376.43,0,4376.43,2473.9,1902.53
+ORD-00313,2025-03-17,Storage Organizer,Home & Kitchen,East,In-store,Returning,UPI,1,2472.74,0,2472.74,1731.18,741.56
+ORD-01157,2025-03-18,Water Bottle,Home & Kitchen,Central,Marketplace,Returning,Credit Card,1,4517.25,5,4291.39,3515.8,775.59
+ORD-00946,2025-03-18,Sneakers,Fashion,Central,Online,Returning,Credit Card,1,519.82,10,467.84,315.82,152.02
+ORD-00863,2025-03-18,Running Bottle,Sports,West,Online,New,UPI,4,534.7,5,2031.86,1650.36,381.5
+ORD-01343,2025-03-18,T-Shirt,Fashion,East,Online,Returning,Credit Card,2,412.69,0,825.38,501.08,324.3
+ORD-00724,2025-03-18,Wallet,Fashion,South,Online,New,Net Banking,2,2601.69,25,3902.54,3996.23,-93.69
+ORD-01050,2025-03-18,Jacket,Fashion,West,Online,New,UPI,2,4673.74,0,9347.48,4913.77,4433.71
+ORD-00784,2025-03-19,Resistance Bands,Sports,South,Online,New,UPI,1,1312.57,10,1181.31,920.72,260.59
+ORD-00418,2025-03-19,Sneakers,Fashion,West,In-store,New,Credit Card,2,4868.32,0,9736.64,6486.88,3249.76
+ORD-00436,2025-03-20,Running Bottle,Sports,East,Online,Returning,Debit Card,1,2888.99,10,2600.09,1813.99,786.1
+ORD-00783,2025-03-20,Wallet,Fashion,Central,Marketplace,Returning,Debit Card,2,4397.15,10,7914.87,6275.9,1638.97
+ORD-00386,2025-03-20,Air Fryer,Home & Kitchen,West,Marketplace,Returning,Debit Card,1,4752.98,5,4515.33,3175.87,1339.46
+ORD-01238,2025-03-21,Sports Bag,Sports,Central,In-store,Returning,Debit Card,3,1091.38,10,2946.73,2132.44,814.29
+ORD-00874,2025-03-21,Smart Watch,Electronics,North,In-store,New,Debit Card,5,7667.84,15,32588.32,21157.45,11430.87
+ORD-00157,2025-03-22,Backpack,Fashion,North,Marketplace,Returning,Cash,2,3161.66,15,5374.82,4856.47,518.35
+ORD-00018,2025-03-23,Wireless Headphones,Electronics,North,Online,Returning,UPI,2,11521.18,20,18433.89,12597.76,5836.13
+ORD-00759,2025-03-23,Bluetooth Speaker,Electronics,Central,Online,Returning,Cash,2,2972.89,5,5648.49,3731.53,1916.96
+ORD-00221,2025-03-23,Storage Organizer,Home & Kitchen,South,Online,Returning,Credit Card,1,8804.96,15,7484.22,5780.39,1703.83
+ORD-01005,2025-03-23,Storage Organizer,Home & Kitchen,East,Marketplace,Returning,UPI,4,2908.25,5,11051.35,7928.55,3122.8
+ORD-00705,2025-03-24,Storage Organizer,Home & Kitchen,North,Online,Returning,Debit Card,1,2936.47,5,2789.65,2200.55,589.1
+ORD-00945,2025-03-24,Dumbbells,Sports,North,Marketplace,Returning,Net Banking,1,1716.23,10,1544.61,1166.62,377.99
+ORD-00074,2025-03-24,Sports Bag,Sports,West,Online,New,Debit Card,1,3465.15,0,3465.15,2415.13,1050.02
+ORD-00434,2025-03-25,USB-C Hub,Electronics,South,Online,Returning,Credit Card,2,13217.41,25,19826.11,17027.0,2799.11
+ORD-00443,2025-03-26,Perfume,Beauty,North,In-store,Returning,UPI,2,2866.24,5,5445.86,4033.65,1412.21
+ORD-00670,2025-03-26,Face Cleanser,Beauty,East,Online,Returning,Debit Card,3,3502.44,20,8405.86,7588.0,817.86
+ORD-00414,2025-03-26,Bluetooth Speaker,Electronics,North,Marketplace,Returning,Net Banking,2,26967.9,20,43148.64,29483.15,13665.49
+ORD-00604,2025-03-27,Storage Organizer,Home & Kitchen,South,In-store,New,UPI,2,3680.3,0,7360.6,5724.92,1635.68
+ORD-01358,2025-03-27,Moisturizer,Beauty,South,In-store,New,Net Banking,2,2688.38,0,5376.76,3093.47,2283.29
+ORD-00948,2025-03-27,Running Bottle,Sports,North,Online,Returning,UPI,1,1395.09,10,1255.58,973.97,281.61
+ORD-00682,2025-03-29,Jacket,Fashion,North,Online,Returning,Cash,1,472.26,5,448.65,348.47,100.18
+ORD-00823,2025-03-29,Jacket,Fashion,East,Marketplace,Returning,Credit Card,2,3609.45,0,7218.9,5374.1,1844.8
+ORD-01342,2025-03-29,Perfume,Beauty,North,Online,New,Credit Card,4,3906.44,0,15625.76,9810.29,5815.47
+ORD-00721,2025-03-30,Moisturizer,Beauty,West,Online,Returning,Debit Card,1,2961.13,5,2813.07,1868.93,944.14
+ORD-00118,2025-03-31,Running Bottle,Sports,West,In-store,New,UPI,2,2946.41,15,5008.9,4586.76,422.14
+ORD-00100,2025-03-31,Hair Dryer,Beauty,North,Online,New,UPI,4,3884.95,10,13985.82,10593.19,3392.63
+ORD-00241,2025-03-31,Sneakers,Fashion,Central,Online,Returning,UPI,5,2131.52,10,9591.84,7048.4,2543.44
+ORD-00306,2025-03-31,Resistance Bands,Sports,North,In-store,New,UPI,2,2460.64,5,4675.22,2587.35,2087.87
+ORD-00462,2025-03-31,Running Bottle,Sports,West,Online,Returning,Debit Card,1,369.95,5,351.45,212.12,139.33
+ORD-01445,2025-03-31,Sneakers,Fashion,North,Online,New,Cash,1,3677.64,5,3493.76,2674.15,819.61
+ORD-00769,2025-03-31,Bluetooth Speaker,Electronics,West,Marketplace,Returning,Cash,1,19692.28,10,17723.05,13470.88,4252.17
+ORD-00620,2025-03-31,Coffee Maker,Home & Kitchen,Central,In-store,New,UPI,2,6589.13,25,9883.7,7788.85,2094.85
+ORD-01090,2025-04-01,Sports Bag,Sports,North,In-store,New,UPI,1,2610.51,15,2218.93,1663.49,555.44
+ORD-00329,2025-04-01,Wallet,Fashion,East,Marketplace,Returning,Cash,2,618.56,0,1237.12,775.9,461.22
+ORD-01187,2025-04-01,Jacket,Fashion,North,Online,New,Cash,1,3894.87,0,3894.87,2253.54,1641.33
+ORD-01063,2025-04-02,Resistance Bands,Sports,North,Online,New,Net Banking,2,4110.88,10,7399.58,6409.02,990.56
+ORD-00528,2025-04-02,Wireless Headphones,Electronics,North,Online,New,UPI,3,3145.13,0,9435.39,6696.76,2738.63
+ORD-00408,2025-04-02,Bluetooth Speaker,Electronics,South,Online,New,Cash,1,4332.52,0,4332.52,2759.2,1573.32
+ORD-00834,2025-04-02,Water Bottle,Home & Kitchen,East,Online,Returning,UPI,1,6469.24,0,6469.24,3421.27,3047.97
+ORD-00924,2025-04-03,Smart Watch,Electronics,Central,Online,Returning,Net Banking,1,2004.37,0,2004.37,1533.21,471.16
+ORD-00256,2025-04-03,Desk Lamp,Home & Kitchen,West,In-store,Returning,Net Banking,2,2081.65,20,3330.64,3102.1,228.54
+ORD-00522,2025-04-04,Storage Organizer,Home & Kitchen,Central,Marketplace,Returning,Debit Card,5,5740.9,10,25834.05,16791.23,9042.82
+ORD-00457,2025-04-05,Backpack,Fashion,Central,Marketplace,Returning,Debit Card,5,1568.34,0,7841.7,4541.03,3300.67
+ORD-00975,2025-04-05,Backpack,Fashion,North,In-store,Returning,Debit Card,1,4282.98,0,4282.98,2675.74,1607.24
+ORD-00938,2025-04-05,Backpack,Fashion,West,Online,Returning,Cash,1,1991.2,5,1891.64,1396.92,494.72
+ORD-00752,2025-04-05,Sunscreen,Beauty,East,Online,New,Credit Card,3,3583.21,0,10749.63,6247.28,4502.35
+ORD-01481,2025-04-07,Desk Lamp,Home & Kitchen,South,In-store,Returning,UPI,2,8773.8,5,16670.22,9241.46,7428.76
+ORD-00273,2025-04-07,Face Cleanser,Beauty,West,Online,Returning,Credit Card,1,3697.88,5,3512.99,2505.66,1007.33
+ORD-00357,2025-04-07,USB-C Hub,Electronics,East,Online,New,Credit Card,2,27540.35,20,44064.56,41717.42,2347.14
+ORD-01104,2025-04-07,Running Bottle,Sports,South,Marketplace,New,Net Banking,6,4081.44,15,20815.34,18632.16,2183.18
+ORD-00182,2025-04-08,Coffee Maker,Home & Kitchen,South,Online,Returning,UPI,3,1123.49,15,2864.9,1883.15,981.75
+ORD-00390,2025-04-08,Running Bottle,Sports,South,Marketplace,New,UPI,1,311.4,15,264.69,174.38,90.31
+ORD-00961,2025-04-08,Sports Bag,Sports,South,In-store,New,Net Banking,2,2433.36,0,4866.72,3373.54,1493.18
+ORD-00058,2025-04-09,USB-C Hub,Electronics,North,In-store,Returning,Debit Card,1,27862.41,20,22289.93,21680.89,609.04
+ORD-01046,2025-04-09,Water Bottle,Home & Kitchen,South,Online,Returning,UPI,2,4373.72,15,7435.32,5808.79,1626.53
+ORD-00536,2025-04-09,Moisturizer,Beauty,West,Online,New,Net Banking,4,1516.2,20,4851.84,4236.17,615.67
+ORD-01229,2025-04-09,Running Bottle,Sports,East,Marketplace,New,Credit Card,3,550.54,0,1651.62,1266.52,385.1
+ORD-01406,2025-04-10,Face Cleanser,Beauty,East,Marketplace,New,Debit Card,3,923.74,10,2494.1,1904.67,589.43
+ORD-00847,2025-04-10,Laptop Stand,Electronics,West,In-store,New,UPI,3,23523.4,5,67041.69,36900.49,30141.2
+ORD-00884,2025-04-10,Dumbbells,Sports,East,Online,Returning,Debit Card,2,1892.89,20,3028.62,2067.71,960.91
+ORD-00533,2025-04-10,Air Fryer,Home & Kitchen,East,Online,Returning,UPI,6,8670.16,5,49419.91,30279.58,19140.33
+ORD-00937,2025-04-11,T-Shirt,Fashion,South,Marketplace,Returning,UPI,1,2064.25,5,1961.04,1152.38,808.66
+ORD-00750,2025-04-11,Running Bottle,Sports,North,Marketplace,Returning,Credit Card,2,882.92,5,1677.55,1124.66,552.89
+ORD-00083,2025-04-13,Coffee Maker,Home & Kitchen,West,Marketplace,Returning,Credit Card,2,1277.4,5,2427.06,1766.46,660.6
+ORD-00287,2025-04-13,Storage Organizer,Home & Kitchen,West,Online,Returning,UPI,3,7884.69,10,21288.66,15750.06,5538.6
+ORD-00178,2025-04-13,Sunscreen,Beauty,South,Online,New,Net Banking,3,2057.17,20,4937.21,3740.15,1197.06
+ORD-01487,2025-04-14,USB-C Hub,Electronics,West,Online,New,Debit Card,1,4386.23,5,4166.92,3263.07,903.85
+ORD-01076,2025-04-15,Laptop Stand,Electronics,South,Online,Returning,UPI,1,21104.96,20,16883.97,12202.45,4681.52
+ORD-00467,2025-04-16,Air Fryer,Home & Kitchen,East,Online,New,UPI,2,2011.49,5,3821.83,2533.51,1288.32
+ORD-00623,2025-04-16,Desk Lamp,Home & Kitchen,South,Online,New,UPI,2,8560.1,15,14552.17,10683.32,3868.85
+ORD-00350,2025-04-16,USB-C Hub,Electronics,South,In-store,Returning,UPI,2,1516.29,0,3032.58,1770.06,1262.52
+ORD-01078,2025-04-16,Wallet,Fashion,East,In-store,Returning,Debit Card,1,1385.11,15,1177.34,747.2,430.14
+ORD-00532,2025-04-16,Water Bottle,Home & Kitchen,North,Marketplace,Returning,Debit Card,1,5841.59,10,5257.43,4086.36,1171.07
+ORD-00041,2025-04-16,Laptop Stand,Electronics,South,Online,Returning,Net Banking,4,3906.29,0,15625.16,8566.66,7058.5
+ORD-00187,2025-04-17,Perfume,Beauty,West,Online,Returning,UPI,3,3022.29,0,9066.87,5922.33,3144.54
+ORD-00168,2025-04-17,Wireless Headphones,Electronics,North,Online,Returning,Debit Card,1,4276.85,25,3207.64,3254.74,-47.1
+ORD-00703,2025-04-18,Perfume,Beauty,East,Online,Returning,Debit Card,2,3914.9,15,6655.33,5851.14,804.19
+ORD-00262,2025-04-19,Wallet,Fashion,West,In-store,New,Net Banking,2,1000.93,10,1801.67,1311.39,490.28
+ORD-00685,2025-04-19,Bluetooth Speaker,Electronics,North,Online,New,Debit Card,1,4718.14,0,4718.14,3583.2,1134.94
+ORD-01193,2025-04-19,Water Bottle,Home & Kitchen,East,In-store,Returning,Credit Card,1,2917.13,0,2917.13,2067.59,849.54
+ORD-01433,2025-04-20,Dumbbells,Sports,West,Online,Returning,Credit Card,1,1593.54,5,1513.86,1172.71,341.15
+ORD-00704,2025-04-20,Hair Dryer,Beauty,West,Online,New,UPI,1,1227.18,10,1104.46,870.25,234.21
+ORD-00908,2025-04-21,Perfume,Beauty,Central,Online,Returning,UPI,1,3182.62,15,2705.23,2178.24,526.99
+ORD-01032,2025-04-21,Sports Bag,Sports,South,Marketplace,New,Credit Card,1,3818.86,5,3627.92,2081.33,1546.59
+ORD-00544,2025-04-22,Storage Organizer,Home & Kitchen,South,Online,Returning,UPI,1,4834.43,10,4350.99,3598.49,752.5
+ORD-00259,2025-04-22,Running Bottle,Sports,East,Online,Returning,Debit Card,4,2111.76,5,8024.69,4815.55,3209.14
+ORD-00411,2025-04-22,USB-C Hub,Electronics,West,Online,New,Net Banking,3,10174.93,10,27472.31,21226.72,6245.59
+ORD-00230,2025-04-23,Bluetooth Speaker,Electronics,East,Online,Returning,Credit Card,4,11477.5,10,41319.0,34676.86,6642.14
+ORD-00661,2025-04-23,Dumbbells,Sports,North,Marketplace,New,Debit Card,1,1964.64,20,1571.71,1276.13,295.58
+ORD-00761,2025-04-23,USB-C Hub,Electronics,Central,In-store,New,Debit Card,2,24816.39,15,42187.86,32786.8,9401.06
+ORD-01405,2025-04-24,Backpack,Fashion,East,Online,Returning,Net Banking,1,1601.54,0,1601.54,977.73,623.81
+ORD-01174,2025-04-24,Desk Lamp,Home & Kitchen,South,In-store,Returning,Credit Card,3,1907.58,10,5150.47,3661.3,1489.17
+ORD-00392,2025-04-25,Running Bottle,Sports,West,Online,Returning,Net Banking,1,4263.04,10,3836.74,3206.11,630.63
+ORD-00251,2025-04-25,Wireless Headphones,Electronics,Central,Online,Returning,Net Banking,1,7449.56,0,7449.56,5076.07,2373.49
+ORD-01106,2025-04-26,Face Cleanser,Beauty,North,In-store,New,UPI,1,1245.53,15,1058.7,922.63,136.07
+ORD-00564,2025-04-26,Bluetooth Speaker,Electronics,North,Online,Returning,Cash,1,17847.21,20,14277.77,11051.76,3226.01
+ORD-00469,2025-04-26,Yoga Mat,Sports,South,Online,Returning,Credit Card,2,2891.89,5,5494.59,3348.5,2146.09
+ORD-00349,2025-04-26,Face Cleanser,Beauty,West,Online,Returning,Credit Card,3,2838.85,20,6813.24,6370.17,443.07
+ORD-00635,2025-04-27,Hair Dryer,Beauty,East,Marketplace,Returning,Debit Card,3,2632.49,0,7897.47,5589.43,2308.04
+ORD-00023,2025-04-27,T-Shirt,Fashion,East,In-store,New,UPI,1,5933.44,5,5636.77,3920.61,1716.16
+ORD-00912,2025-04-28,T-Shirt,Fashion,East,In-store,Returning,UPI,1,4230.82,5,4019.28,2201.48,1817.8
+ORD-01432,2025-04-29,Sunscreen,Beauty,Central,Online,Returning,Debit Card,2,2561.64,5,4867.12,2929.75,1937.37
+ORD-01326,2025-04-30,T-Shirt,Fashion,East,Online,New,Net Banking,1,318.77,10,286.89,229.2,57.69
+ORD-01345,2025-04-30,Perfume,Beauty,West,Online,New,Cash,2,1657.62,0,3315.24,1756.6,1558.64
+ORD-00072,2025-05-01,Backpack,Fashion,Central,Marketplace,New,Net Banking,2,2294.47,0,4588.94,2461.0,2127.94
+ORD-00253,2025-05-01,USB-C Hub,Electronics,South,Online,Returning,Net Banking,2,20003.43,15,34005.83,30067.16,3938.67
+ORD-00523,2025-05-03,Desk Lamp,Home & Kitchen,North,Marketplace,New,Net Banking,5,528.11,20,2112.44,1861.59,250.85
+ORD-01113,2025-05-03,Hair Dryer,Beauty,West,Online,Returning,UPI,1,1405.6,0,1405.6,856.03,549.57
+ORD-01178,2025-05-03,Dumbbells,Sports,Central,In-store,Returning,UPI,5,3728.74,5,17711.51,13186.76,4524.75
+ORD-00888,2025-05-04,Perfume,Beauty,West,Online,New,UPI,3,3128.98,0,9386.94,5875.41,3511.53
+ORD-00052,2025-05-05,Coffee Maker,Home & Kitchen,North,In-store,Returning,UPI,1,5334.75,0,5334.75,3866.28,1468.47
+ORD-00543,2025-05-05,Sneakers,Fashion,Central,Online,Returning,Cash,3,3041.72,0,9125.16,6460.79,2664.37
+ORD-01115,2025-05-05,T-Shirt,Fashion,West,In-store,Returning,Credit Card,4,365.14,0,1460.56,1069.9,390.66
+ORD-00993,2025-05-06,Wireless Headphones,Electronics,North,Online,Returning,Debit Card,1,10913.69,5,10368.01,8182.61,2185.4
+ORD-00398,2025-05-06,Running Bottle,Sports,North,In-store,New,Credit Card,3,4350.85,5,12399.92,7956.67,4443.25
+ORD-00838,2025-05-07,T-Shirt,Fashion,North,In-store,Returning,Credit Card,2,3220.49,5,6118.93,4738.03,1380.9
+ORD-00102,2025-05-08,USB-C Hub,Electronics,North,Marketplace,New,Net Banking,3,14997.3,5,42742.3,24013.51,18728.79
+ORD-00426,2025-05-08,Yoga Mat,Sports,East,Online,New,Credit Card,1,3961.76,0,3961.76,2589.49,1372.27
+ORD-01085,2025-05-08,Laptop Stand,Electronics,East,In-store,Returning,Cash,4,18672.52,10,67221.07,54151.83,13069.24
+ORD-00009,2025-05-09,Smart Watch,Electronics,North,In-store,Returning,UPI,1,19761.8,15,16797.53,11672.43,5125.1
+ORD-00872,2025-05-09,Jacket,Fashion,North,Marketplace,Returning,UPI,2,5388.88,0,10777.76,6564.1,4213.66
+ORD-01364,2025-05-09,Sneakers,Fashion,Central,In-store,Returning,UPI,3,4513.77,25,10155.98,7576.34,2579.64
+ORD-00664,2025-05-10,Perfume,Beauty,West,Online,Returning,Credit Card,5,3363.78,15,14296.06,11814.26,2481.8
+ORD-00653,2025-05-10,Moisturizer,Beauty,South,Online,Returning,UPI,1,777.74,0,777.74,588.36,189.38
+ORD-00224,2025-05-10,Face Cleanser,Beauty,West,In-store,New,Debit Card,1,2796.25,15,2376.81,1997.62,379.19
+ORD-00339,2025-05-10,Wallet,Fashion,South,Online,New,Cash,1,3887.07,15,3304.01,2532.69,771.32
+ORD-00735,2025-05-13,Sneakers,Fashion,North,In-store,New,Net Banking,3,777.2,15,1981.86,1331.92,649.94
+ORD-01474,2025-05-13,Wireless Headphones,Electronics,North,Marketplace,Returning,Credit Card,1,23527.26,0,23527.26,17380.6,6146.66
+ORD-01072,2025-05-14,Jacket,Fashion,West,Online,New,Net Banking,6,5924.93,0,35549.58,21470.98,14078.6
+ORD-00142,2025-05-17,Face Cleanser,Beauty,North,Online,New,Net Banking,3,3784.32,10,10217.66,8085.04,2132.62
+ORD-01395,2025-05-18,Storage Organizer,Home & Kitchen,South,Online,Returning,Debit Card,1,5908.46,0,5908.46,3710.8,2197.66
+ORD-00964,2025-05-19,Moisturizer,Beauty,South,In-store,Returning,Cash,1,3909.48,15,3323.06,2289.4,1033.66
+ORD-00903,2025-05-20,Desk Lamp,Home & Kitchen,West,Online,Returning,UPI,1,6484.74,15,5512.03,4886.22,625.81
+ORD-01355,2025-05-21,T-Shirt,Fashion,Central,Online,Returning,UPI,1,3224.14,15,2740.52,2392.81,347.71
+ORD-01257,2025-05-22,Sneakers,Fashion,North,Online,Returning,Debit Card,5,5806.91,10,26131.1,17179.28,8951.82
+ORD-00363,2025-05-23,Wallet,Fashion,East,Online,Returning,Credit Card,1,4209.88,0,4209.88,2677.74,1532.14
+ORD-00976,2025-05-24,Laptop Stand,Electronics,North,Online,New,Debit Card,1,3900.51,0,3900.51,2836.68,1063.83
+ORD-00078,2025-05-25,Wireless Headphones,Electronics,East,Online,New,Credit Card,1,19548.81,25,14661.61,15172.42,-510.81
+ORD-00032,2025-05-25,Face Cleanser,Beauty,North,Online,Returning,Credit Card,1,3682.81,10,3314.53,1986.52,1328.01
+ORD-00567,2025-05-26,T-Shirt,Fashion,Central,In-store,Returning,Credit Card,4,1823.73,5,6930.17,5614.42,1315.75
+ORD-00412,2025-05-27,T-Shirt,Fashion,North,Online,Returning,Credit Card,2,2509.2,15,4265.64,2627.73,1637.91
+ORD-00326,2025-05-27,Storage Organizer,Home & Kitchen,West,Online,New,Credit Card,2,4888.72,0,9777.44,6807.09,2970.35
+ORD-01479,2025-05-28,Smart Watch,Electronics,West,Online,Returning,UPI,1,6238.13,15,5302.41,4692.14,610.27
+ORD-00486,2025-05-29,Wireless Headphones,Electronics,West,Online,Returning,Credit Card,1,7733.73,10,6960.36,4780.11,2180.25
+ORD-01112,2025-05-29,Moisturizer,Beauty,West,In-store,Returning,UPI,2,1296.12,0,2592.24,1568.43,1023.81
+ORD-00626,2025-05-29,Bluetooth Speaker,Electronics,East,Online,Returning,Debit Card,1,19889.31,10,17900.38,15204.87,2695.51
+ORD-01386,2025-05-30,Wallet,Fashion,Central,Online,Returning,Credit Card,1,2210.99,5,2100.44,1546.09,554.35
+ORD-00148,2025-05-30,Wireless Headphones,Electronics,West,Online,New,Debit Card,3,13136.11,15,33497.08,28288.93,5208.15
+ORD-01291,2025-05-30,Desk Lamp,Home & Kitchen,North,Marketplace,New,Net Banking,3,2920.64,15,7447.63,6296.46,1151.17
+ORD-01288,2025-05-30,Bluetooth Speaker,Electronics,North,Marketplace,New,UPI,1,25065.53,25,18799.15,18826.0,-26.85
+ORD-00637,2025-05-31,Running Bottle,Sports,West,Online,New,UPI,4,2963.29,0,11853.16,8004.28,3848.88
+ORD-00327,2025-05-31,Backpack,Fashion,South,Online,Returning,Cash,2,3527.28,10,6349.1,4295.93,2053.17
+ORD-00719,2025-05-31,Yoga Mat,Sports,Central,Online,Returning,UPI,2,4269.43,5,8111.92,6071.8,2040.12
+ORD-00510,2025-05-31,Moisturizer,Beauty,South,Online,Returning,UPI,4,431.99,10,1555.16,1183.29,371.87
+ORD-00566,2025-06-01,Resistance Bands,Sports,West,In-store,Returning,Credit Card,1,2894.34,0,2894.34,1955.36,938.98
+ORD-01308,2025-06-01,Wallet,Fashion,South,Marketplace,Returning,Cash,2,1062.69,0,2125.38,1108.32,1017.06
+ORD-00097,2025-06-02,Water Bottle,Home & Kitchen,North,Online,New,Debit Card,1,4289.21,5,4074.75,2591.88,1482.87
+ORD-01265,2025-06-02,Air Fryer,Home & Kitchen,West,Online,Returning,Debit Card,5,2882.51,0,14412.55,8261.05,6151.5
+ORD-00189,2025-06-02,Face Cleanser,Beauty,North,Marketplace,Returning,Debit Card,2,3053.75,0,6107.5,3799.99,2307.51
+ORD-01047,2025-06-02,Backpack,Fashion,South,Marketplace,Returning,Cash,2,4245.13,10,7641.23,5524.22,2117.01
+ORD-00854,2025-06-02,Running Bottle,Sports,South,In-store,Returning,Credit Card,1,1001.92,5,951.82,545.53,406.29
+ORD-00384,2025-06-03,Yoga Mat,Sports,East,Online,Returning,UPI,4,4657.92,5,17700.1,11394.16,6305.94
+ORD-00593,2025-06-03,Backpack,Fashion,West,Online,Returning,Debit Card,2,5962.15,15,10135.65,9094.59,1041.06
+ORD-00832,2025-06-03,Water Bottle,Home & Kitchen,West,In-store,Returning,UPI,5,2214.12,10,9963.54,7537.51,2426.03
+ORD-01402,2025-06-03,Wireless Headphones,Electronics,West,Online,New,Net Banking,1,5041.74,10,4537.57,3149.53,1388.04
+ORD-01251,2025-06-04,Perfume,Beauty,South,Online,Returning,UPI,4,3192.31,15,10853.85,7274.74,3579.11
+ORD-01107,2025-06-05,Laptop Stand,Electronics,West,Online,Returning,Credit Card,2,9758.49,15,16589.43,11313.51,5275.92
+ORD-01124,2025-06-05,Perfume,Beauty,South,In-store,Returning,UPI,2,637.79,20,1020.46,911.55,108.91
+ORD-00315,2025-06-05,Desk Lamp,Home & Kitchen,South,Online,Returning,UPI,1,1752.57,10,1577.31,1146.53,430.78
+ORD-01013,2025-06-06,USB-C Hub,Electronics,Central,Online,New,UPI,2,2090.45,25,3135.68,2876.11,259.57
+ORD-01454,2025-06-06,Bluetooth Speaker,Electronics,West,Online,Returning,Net Banking,6,6255.83,10,33781.48,22673.13,11108.35
+ORD-00119,2025-06-06,Bluetooth Speaker,Electronics,South,Online,Returning,UPI,5,17664.1,0,88320.5,46130.66,42189.84
+ORD-00831,2025-06-06,Sunscreen,Beauty,East,In-store,Returning,Credit Card,2,3207.49,5,6094.23,3723.96,2370.27
+ORD-00857,2025-06-06,Hair Dryer,Beauty,West,In-store,New,UPI,2,2687.66,0,5375.32,2998.23,2377.09
+ORD-00989,2025-06-07,Wallet,Fashion,Central,Online,New,Cash,1,2404.91,10,2164.42,1445.31,719.11
+ORD-00508,2025-06-08,Sports Bag,Sports,West,In-store,New,Cash,2,1134.27,10,2041.69,1757.01,284.68
+ORD-00925,2025-06-08,Dumbbells,Sports,North,Marketplace,New,Debit Card,1,704.63,20,563.7,405.8,157.9
+ORD-00617,2025-06-09,Smart Watch,Electronics,South,In-store,Returning,UPI,1,1175.63,10,1058.07,873.77,184.3
+ORD-00483,2025-06-09,Wireless Headphones,Electronics,West,Online,Returning,Net Banking,1,27974.51,0,27974.51,20418.24,7556.27
+ORD-01413,2025-06-09,Desk Lamp,Home & Kitchen,West,In-store,New,UPI,4,1387.03,15,4715.9,3770.28,945.62
+ORD-00568,2025-06-09,Wireless Headphones,Electronics,East,Online,Returning,UPI,2,22871.74,5,43456.31,32783.53,10672.78
+ORD-00696,2025-06-11,T-Shirt,Fashion,South,Marketplace,New,UPI,2,2673.31,15,4544.63,3861.1,683.53
+ORD-01307,2025-06-12,Sunscreen,Beauty,East,In-store,New,Credit Card,2,2105.38,20,3368.61,2755.92,612.69
+ORD-00919,2025-06-12,Laptop Stand,Electronics,West,Online,New,Debit Card,3,3825.7,5,10903.24,7201.81,3701.43
+ORD-00346,2025-06-13,Desk Lamp,Home & Kitchen,West,Online,Returning,Debit Card,4,5299.17,5,20136.85,11677.5,8459.35
+ORD-01425,2025-06-13,Water Bottle,Home & Kitchen,East,In-store,Returning,UPI,1,5645.05,10,5080.54,3089.58,1990.96
+ORD-00933,2025-06-14,Dumbbells,Sports,East,In-store,Returning,Net Banking,3,2621.92,10,7079.18,5736.89,1342.29
+ORD-01179,2025-06-15,Bluetooth Speaker,Electronics,West,In-store,Returning,Cash,2,8166.25,0,16332.5,9034.86,7297.64
+ORD-00211,2025-06-16,Sneakers,Fashion,South,Marketplace,New,UPI,3,6161.94,15,15712.95,10580.47,5132.48
+ORD-01297,2025-06-17,Water Bottle,Home & Kitchen,South,In-store,Returning,UPI,2,6720.6,5,12769.14,8678.19,4090.95
+ORD-00380,2025-06-17,Hair Dryer,Beauty,Central,Online,Returning,Net Banking,3,812.44,5,2315.45,1473.1,842.35
+ORD-00209,2025-06-18,Jacket,Fashion,North,Online,New,Debit Card,2,1822.3,5,3462.37,2789.56,672.81
+ORD-01459,2025-06-18,Bluetooth Speaker,Electronics,North,In-store,New,Credit Card,3,11633.1,10,31409.37,26103.92,5305.45
+ORD-00206,2025-06-19,Moisturizer,Beauty,South,Online,Returning,UPI,2,3396.53,10,6113.75,4897.83,1215.92
+ORD-01261,2025-06-19,Wireless Headphones,Electronics,Central,Online,Returning,UPI,1,23575.66,5,22396.88,14574.08,7822.8
+ORD-00292,2025-06-20,Sports Bag,Sports,West,Online,Returning,UPI,3,4364.41,15,11129.25,9741.64,1387.61
+ORD-00618,2025-06-20,Laptop Stand,Electronics,North,In-store,Returning,Debit Card,1,2824.17,10,2541.75,1485.7,1056.05
+ORD-01429,2025-06-20,Coffee Maker,Home & Kitchen,South,Marketplace,Returning,Debit Card,3,3976.26,0,11928.78,7622.44,4306.34
+ORD-00509,2025-06-21,Jacket,Fashion,West,In-store,Returning,Cash,1,4782.98,15,4065.53,3680.62,384.91
+ORD-01011,2025-06-21,Storage Organizer,Home & Kitchen,South,Online,New,Debit Card,1,6594.75,10,5935.28,5068.67,866.61
+ORD-01123,2025-06-21,Moisturizer,Beauty,Central,In-store,Returning,Credit Card,2,498.26,5,946.69,772.58,174.11
+ORD-00779,2025-06-22,Smart Watch,Electronics,West,Online,New,Net Banking,1,19689.35,10,17720.42,13497.1,4223.32
+ORD-00890,2025-06-22,Sports Bag,Sports,South,Marketplace,Returning,UPI,1,4596.87,10,4137.18,2452.29,1684.89
+ORD-00744,2025-06-22,Sports Bag,Sports,East,Online,New,Debit Card,2,3306.08,10,5950.94,3845.51,2105.43
+ORD-00216,2025-06-23,T-Shirt,Fashion,West,Online,New,Credit Card,1,4912.52,0,4912.52,2749.06,2163.46
+ORD-00505,2025-06-24,Bluetooth Speaker,Electronics,West,Online,Returning,Cash,3,16600.29,10,44820.78,26403.89,18416.89
+ORD-01322,2025-06-25,Desk Lamp,Home & Kitchen,East,Marketplace,New,Debit Card,1,4852.4,0,4852.4,3259.67,1592.73
+ORD-00281,2025-06-25,Wallet,Fashion,West,Online,Returning,Cash,2,6188.42,0,12376.84,7722.85,4653.99
+ORD-01491,2025-06-25,Coffee Maker,Home & Kitchen,East,Online,Returning,Net Banking,4,2465.7,0,9862.8,7463.22,2399.58
+ORD-00143,2025-06-26,Water Bottle,Home & Kitchen,Central,Online,New,Debit Card,3,2243.2,15,5720.16,4210.4,1509.76
+ORD-00111,2025-06-26,Yoga Mat,Sports,South,Marketplace,New,Cash,1,4925.21,10,4432.69,3739.19,693.5
+ORD-00039,2025-06-26,Sports Bag,Sports,North,Online,New,Credit Card,2,1962.3,15,3335.91,2309.17,1026.74
+ORD-01192,2025-06-27,Storage Organizer,Home & Kitchen,West,Online,New,Debit Card,3,1289.65,25,2901.71,2097.33,804.38
+ORD-00950,2025-06-27,Yoga Mat,Sports,South,Online,Returning,Cash,2,2857.12,15,4857.1,4056.77,800.33
+ORD-00399,2025-06-28,Jacket,Fashion,West,Marketplace,Returning,Net Banking,1,5162.3,0,5162.3,3208.9,1953.4
+ORD-00413,2025-06-28,Yoga Mat,Sports,East,Online,Returning,UPI,2,1421.93,20,2275.09,2124.68,150.41
+ORD-00314,2025-06-29,T-Shirt,Fashion,East,Marketplace,New,Debit Card,3,3842.41,10,10374.51,8000.63,2373.88
+ORD-01028,2025-06-29,Air Fryer,Home & Kitchen,West,Online,New,UPI,3,1666.89,10,4500.6,3749.55,751.05
+ORD-00152,2025-06-29,Water Bottle,Home & Kitchen,East,Marketplace,Returning,Credit Card,2,3313.59,20,5301.74,3904.11,1397.63
+ORD-01410,2025-06-30,Laptop Stand,Electronics,North,Online,New,Debit Card,2,8135.36,0,16270.72,11178.86,5091.86
+ORD-00573,2025-06-30,Wireless Headphones,Electronics,South,Online,Returning,Credit Card,4,12220.37,10,43993.33,31727.3,12266.03
+ORD-01382,2025-07-01,Sports Bag,Sports,South,Online,New,Net Banking,3,3167.91,10,8553.36,6831.34,1722.02
+ORD-01209,2025-07-01,Sunscreen,Beauty,South,Online,New,Credit Card,2,1143.72,10,2058.7,1504.87,553.83
+ORD-00299,2025-07-01,Moisturizer,Beauty,East,Marketplace,New,Debit Card,5,2661.32,0,13306.6,7516.88,5789.72
+ORD-00534,2025-07-01,Backpack,Fashion,North,In-store,New,Debit Card,2,3361.63,10,6050.93,4330.66,1720.27
+ORD-00814,2025-07-01,Moisturizer,Beauty,North,In-store,New,Debit Card,1,363.6,5,345.42,234.7,110.72
+ORD-00450,2025-07-02,Dumbbells,Sports,West,In-store,Returning,Net Banking,1,1902.44,10,1712.2,1209.83,502.37
+ORD-00481,2025-07-03,USB-C Hub,Electronics,South,Marketplace,Returning,Debit Card,1,27083.51,20,21666.81,18305.74,3361.07
+ORD-01230,2025-07-03,Laptop Stand,Electronics,South,Online,Returning,Debit Card,1,10686.35,15,9083.4,6923.79,2159.61
+ORD-00660,2025-07-03,Sports Bag,Sports,North,Online,Returning,Debit Card,1,2130.45,0,2130.45,1632.44,498.01
+ORD-00855,2025-07-03,Bluetooth Speaker,Electronics,East,Marketplace,New,UPI,2,3766.31,20,6026.1,5743.95,282.15
+ORD-00096,2025-07-03,Face Cleanser,Beauty,North,Marketplace,New,Net Banking,2,2459.82,5,4673.66,3155.55,1518.11
+ORD-00495,2025-07-04,Desk Lamp,Home & Kitchen,North,In-store,Returning,Credit Card,3,968.53,10,2615.03,1798.99,816.04
+ORD-00841,2025-07-04,Smart Watch,Electronics,West,Online,Returning,Credit Card,2,17020.94,10,30637.69,23014.53,7623.16
+ORD-01483,2025-07-05,USB-C Hub,Electronics,West,Marketplace,Returning,UPI,2,22464.73,5,42682.99,34215.87,8467.12
+ORD-00342,2025-07-05,Backpack,Fashion,West,Online,Returning,Debit Card,2,326.2,20,521.92,440.71,81.21
+ORD-01114,2025-07-06,Sneakers,Fashion,East,In-store,Returning,Credit Card,3,5636.14,0,16908.42,10060.83,6847.59
+ORD-01451,2025-07-07,Laptop Stand,Electronics,West,Online,New,Debit Card,4,13793.87,5,52416.71,39571.37,12845.34
+ORD-00154,2025-07-07,Sneakers,Fashion,North,Online,New,Credit Card,1,6328.58,10,5695.72,3919.06,1776.66
+ORD-00271,2025-07-08,Moisturizer,Beauty,Central,In-store,Returning,Credit Card,1,397.88,20,318.3,305.3,13.0
+ORD-00796,2025-07-08,Desk Lamp,Home & Kitchen,West,In-store,Returning,UPI,4,5571.82,10,20058.55,16710.18,3348.37
+ORD-00638,2025-07-09,Desk Lamp,Home & Kitchen,North,Online,Returning,Credit Card,4,7326.02,15,24908.47,22662.7,2245.77
+ORD-00419,2025-07-09,Sports Bag,Sports,North,Marketplace,Returning,Net Banking,3,2756.71,10,7443.12,5012.86,2430.26
+ORD-01239,2025-07-09,Moisturizer,Beauty,East,Marketplace,Returning,Cash,1,1533.97,0,1533.97,936.7,597.27
+ORD-01338,2025-07-09,Coffee Maker,Home & Kitchen,North,In-store,Returning,Cash,4,8383.54,20,26827.33,20297.9,6529.43
+ORD-00353,2025-07-10,Yoga Mat,Sports,North,Marketplace,Returning,UPI,2,1898.34,10,3417.01,2239.67,1177.34
+ORD-00971,2025-07-10,Laptop Stand,Electronics,Central,In-store,Returning,UPI,1,20487.12,0,20487.12,12391.65,8095.47
+ORD-01316,2025-07-10,Face Cleanser,Beauty,East,Marketplace,New,Debit Card,3,3417.07,5,9738.65,6533.77,3204.88
+ORD-01400,2025-07-11,USB-C Hub,Electronics,West,Online,Returning,Credit Card,5,22714.06,0,113570.3,76832.9,36737.4
+ORD-01403,2025-07-11,Yoga Mat,Sports,North,Online,New,Cash,2,2653.3,5,5041.27,2884.57,2156.7
+ORD-00263,2025-07-11,Backpack,Fashion,North,Marketplace,New,Debit Card,1,4674.73,10,4207.26,2764.32,1442.94
+ORD-00802,2025-07-12,Water Bottle,Home & Kitchen,North,In-store,Returning,Debit Card,6,5565.99,10,30056.35,23070.17,6986.18
+ORD-01367,2025-07-12,Desk Lamp,Home & Kitchen,East,Marketplace,New,Credit Card,1,7181.38,5,6822.31,4555.4,2266.91
+ORD-01476,2025-07-12,Storage Organizer,Home & Kitchen,West,Online,Returning,Credit Card,1,834.53,10,751.08,596.62,154.46
+ORD-00442,2025-07-12,Storage Organizer,Home & Kitchen,North,Online,Returning,Debit Card,4,8547.8,10,30772.08,20825.11,9946.97
+ORD-00307,2025-07-12,Sunscreen,Beauty,North,Online,Returning,Cash,1,3398.65,5,3228.72,1799.1,1429.62
+ORD-00928,2025-07-12,Coffee Maker,Home & Kitchen,West,Marketplace,Returning,Debit Card,1,543.7,0,543.7,300.38,243.32
+ORD-00190,2025-07-12,Bluetooth Speaker,Electronics,South,In-store,Returning,Debit Card,6,18761.38,0,112568.28,67770.41,44797.87
+ORD-00136,2025-07-13,Desk Lamp,Home & Kitchen,West,Online,New,Credit Card,1,6335.11,10,5701.6,3648.41,2053.19
+ORD-01155,2025-07-14,Sneakers,Fashion,East,Online,Returning,Debit Card,1,2478.36,20,1982.69,1341.5,641.19
+ORD-00952,2025-07-14,Hair Dryer,Beauty,Central,In-store,Returning,Credit Card,5,3978.22,0,19891.1,15056.97,4834.13
+ORD-01391,2025-07-15,Hair Dryer,Beauty,North,Marketplace,New,Cash,2,2780.34,15,4726.58,4331.98,394.6
+ORD-00226,2025-07-15,T-Shirt,Fashion,West,Online,New,Debit Card,6,5419.77,0,32518.62,25300.23,7218.39
+ORD-01105,2025-07-15,Hair Dryer,Beauty,Central,In-store,New,UPI,1,2659.18,5,2526.22,1996.65,529.57
+ORD-00239,2025-07-16,Air Fryer,Home & Kitchen,South,Online,Returning,Credit Card,3,7142.77,25,16071.23,16410.66,-339.43
+ORD-01186,2025-07-16,Laptop Stand,Electronics,West,Online,Returning,Credit Card,3,3306.8,5,9424.38,7532.73,1891.65
+ORD-00400,2025-07-17,Sunscreen,Beauty,West,Marketplace,Returning,Debit Card,1,2721.62,10,2449.46,1810.85,638.61
+ORD-00526,2025-07-17,Coffee Maker,Home & Kitchen,South,In-store,Returning,UPI,3,5270.32,0,15810.96,9744.23,6066.73
+ORD-00333,2025-07-17,Moisturizer,Beauty,North,In-store,Returning,Credit Card,1,1606.99,15,1365.94,1014.16,351.78
+ORD-01060,2025-07-18,Wireless Headphones,Electronics,West,Online,Returning,Net Banking,2,27233.82,10,49020.88,32609.19,16411.69
+ORD-01462,2025-07-19,Desk Lamp,Home & Kitchen,South,Online,Returning,Debit Card,1,6040.86,10,5436.77,3350.8,2085.97
+ORD-00749,2025-07-19,Water Bottle,Home & Kitchen,South,Online,Returning,Debit Card,1,7582.72,5,7203.58,3951.49,3252.09
+ORD-00088,2025-07-19,Moisturizer,Beauty,South,Marketplace,New,Net Banking,5,3306.89,0,16534.45,11967.1,4567.35
+ORD-01014,2025-07-20,USB-C Hub,Electronics,North,Online,Returning,Net Banking,1,5281.8,5,5017.71,3616.21,1401.5
+ORD-00447,2025-07-20,Smart Watch,Electronics,West,In-store,Returning,Net Banking,5,15606.87,10,70230.92,56971.5,13259.42
+ORD-01034,2025-07-20,Laptop Stand,Electronics,East,Online,New,Net Banking,3,3895.26,0,11685.78,6935.38,4750.4
+ORD-00748,2025-07-20,Wallet,Fashion,Central,Online,Returning,Credit Card,2,5844.24,5,11104.06,7325.61,3778.45
+ORD-01177,2025-07-21,Storage Organizer,Home & Kitchen,East,Online,New,Cash,1,1027.87,10,925.08,688.62,236.46
+ORD-00988,2025-07-21,Bluetooth Speaker,Electronics,East,Online,New,Credit Card,4,22965.98,0,91863.92,67254.47,24609.45
+ORD-00799,2025-07-21,Coffee Maker,Home & Kitchen,South,Online,Returning,Credit Card,3,758.96,10,2049.19,1240.06,809.13
+ORD-00368,2025-07-21,Dumbbells,Sports,West,Online,New,Credit Card,1,4128.84,0,4128.84,3035.14,1093.7
+ORD-00309,2025-07-21,Sneakers,Fashion,East,Online,New,Net Banking,1,2423.84,10,2181.46,1644.24,537.22
+ORD-00554,2025-07-22,Water Bottle,Home & Kitchen,East,Online,New,UPI,1,1152.03,10,1036.83,848.16,188.67
+ORD-00968,2025-07-22,Sneakers,Fashion,North,Online,New,UPI,1,4146.33,0,4146.33,2371.89,1774.44
+ORD-00338,2025-07-22,Yoga Mat,Sports,Central,Online,New,UPI,3,2854.22,10,7706.39,5280.63,2425.76
+ORD-01439,2025-07-23,Water Bottle,Home & Kitchen,South,In-store,New,UPI,1,8282.21,5,7868.1,5985.54,1882.56
+ORD-01435,2025-07-23,Wallet,Fashion,East,Online,New,Cash,4,2145.87,15,7295.96,6476.69,819.27
+ORD-00525,2025-07-23,USB-C Hub,Electronics,East,In-store,New,Debit Card,1,3225.15,10,2902.64,2144.79,757.85
+ORD-00403,2025-07-24,Bluetooth Speaker,Electronics,East,Online,New,Net Banking,1,15131.96,10,13618.76,10416.97,3201.79
+ORD-00321,2025-07-24,Sunscreen,Beauty,North,In-store,New,UPI,5,3000.39,10,13501.76,11688.05,1813.71
+ORD-00167,2025-07-24,Smart Watch,Electronics,North,Marketplace,Returning,Cash,1,17490.42,10,15741.38,11727.75,4013.63
+ORD-00595,2025-07-24,Sunscreen,Beauty,North,Marketplace,Returning,Credit Card,1,2049.23,10,1844.31,1082.14,762.17
+ORD-01404,2025-07-25,Resistance Bands,Sports,South,Marketplace,Returning,Debit Card,1,3027.46,10,2724.71,1868.25,856.46
+ORD-00607,2025-07-26,Jacket,Fashion,North,Online,Returning,Debit Card,3,3442.15,10,9293.8,7433.94,1859.86
+ORD-01388,2025-07-27,Yoga Mat,Sports,North,Online,New,UPI,1,3107.09,15,2641.03,2278.59,362.44
+ORD-00066,2025-07-27,Moisturizer,Beauty,South,In-store,Returning,Net Banking,2,2472.05,5,4696.9,3521.12,1175.78
+ORD-01249,2025-07-27,Perfume,Beauty,North,Marketplace,Returning,Cash,1,294.43,20,235.54,226.39,9.15
+ORD-00632,2025-07-28,Smart Watch,Electronics,Central,Online,New,Net Banking,1,27151.62,15,23078.88,20878.63,2200.25
+ORD-01095,2025-07-29,USB-C Hub,Electronics,North,In-store,Returning,Credit Card,1,24441.93,5,23219.83,13577.27,9642.56
+ORD-00646,2025-07-29,Bluetooth Speaker,Electronics,West,Marketplace,New,UPI,2,14390.64,20,23025.02,21232.89,1792.13
+ORD-00254,2025-07-30,USB-C Hub,Electronics,East,In-store,New,Cash,1,21982.19,0,21982.19,11962.38,10019.81
+ORD-00077,2025-07-30,Backpack,Fashion,South,Marketplace,Returning,Net Banking,3,5374.81,5,15318.21,10108.43,5209.78
+ORD-00294,2025-07-31,Dumbbells,Sports,East,Marketplace,Returning,UPI,5,641.66,10,2887.47,2200.11,687.36
+ORD-01145,2025-07-31,Desk Lamp,Home & Kitchen,East,In-store,Returning,Debit Card,2,4787.32,5,9095.91,5339.94,3755.97
+ORD-00738,2025-08-01,Wallet,Fashion,West,Online,Returning,UPI,3,1418.69,20,3404.86,2861.01,543.85
+ORD-01069,2025-08-01,Sneakers,Fashion,Central,Online,Returning,UPI,2,1668.25,0,3336.5,1968.5,1368.0
+ORD-01494,2025-08-01,Desk Lamp,Home & Kitchen,North,Marketplace,New,Debit Card,1,4088.84,5,3884.4,2494.91,1389.49
+ORD-00487,2025-08-02,USB-C Hub,Electronics,West,In-store,New,Net Banking,1,18327.76,0,18327.76,9810.48,8517.28
+ORD-00169,2025-08-02,Desk Lamp,Home & Kitchen,North,Marketplace,New,UPI,1,1672.17,5,1588.56,1141.29,447.27
+ORD-01030,2025-08-02,Backpack,Fashion,Central,Marketplace,Returning,Debit Card,2,4332.83,5,8232.38,4852.05,3380.33
+ORD-00371,2025-08-03,Yoga Mat,Sports,Central,Online,Returning,Credit Card,2,4470.41,20,7152.66,5483.48,1669.18
+ORD-01142,2025-08-04,Dumbbells,Sports,East,Marketplace,Returning,Net Banking,1,4170.62,0,4170.62,2949.7,1220.92
+ORD-00627,2025-08-04,Sneakers,Fashion,Central,Online,Returning,UPI,1,1693.37,10,1524.03,1026.81,497.22
+ORD-00199,2025-08-05,Moisturizer,Beauty,North,In-store,Returning,Credit Card,4,1280.39,10,4609.4,2987.14,1622.26
+ORD-01176,2025-08-05,Smart Watch,Electronics,East,Marketplace,New,UPI,1,19509.96,0,19509.96,10593.46,8916.5
+ORD-01160,2025-08-06,Hair Dryer,Beauty,North,In-store,New,UPI,6,3016.26,0,18097.56,10594.27,7503.29
+ORD-01330,2025-08-07,Laptop Stand,Electronics,Central,Marketplace,Returning,Net Banking,1,24980.98,10,22482.88,18794.85,3688.03
+ORD-00197,2025-08-07,Yoga Mat,Sports,East,Online,Returning,Debit Card,2,2935.63,0,5871.26,3297.6,2573.66
+ORD-00991,2025-08-07,Storage Organizer,Home & Kitchen,Central,Online,New,Credit Card,1,2802.71,10,2522.44,2015.38,507.06
+ORD-01357,2025-08-08,Running Bottle,Sports,Central,In-store,Returning,Net Banking,1,2555.15,0,2555.15,1737.03,818.12
+ORD-01372,2025-08-08,Laptop Stand,Electronics,North,Online,Returning,Net Banking,2,1429.88,10,2573.78,2182.6,391.18
+ORD-01383,2025-08-10,Perfume,Beauty,South,Marketplace,Returning,UPI,2,233.92,0,467.84,253.61,214.23
+ORD-01236,2025-08-10,Sunscreen,Beauty,North,Marketplace,Returning,Debit Card,4,1109.95,0,4439.8,2625.11,1814.69
+ORD-00139,2025-08-10,Bluetooth Speaker,Electronics,West,Online,New,UPI,2,9454.6,15,16072.82,14035.86,2036.96
+ORD-00268,2025-08-10,Face Cleanser,Beauty,West,In-store,Returning,Debit Card,1,3433.63,0,3433.63,2122.31,1311.32
+ORD-01407,2025-08-10,Laptop Stand,Electronics,Central,In-store,Returning,Debit Card,2,22093.09,0,44186.18,30469.0,13717.18
+ORD-01312,2025-08-11,Desk Lamp,Home & Kitchen,West,Online,New,Net Banking,2,4524.65,10,8144.37,5334.56,2809.81
+ORD-00979,2025-08-12,Wireless Headphones,Electronics,East,In-store,Returning,Debit Card,3,3753.23,0,11259.69,5994.18,5265.51
+ORD-01363,2025-08-12,Laptop Stand,Electronics,West,In-store,Returning,Net Banking,3,6137.84,5,17492.84,11052.24,6440.6
+ORD-00044,2025-08-15,Bluetooth Speaker,Electronics,South,In-store,Returning,Net Banking,3,17358.72,0,52076.16,30684.39,21391.77
+ORD-00521,2025-08-17,Perfume,Beauty,East,Marketplace,Returning,Credit Card,2,3677.86,5,6987.93,5166.58,1821.35
+ORD-00194,2025-08-19,Water Bottle,Home & Kitchen,West,Marketplace,Returning,Credit Card,1,2511.82,5,2386.23,1449.26,936.97
+ORD-00765,2025-08-19,Perfume,Beauty,North,Online,New,UPI,1,1892.66,10,1703.39,1324.87,378.52
+ORD-00998,2025-08-19,T-Shirt,Fashion,South,Online,Returning,Net Banking,6,1325.15,5,7553.36,4638.47,2914.89
+ORD-00746,2025-08-21,Sneakers,Fashion,West,In-store,New,Credit Card,2,5215.06,0,10430.12,7077.75,3352.37
+ORD-01052,2025-08-21,Sneakers,Fashion,West,Online,New,UPI,4,444.33,15,1510.72,948.93,561.79
+ORD-00301,2025-08-21,Resistance Bands,Sports,Central,Online,New,Credit Card,1,3993.27,0,3993.27,2405.34,1587.93
+ORD-00053,2025-08-21,Face Cleanser,Beauty,West,Online,Returning,Debit Card,4,3690.61,0,14762.44,7909.53,6852.91
+ORD-01360,2025-08-22,Bluetooth Speaker,Electronics,West,Online,Returning,Credit Card,2,20125.87,0,40251.74,25899.38,14352.36
+ORD-00063,2025-08-22,Face Cleanser,Beauty,South,Online,New,Credit Card,3,1990.95,15,5076.92,4338.94,737.98
+ORD-00201,2025-08-22,Wallet,Fashion,West,Marketplace,Returning,Credit Card,3,1307.66,15,3334.53,2927.9,406.63
+ORD-00630,2025-08-22,Desk Lamp,Home & Kitchen,North,Marketplace,Returning,UPI,3,6035.59,15,15390.75,10781.86,4608.89
+ORD-01138,2025-08-22,Laptop Stand,Electronics,Central,In-store,New,Debit Card,3,19364.34,0,58093.02,38630.84,19462.18
+ORD-00393,2025-08-23,Yoga Mat,Sports,Central,Online,New,Credit Card,4,2876.04,15,9778.54,8634.37,1144.17
+ORD-00628,2025-08-23,Sunscreen,Beauty,West,Online,Returning,UPI,1,1539.43,5,1462.46,1034.59,427.87
+ORD-01151,2025-08-24,Wallet,Fashion,South,Marketplace,Returning,Debit Card,1,3251.82,15,2764.05,2196.79,567.26
+ORD-01271,2025-08-24,Sneakers,Fashion,Central,Marketplace,Returning,Credit Card,1,4618.41,5,4387.49,2734.54,1652.95
+ORD-00068,2025-08-25,Jacket,Fashion,North,Online,New,UPI,3,3996.28,25,8991.63,6681.13,2310.5
+ORD-00332,2025-08-25,Face Cleanser,Beauty,South,Online,Returning,UPI,1,331.62,10,298.46,176.1,122.36
+ORD-00909,2025-08-25,Storage Organizer,Home & Kitchen,East,Online,Returning,Net Banking,2,3040.09,5,5776.17,3760.35,2015.82
+ORD-00022,2025-08-25,Jacket,Fashion,West,Online,Returning,Debit Card,3,6455.55,10,17429.98,14278.22,3151.76
+ORD-01268,2025-08-26,Smart Watch,Electronics,West,In-store,Returning,Net Banking,3,8798.9,5,25076.86,17111.78,7965.08
+ORD-01044,2025-08-26,Resistance Bands,Sports,Central,In-store,New,Net Banking,3,3378.85,15,8616.07,7590.3,1025.77
+ORD-00576,2025-08-27,Moisturizer,Beauty,South,Online,Returning,UPI,1,2287.07,5,2172.72,1424.13,748.59
+ORD-00498,2025-08-27,USB-C Hub,Electronics,West,Online,Returning,UPI,3,3826.61,5,10905.84,7326.59,3579.25
+ORD-00374,2025-08-27,Laptop Stand,Electronics,North,In-store,Returning,Credit Card,1,27151.18,0,27151.18,20445.85,6705.33
+ORD-00770,2025-08-29,Laptop Stand,Electronics,West,In-store,Returning,Debit Card,1,3205.11,0,3205.11,2115.29,1089.82
+ORD-00913,2025-08-29,Running Bottle,Sports,Central,Online,Returning,UPI,3,4478.13,5,12762.67,7314.0,5448.67
+ORD-00379,2025-08-31,Jacket,Fashion,South,Online,New,Net Banking,1,2380.46,15,2023.39,1720.98,302.41
+ORD-00634,2025-08-31,Face Cleanser,Beauty,South,Online,Returning,Cash,5,1388.49,5,6595.33,4638.69,1956.64
+ORD-00188,2025-09-01,Smart Watch,Electronics,Central,Online,New,UPI,4,17379.78,0,69519.12,41996.19,27522.93
+ORD-01285,2025-09-01,Laptop Stand,Electronics,Central,Online,Returning,UPI,2,6307.13,25,9460.7,6927.28,2533.42
+ORD-01017,2025-09-02,Sunscreen,Beauty,South,Online,Returning,Net Banking,6,2595.11,10,14013.59,10574.82,3438.77
+ORD-00758,2025-09-02,Air Fryer,Home & Kitchen,South,Online,Returning,Debit Card,1,4840.25,5,4598.24,3093.08,1505.16
+ORD-00614,2025-09-03,Wireless Headphones,Electronics,Central,Marketplace,New,UPI,1,7252.74,15,6164.83,4186.6,1978.23
+ORD-01468,2025-09-03,Hair Dryer,Beauty,West,Online,New,Debit Card,1,918.52,15,780.74,561.77,218.97
+ORD-01159,2025-09-03,Running Bottle,Sports,South,Online,New,UPI,1,1759.94,20,1407.95,1075.2,332.75
+ORD-01385,2025-09-04,Backpack,Fashion,West,In-store,New,UPI,1,5033.24,10,4529.92,3640.26,889.66
+ORD-00094,2025-09-05,Desk Lamp,Home & Kitchen,Central,Online,Returning,Cash,1,2197.95,5,2088.05,1214.3,873.75
+ORD-01066,2025-09-05,Jacket,Fashion,West,Online,Returning,Debit Card,2,6030.65,0,12061.3,7926.66,4134.64
+ORD-00809,2025-09-07,Backpack,Fashion,Central,Online,Returning,Debit Card,1,3032.75,20,2426.2,1910.67,515.53
+ORD-01173,2025-09-07,Wallet,Fashion,Central,Online,Returning,Net Banking,2,5801.79,15,9863.04,7660.65,2202.39
+ORD-01094,2025-09-08,Hair Dryer,Beauty,North,Online,Returning,UPI,2,2590.83,15,4404.41,3927.81,476.6
+ORD-01352,2025-09-08,Laptop Stand,Electronics,North,Marketplace,New,Credit Card,1,14239.74,20,11391.79,10158.73,1233.06
+ORD-01478,2025-09-09,Wireless Headphones,Electronics,South,Online,New,Net Banking,2,12655.48,10,22779.86,16886.29,5893.57
+ORD-01283,2025-09-09,Water Bottle,Home & Kitchen,East,Online,New,Net Banking,2,4084.15,25,6126.22,5473.56,652.66
+ORD-00552,2025-09-09,Backpack,Fashion,East,Online,New,Cash,1,1013.28,5,962.62,747.19,215.43
+ORD-00440,2025-09-11,Sneakers,Fashion,East,Online,Returning,UPI,4,1400.79,5,5323.0,4214.54,1108.46
+ORD-01320,2025-09-11,T-Shirt,Fashion,South,Online,New,Net Banking,2,2887.81,0,5775.62,3537.1,2238.52
+ORD-01168,2025-09-12,Sports Bag,Sports,South,Marketplace,New,UPI,4,4175.38,5,15866.44,12275.02,3591.42
+ORD-00957,2025-09-13,Wireless Headphones,Electronics,Central,Online,New,Net Banking,1,21078.29,5,20024.38,12405.45,7618.93
+ORD-00027,2025-09-14,Backpack,Fashion,South,In-store,New,Cash,5,5017.77,20,20071.08,17846.71,2224.37
+ORD-01302,2025-09-14,Smart Watch,Electronics,West,In-store,Returning,Debit Card,1,16427.7,20,13142.16,11433.45,1708.71
+ORD-00585,2025-09-15,Sunscreen,Beauty,Central,Marketplace,Returning,Credit Card,1,3267.3,10,2940.57,2299.53,641.04
+ORD-00942,2025-09-15,Sunscreen,Beauty,North,Marketplace,Returning,Debit Card,1,1032.96,10,929.66,710.36,219.3
+ORD-01131,2025-09-17,T-Shirt,Fashion,West,Online,Returning,UPI,2,5753.07,10,10355.53,6618.58,3736.95
+ORD-00164,2025-09-17,Moisturizer,Beauty,West,Online,Returning,Net Banking,3,2376.49,15,6060.05,4471.62,1588.43
+ORD-00687,2025-09-17,USB-C Hub,Electronics,South,Online,Returning,Debit Card,5,24121.76,15,102517.48,72966.9,29550.58
+ORD-00144,2025-09-18,Wireless Headphones,Electronics,North,Online,Returning,UPI,5,19215.24,0,96076.2,53668.78,42407.42
+ORD-00962,2025-09-18,Coffee Maker,Home & Kitchen,North,Online,New,UPI,1,4191.64,10,3772.48,2844.71,927.77
+ORD-01340,2025-09-18,Jacket,Fashion,West,Online,Returning,UPI,1,4742.69,0,4742.69,2526.97,2215.72
+ORD-00163,2025-09-19,Face Cleanser,Beauty,North,Online,New,UPI,6,2762.79,0,16576.74,12636.48,3940.26
+ORD-00373,2025-09-19,Yoga Mat,Sports,Central,In-store,Returning,Debit Card,3,3561.66,0,10684.98,8041.07,2643.91
+ORD-01495,2025-09-19,Coffee Maker,Home & Kitchen,South,In-store,Returning,UPI,1,8128.89,10,7316.0,5855.06,1460.94
+ORD-00960,2025-09-20,Water Bottle,Home & Kitchen,South,Online,Returning,UPI,1,3185.95,15,2708.06,1960.01,748.05
+ORD-00065,2025-09-20,USB-C Hub,Electronics,South,Online,New,Debit Card,2,6186.68,5,11754.69,8584.54,3170.15
+ORD-00907,2025-09-20,Bluetooth Speaker,Electronics,West,Online,Returning,Credit Card,2,15735.3,15,26750.01,18922.35,7827.66
+ORD-01252,2025-09-20,Air Fryer,Home & Kitchen,North,Online,Returning,UPI,1,8843.91,0,8843.91,5229.57,3614.34
+ORD-00496,2025-09-21,Air Fryer,Home & Kitchen,West,Online,New,Debit Card,3,1656.91,20,3976.58,2900.79,1075.79
+ORD-01309,2025-09-22,Laptop Stand,Electronics,Central,Online,New,Net Banking,1,19956.97,0,19956.97,13370.96,6586.01
+ORD-01485,2025-09-22,Yoga Mat,Sports,Central,In-store,New,UPI,1,1491.82,5,1417.23,1109.87,307.36
+ORD-01043,2025-09-22,Smart Watch,Electronics,North,In-store,New,Debit Card,1,17804.16,0,17804.16,12037.72,5766.44
+ORD-01480,2025-09-23,Jacket,Fashion,Central,In-store,Returning,UPI,4,5856.1,20,18739.52,15865.47,2874.05
+ORD-00248,2025-09-23,Smart Watch,Electronics,West,In-store,Returning,UPI,3,10777.27,15,27482.04,20530.28,6951.76
+ORD-01191,2025-09-23,Smart Watch,Electronics,North,In-store,Returning,UPI,1,26606.56,5,25276.23,20175.78,5100.45
+ORD-00624,2025-09-23,Resistance Bands,Sports,West,In-store,Returning,Credit Card,1,3780.09,10,3402.08,2503.03,899.05
+ORD-00572,2025-09-23,T-Shirt,Fashion,North,Online,Returning,UPI,1,4357.58,20,3486.06,3047.97,438.09
+ORD-01225,2025-09-23,Smart Watch,Electronics,North,Marketplace,Returning,UPI,1,20942.89,10,18848.6,11781.61,7066.99
+ORD-00425,2025-09-24,Sneakers,Fashion,North,Online,New,Cash,1,4046.69,0,4046.69,2806.46,1240.23
+ORD-00275,2025-09-24,Sneakers,Fashion,West,Online,New,UPI,1,4025.43,15,3421.62,3010.29,411.33
+ORD-01079,2025-09-24,Sunscreen,Beauty,North,Marketplace,New,UPI,2,2914.64,15,4954.89,3188.36,1766.53
+ORD-00972,2025-09-24,Laptop Stand,Electronics,North,Online,New,Cash,1,3449.04,5,3276.59,1811.33,1465.26
+ORD-00929,2025-09-24,Face Cleanser,Beauty,North,Marketplace,New,Net Banking,1,3207.67,0,3207.67,2000.42,1207.25
+ORD-00165,2025-09-24,Moisturizer,Beauty,East,In-store,Returning,Credit Card,1,2041.23,0,2041.23,1476.5,564.73
+ORD-00732,2025-09-25,Laptop Stand,Electronics,Central,Marketplace,Returning,Credit Card,6,11110.05,0,66660.3,38449.72,28210.58
+ORD-00464,2025-09-25,Air Fryer,Home & Kitchen,South,Online,New,UPI,2,1626.0,0,3252.0,2100.04,1151.96
+ORD-01374,2025-09-26,Smart Watch,Electronics,North,Online,Returning,Cash,1,7526.0,10,6773.4,5041.45,1731.95
+ORD-01185,2025-09-26,Running Bottle,Sports,Central,Online,New,Debit Card,3,461.92,10,1247.18,862.55,384.63
+ORD-00777,2025-09-28,Air Fryer,Home & Kitchen,West,In-store,Returning,UPI,1,1284.35,5,1220.13,897.63,322.5
+ORD-01059,2025-09-28,Storage Organizer,Home & Kitchen,South,In-store,Returning,Debit Card,3,6690.56,5,19068.1,11200.19,7867.91
+ORD-00500,2025-09-29,Sunscreen,Beauty,Central,In-store,Returning,Net Banking,4,966.84,0,3867.36,2480.04,1387.32
+ORD-01333,2025-09-29,Sports Bag,Sports,North,Online,New,Credit Card,2,2889.16,10,5200.49,4316.45,884.04
+ORD-01437,2025-09-30,Yoga Mat,Sports,West,Online,New,Credit Card,4,1346.5,5,5116.7,3532.06,1584.64
+ORD-00954,2025-10-01,Jacket,Fashion,West,Online,Returning,Net Banking,1,3316.12,10,2984.51,2217.17,767.34
+ORD-00547,2025-10-01,Bluetooth Speaker,Electronics,East,Online,New,UPI,4,19178.18,15,65205.81,59695.04,5510.77
+ORD-01153,2025-10-02,Face Cleanser,Beauty,South,In-store,Returning,Net Banking,2,319.73,5,607.49,405.05,202.44
+ORD-00795,2025-10-03,Wallet,Fashion,East,In-store,Returning,UPI,2,1487.83,0,2975.66,1876.74,1098.92
+ORD-00238,2025-10-03,Smart Watch,Electronics,South,Online,Returning,UPI,1,19416.88,5,18446.04,11970.47,6475.57
+ORD-00473,2025-10-03,Perfume,Beauty,East,Online,Returning,UPI,4,224.57,0,898.28,472.74,425.54
+ORD-00994,2025-10-03,Moisturizer,Beauty,South,Online,Returning,Net Banking,1,689.01,0,689.01,518.09,170.92
+ORD-01496,2025-10-03,Smart Watch,Electronics,South,Online,Returning,Net Banking,3,24444.73,5,69667.48,54816.95,14850.53
+ORD-00633,2025-10-04,T-Shirt,Fashion,East,Online,Returning,Cash,1,1734.91,20,1387.93,1284.44,103.49
+ORD-00435,2025-10-04,Smart Watch,Electronics,North,In-store,Returning,UPI,1,21819.18,15,18546.3,15672.31,2873.99
+ORD-00621,2025-10-04,USB-C Hub,Electronics,West,In-store,Returning,Debit Card,4,5451.4,15,18534.76,14038.19,4496.57
+ORD-00005,2025-10-04,Yoga Mat,Sports,North,Online,New,UPI,3,292.18,0,876.54,484.85,391.69
+ORD-01444,2025-10-04,Bluetooth Speaker,Electronics,Central,Marketplace,New,Cash,1,17669.38,15,15018.97,10007.29,5011.68
+ORD-01100,2025-10-04,Resistance Bands,Sports,Central,Online,New,UPI,1,1354.67,5,1286.94,965.77,321.17
+ORD-00407,2025-10-04,Smart Watch,Electronics,East,Marketplace,Returning,UPI,2,14178.47,10,25521.25,17780.96,7740.29
+ORD-00155,2025-10-05,Face Cleanser,Beauty,North,Online,Returning,Credit Card,1,1959.57,15,1665.63,1188.83,476.8
+ORD-00091,2025-10-05,Bluetooth Speaker,Electronics,Central,Online,New,Debit Card,1,18844.62,10,16960.16,10005.45,6954.71
+ORD-00354,2025-10-05,Yoga Mat,Sports,South,Online,Returning,UPI,3,3702.7,10,9997.29,6820.87,3176.42
+ORD-01039,2025-10-06,Perfume,Beauty,South,Online,Returning,Credit Card,3,2162.75,0,6488.25,4981.88,1506.37
+ORD-00140,2025-10-06,Sports Bag,Sports,South,Online,Returning,Debit Card,1,942.65,15,801.25,524.78,276.47
+ORD-00082,2025-10-06,Wallet,Fashion,North,Marketplace,New,Cash,1,2535.83,20,2028.66,1500.43,528.23
+ORD-01418,2025-10-07,Air Fryer,Home & Kitchen,North,In-store,Returning,Credit Card,2,981.19,5,1864.26,1147.23,717.03
+ORD-00756,2025-10-07,Sneakers,Fashion,South,Marketplace,New,Credit Card,1,3018.19,15,2565.46,2314.98,250.48
+ORD-00121,2025-10-08,Resistance Bands,Sports,North,Online,New,Debit Card,2,3143.7,5,5973.03,4268.37,1704.66
+ORD-00298,2025-10-08,Yoga Mat,Sports,East,Online,Returning,Net Banking,1,4686.7,0,4686.7,2914.4,1772.3
+ORD-01220,2025-10-08,T-Shirt,Fashion,West,Online,New,Credit Card,6,4630.47,10,25004.54,16857.31,8147.23
+ORD-00004,2025-10-08,Jacket,Fashion,West,Online,New,UPI,2,484.25,25,726.38,562.08,164.3
+ORD-00285,2025-10-09,Water Bottle,Home & Kitchen,North,Marketplace,Returning,Debit Card,6,4519.51,10,24405.35,20019.53,4385.82
+ORD-00935,2025-10-10,Laptop Stand,Electronics,East,In-store,Returning,Cash,2,24685.73,25,37028.6,26247.2,10781.4
+ORD-00800,2025-10-10,Water Bottle,Home & Kitchen,South,Online,New,Debit Card,2,3782.01,10,6807.62,5036.44,1771.18
+ORD-00030,2025-10-10,Sunscreen,Beauty,South,In-store,New,Credit Card,2,454.66,10,818.39,613.98,204.41
+ORD-01293,2025-10-11,Sneakers,Fashion,North,Online,Returning,Debit Card,2,5545.15,10,9981.27,8327.72,1653.55
+ORD-01263,2025-10-11,Wireless Headphones,Electronics,South,In-store,Returning,Debit Card,1,2701.83,0,2701.83,1798.79,903.04
+ORD-00186,2025-10-12,Bluetooth Speaker,Electronics,North,Online,Returning,Cash,2,27594.74,5,52430.01,31116.9,21313.11
+ORD-00689,2025-10-12,Perfume,Beauty,East,Marketplace,Returning,UPI,1,516.93,0,516.93,367.99,148.94
+ORD-00869,2025-10-12,Hair Dryer,Beauty,West,Marketplace,Returning,Debit Card,2,789.76,0,1579.52,1204.5,375.02
+ORD-00047,2025-10-12,Laptop Stand,Electronics,East,Marketplace,Returning,UPI,2,8076.32,10,14537.38,12532.84,2004.54
+ORD-00923,2025-10-12,Yoga Mat,Sports,South,Marketplace,Returning,UPI,2,3075.32,0,6150.64,3846.67,2303.97
+ORD-00267,2025-10-13,Running Bottle,Sports,North,In-store,New,UPI,1,2481.26,10,2233.13,1717.4,515.73
+ORD-01092,2025-10-13,T-Shirt,Fashion,West,Marketplace,Returning,Credit Card,1,941.02,15,799.87,729.61,70.26
+ORD-00219,2025-10-13,T-Shirt,Fashion,South,In-store,New,Cash,1,5162.02,25,3871.52,3507.36,364.16
+ORD-01184,2025-10-13,Running Bottle,Sports,East,In-store,New,Net Banking,5,483.54,0,2417.7,1710.17,707.53
+ORD-00214,2025-10-14,Laptop Stand,Electronics,East,Marketplace,Returning,Debit Card,1,3859.18,20,3087.34,2393.92,693.42
+ORD-01057,2025-10-14,Wireless Headphones,Electronics,South,Online,Returning,UPI,1,1274.71,0,1274.71,673.29,601.42
+ORD-01373,2025-10-14,Desk Lamp,Home & Kitchen,East,Online,Returning,Credit Card,2,1224.51,0,2449.02,1826.85,622.17
+ORD-00883,2025-10-14,Sneakers,Fashion,West,Marketplace,Returning,Credit Card,2,4307.99,5,8185.18,6065.37,2119.81
+ORD-01319,2025-10-14,Air Fryer,Home & Kitchen,Central,Online,Returning,Cash,1,8774.85,15,7458.62,5751.78,1706.84
+ORD-01473,2025-10-14,Storage Organizer,Home & Kitchen,West,In-store,New,Cash,5,6964.28,0,34821.4,22020.38,12801.02
+ORD-00031,2025-10-15,Coffee Maker,Home & Kitchen,West,In-store,New,Credit Card,2,3194.09,0,6388.18,4626.52,1761.66
+ORD-01331,2025-10-15,Air Fryer,Home & Kitchen,North,In-store,New,Credit Card,1,3643.71,5,3461.52,2296.84,1164.68
+ORD-00020,2025-10-15,T-Shirt,Fashion,South,Online,Returning,Credit Card,5,5360.4,0,26802.0,17936.7,8865.3
+ORD-00792,2025-10-17,Water Bottle,Home & Kitchen,South,Online,New,Net Banking,1,1307.3,0,1307.3,821.04,486.26
+ORD-01368,2025-10-17,USB-C Hub,Electronics,East,In-store,Returning,Debit Card,3,12690.4,5,36167.64,19827.12,16340.52
+ORD-00506,2025-10-17,Perfume,Beauty,East,Online,New,UPI,1,2558.32,0,2558.32,1884.2,674.12
+ORD-00833,2025-10-17,Air Fryer,Home & Kitchen,South,Online,New,Credit Card,1,6461.63,0,6461.63,3490.03,2971.6
+ORD-00222,2025-10-18,USB-C Hub,Electronics,West,In-store,New,Net Banking,1,9783.74,10,8805.37,5691.45,3113.92
+ORD-01458,2025-10-18,Desk Lamp,Home & Kitchen,East,Online,Returning,UPI,1,1776.8,15,1510.28,1072.16,438.12
+ORD-00537,2025-10-18,Water Bottle,Home & Kitchen,South,Marketplace,New,UPI,2,7752.58,5,14729.9,11739.25,2990.65
+ORD-00205,2025-10-19,Hair Dryer,Beauty,Central,Online,New,UPI,1,262.41,10,236.17,144.86,91.31
+ORD-00871,2025-10-19,Bluetooth Speaker,Electronics,South,Online,Returning,UPI,1,2091.8,20,1673.44,1435.23,238.21
+ORD-00916,2025-10-20,Moisturizer,Beauty,South,Online,Returning,Cash,3,1325.95,20,3182.28,2688.43,493.85
+ORD-00114,2025-10-20,T-Shirt,Fashion,West,Online,Returning,UPI,1,3242.06,0,3242.06,2272.43,969.63
+ORD-00905,2025-10-20,Face Cleanser,Beauty,South,In-store,Returning,Net Banking,2,2456.77,0,4913.54,3742.44,1171.1
+ORD-00798,2025-10-20,Resistance Bands,Sports,West,Online,New,Debit Card,4,1612.03,0,6448.12,3964.69,2483.43
+ORD-00647,2025-10-21,T-Shirt,Fashion,South,Marketplace,New,Debit Card,1,2957.61,0,2957.61,1819.3,1138.31
+ORD-00335,2025-10-21,Perfume,Beauty,South,Online,Returning,UPI,1,2678.22,0,2678.22,1906.57,771.65
+ORD-01213,2025-10-21,T-Shirt,Fashion,South,Marketplace,Returning,Cash,1,317.16,10,285.44,240.54,44.9
+ORD-00939,2025-10-22,T-Shirt,Fashion,East,Marketplace,New,Net Banking,3,5058.23,15,12898.49,9357.2,3541.29
+ORD-00176,2025-10-22,Air Fryer,Home & Kitchen,North,Online,Returning,UPI,2,8978.5,5,17059.15,13985.53,3073.62
+ORD-00073,2025-10-23,Storage Organizer,Home & Kitchen,West,Online,New,Credit Card,1,6059.63,5,5756.65,4662.12,1094.53
+ORD-00231,2025-10-23,Perfume,Beauty,South,Online,Returning,UPI,2,403.8,10,726.84,549.24,177.6
+ORD-00485,2025-10-23,Wireless Headphones,Electronics,West,Online,Returning,Cash,3,21186.83,10,57204.44,49199.87,8004.57
+ORD-00612,2025-10-23,Desk Lamp,Home & Kitchen,South,In-store,New,Debit Card,2,6330.6,0,12661.2,8029.63,4631.57
+ORD-01248,2025-10-24,Air Fryer,Home & Kitchen,North,Marketplace,New,Net Banking,1,3653.3,0,3653.3,2341.32,1311.98
+ORD-01075,2025-10-25,Resistance Bands,Sports,North,Online,Returning,Net Banking,3,1053.69,0,3161.07,2042.26,1118.81
+ORD-00054,2025-10-25,T-Shirt,Fashion,West,In-store,New,Credit Card,1,5177.51,5,4918.63,3995.08,923.55
+ORD-00710,2025-10-25,Coffee Maker,Home & Kitchen,West,Online,New,Net Banking,1,5610.39,5,5329.87,3242.76,2087.11
+ORD-01499,2025-10-26,Desk Lamp,Home & Kitchen,Central,Marketplace,Returning,Net Banking,3,6029.36,0,18088.08,10834.3,7253.78
+ORD-00277,2025-10-26,Moisturizer,Beauty,East,Online,New,Credit Card,4,3445.73,20,11026.34,8722.9,2303.44
+ORD-00474,2025-10-26,Jacket,Fashion,South,Marketplace,Returning,Credit Card,1,810.97,0,810.97,512.62,298.35
+ORD-01102,2025-10-27,Perfume,Beauty,West,Online,New,Credit Card,1,3118.48,0,3118.48,2326.57,791.91
+ORD-00367,2025-10-27,Laptop Stand,Electronics,West,Online,Returning,Credit Card,1,19928.45,20,15942.76,13531.2,2411.56
+ORD-00070,2025-10-27,Air Fryer,Home & Kitchen,South,In-store,New,Net Banking,5,3286.85,10,14790.82,12267.72,2523.1
+ORD-01431,2025-10-28,Sports Bag,Sports,South,Marketplace,Returning,UPI,3,268.73,25,604.64,481.86,122.78
+ORD-00109,2025-10-28,Water Bottle,Home & Kitchen,North,Online,New,Debit Card,5,7347.78,5,34901.96,22881.05,12020.91
+ORD-00124,2025-10-28,Coffee Maker,Home & Kitchen,South,Marketplace,New,Credit Card,2,3301.47,20,5282.35,5137.37,144.98
+ORD-00290,2025-10-30,Laptop Stand,Electronics,South,In-store,Returning,Debit Card,1,3055.28,5,2902.52,2087.93,814.59
+ORD-00974,2025-10-30,Backpack,Fashion,North,Online,Returning,Credit Card,1,2387.54,15,2029.41,1261.49,767.92
+ORD-00944,2025-10-30,Sports Bag,Sports,East,In-store,Returning,UPI,1,2971.97,15,2526.17,1676.59,849.58
+ORD-01420,2025-10-31,Wallet,Fashion,East,Online,New,Cash,2,4796.6,10,8633.88,6153.04,2480.84
+ORD-00709,2025-10-31,Sunscreen,Beauty,South,Online,Returning,UPI,3,3190.54,5,9093.04,5099.13,3993.91
+ORD-00519,2025-10-31,Jacket,Fashion,East,In-store,New,Debit Card,1,2191.95,0,2191.95,1349.01,842.94
+ORD-00076,2025-10-31,Bluetooth Speaker,Electronics,Central,Online,Returning,Net Banking,2,4329.14,25,6493.71,6368.75,124.96
+ORD-00622,2025-11-01,Hair Dryer,Beauty,South,Online,New,UPI,2,2970.13,15,5049.22,3523.79,1525.43
+ORD-01202,2025-11-01,Smart Watch,Electronics,West,Online,New,UPI,3,21750.4,0,65251.2,45070.48,20180.72
+ORD-00973,2025-11-01,Resistance Bands,Sports,East,Marketplace,New,UPI,1,4926.01,15,4187.11,2742.91,1444.2
+ORD-00785,2025-11-02,USB-C Hub,Electronics,East,Online,Returning,Credit Card,4,14908.75,10,53671.5,39263.41,14408.09
+ORD-00768,2025-11-02,Hair Dryer,Beauty,South,Marketplace,Returning,Credit Card,2,2660.05,5,5054.1,3934.84,1119.26
+ORD-00644,2025-11-03,Laptop Stand,Electronics,North,Marketplace,New,Debit Card,1,3634.8,5,3453.06,2638.98,814.08
+ORD-01101,2025-11-03,Smart Watch,Electronics,South,In-store,New,UPI,3,27321.61,0,81964.83,57997.37,23967.46
+ORD-01146,2025-11-04,Wireless Headphones,Electronics,South,Online,Returning,Debit Card,1,25854.58,0,25854.58,19646.24,6208.34
+ORD-00276,2025-11-04,Coffee Maker,Home & Kitchen,West,Online,Returning,UPI,1,643.8,10,579.42,396.56,182.86
+ORD-00282,2025-11-07,Running Bottle,Sports,North,Marketplace,New,Debit Card,2,4961.53,20,7938.45,7703.33,235.12
+ORD-00729,2025-11-08,Backpack,Fashion,West,Online,Returning,Net Banking,2,4064.5,5,7722.55,5864.93,1857.62
+ORD-01031,2025-11-08,Laptop Stand,Electronics,East,Online,New,UPI,2,16532.95,0,33065.9,19013.31,14052.59
+ORD-00444,2025-11-08,Perfume,Beauty,South,Marketplace,Returning,UPI,2,1300.39,0,2600.78,1492.37,1108.41
+ORD-01244,2025-11-09,Laptop Stand,Electronics,East,Marketplace,Returning,UPI,1,10050.41,0,10050.41,6649.91,3400.5
+ORD-01492,2025-11-09,Laptop Stand,Electronics,Central,In-store,Returning,Credit Card,1,13095.92,15,11131.53,7309.86,3821.67
+ORD-01477,2025-11-09,Sports Bag,Sports,East,In-store,Returning,Credit Card,1,2548.88,10,2293.99,1565.31,728.68
+ORD-01116,2025-11-09,Hair Dryer,Beauty,South,Online,Returning,UPI,1,1828.8,15,1554.48,972.41,582.07
+ORD-00651,2025-11-09,Coffee Maker,Home & Kitchen,South,In-store,Returning,UPI,1,7685.05,0,7685.05,4541.68,3143.37
+ORD-00284,2025-11-10,Hair Dryer,Beauty,North,In-store,New,Credit Card,1,833.1,5,791.44,435.5,355.94
+ORD-00718,2025-11-10,Bluetooth Speaker,Electronics,West,Online,Returning,UPI,1,3236.91,15,2751.37,2240.36,511.01
+ORD-01120,2025-11-11,Yoga Mat,Sports,East,Online,Returning,UPI,1,1733.76,10,1560.38,966.5,593.88
+ORD-00563,2025-11-11,Jacket,Fashion,Central,Online,New,UPI,1,655.49,15,557.17,469.32,87.85
+ORD-00235,2025-11-11,USB-C Hub,Electronics,North,Marketplace,New,Cash,1,4042.59,20,3234.07,2978.18,255.89
+ORD-01018,2025-11-12,Bluetooth Speaker,Electronics,South,Online,New,Credit Card,2,22372.03,10,40269.65,23760.27,16509.38
+ORD-00203,2025-11-12,Storage Organizer,Home & Kitchen,Central,Online,Returning,UPI,1,4160.76,10,3744.68,2266.67,1478.01
+ORD-00252,2025-11-12,Coffee Maker,Home & Kitchen,East,In-store,New,Debit Card,1,3250.16,0,3250.16,2132.36,1117.8
+ORD-01353,2025-11-13,Dumbbells,Sports,West,Online,Returning,Credit Card,1,2910.83,15,2474.21,2032.25,441.96
+ORD-00185,2025-11-13,Running Bottle,Sports,North,Marketplace,New,Credit Card,2,3829.76,10,6893.57,4631.12,2262.45
+ORD-00183,2025-11-14,Desk Lamp,Home & Kitchen,East,In-store,Returning,UPI,3,3758.11,20,9019.46,5944.48,3074.98
+ORD-01356,2025-11-14,Running Bottle,Sports,West,Marketplace,Returning,Credit Card,1,3481.34,10,3133.21,2364.09,769.12
+ORD-00055,2025-11-14,Bluetooth Speaker,Electronics,East,Online,New,UPI,3,23561.52,20,56547.65,53798.16,2749.49
+ORD-01162,2025-11-15,Smart Watch,Electronics,South,Online,Returning,Debit Card,1,16095.64,0,16095.64,10349.49,5746.15
+ORD-00453,2025-11-15,Resistance Bands,Sports,North,Online,Returning,Net Banking,1,4054.88,15,3446.65,3058.07,388.58
+ORD-00405,2025-11-15,Backpack,Fashion,Central,In-store,New,Net Banking,1,4699.52,20,3759.62,2509.7,1249.92
+ORD-00180,2025-11-16,Yoga Mat,Sports,East,Marketplace,Returning,Net Banking,1,421.9,5,400.8,226.45,174.35
+ORD-00406,2025-11-16,Bluetooth Speaker,Electronics,West,In-store,Returning,Credit Card,1,17444.4,15,14827.74,13318.82,1508.92
+ORD-00021,2025-11-16,Water Bottle,Home & Kitchen,South,Online,Returning,Credit Card,4,2903.87,5,11034.71,7881.92,3152.79
+ORD-01053,2025-11-17,Bluetooth Speaker,Electronics,East,Online,New,Cash,2,19607.14,0,39214.28,24705.84,14508.44
+ORD-01379,2025-11-17,Bluetooth Speaker,Electronics,Central,In-store,Returning,Credit Card,1,15039.21,15,12783.33,8208.7,4574.63
+ORD-01091,2025-11-17,Wireless Headphones,Electronics,North,Online,Returning,UPI,1,18979.08,5,18030.13,14441.62,3588.51
+ORD-01008,2025-11-18,Face Cleanser,Beauty,North,Online,New,Debit Card,1,3920.48,5,3724.46,2107.08,1617.38
+ORD-00876,2025-11-18,Resistance Bands,Sports,South,In-store,Returning,UPI,1,1948.97,5,1851.52,1233.3,618.22
+ORD-00667,2025-11-18,Jacket,Fashion,North,Online,Returning,UPI,1,6287.89,0,6287.89,4173.11,2114.78
+ORD-00556,2025-11-18,Perfume,Beauty,West,Online,Returning,UPI,3,229.07,5,652.85,367.45,285.4
+ORD-00629,2025-11-19,Jacket,Fashion,West,Marketplace,New,UPI,1,6185.46,5,5876.19,4666.61,1209.58
+ORD-00115,2025-11-19,Laptop Stand,Electronics,South,Online,Returning,Debit Card,2,12652.29,10,22774.12,18891.56,3882.56
+ORD-01152,2025-11-19,Bluetooth Speaker,Electronics,East,Online,Returning,Net Banking,2,25223.56,15,42880.05,27662.81,15217.24
+ORD-00159,2025-11-19,Storage Organizer,Home & Kitchen,Central,In-store,New,Credit Card,2,2263.84,0,4527.68,3070.22,1457.46
+ORD-00420,2025-11-20,Laptop Stand,Electronics,Central,Online,Returning,UPI,1,27345.56,0,27345.56,20995.68,6349.88
+ORD-01217,2025-11-20,Yoga Mat,Sports,West,Marketplace,Returning,Credit Card,1,3544.22,20,2835.38,2332.45,502.93
+ORD-01490,2025-11-21,T-Shirt,Fashion,East,In-store,New,Debit Card,2,4245.49,25,6368.24,6287.47,80.77
+ORD-00897,2025-11-21,Water Bottle,Home & Kitchen,South,Online,Returning,UPI,3,5985.72,5,17059.3,12405.94,4653.36
+ORD-00940,2025-11-21,Storage Organizer,Home & Kitchen,North,Online,New,Credit Card,3,6428.54,5,18321.34,13577.58,4743.76
+ORD-01241,2025-11-21,Bluetooth Speaker,Electronics,West,In-store,Returning,Credit Card,2,9016.73,0,18033.46,12269.31,5764.15
+ORD-01051,2025-11-21,Jacket,Fashion,Central,Online,Returning,UPI,1,307.9,0,307.9,183.65,124.25
+ORD-00445,2025-11-21,Face Cleanser,Beauty,Central,In-store,New,UPI,5,2886.86,10,12990.87,7724.12,5266.75
+ORD-00017,2025-11-24,Smart Watch,Electronics,Central,Online,New,Net Banking,1,18532.21,25,13899.16,11275.73,2623.43
+ORD-01000,2025-11-24,Coffee Maker,Home & Kitchen,North,Online,Returning,Credit Card,1,4457.94,10,4012.15,3373.07,639.08
+ORD-01442,2025-11-24,T-Shirt,Fashion,South,In-store,Returning,Credit Card,2,2662.42,0,5324.84,4037.7,1287.14
+ORD-00803,2025-11-25,Coffee Maker,Home & Kitchen,South,In-store,Returning,Credit Card,5,6273.71,0,31368.55,21417.81,9950.74
+ORD-01207,2025-11-25,T-Shirt,Fashion,North,Marketplace,Returning,Credit Card,2,3471.54,5,6595.93,4212.1,2383.83
+ORD-00344,2025-11-25,Coffee Maker,Home & Kitchen,North,Online,Returning,UPI,3,2002.03,20,4804.87,4077.24,727.63
+ORD-01296,2025-11-25,Smart Watch,Electronics,South,In-store,Returning,UPI,3,18941.19,5,53982.39,39147.8,14834.59
+ORD-00608,2025-11-25,Wallet,Fashion,South,Online,New,Cash,2,3573.83,20,5718.13,4129.77,1588.36
+ORD-00549,2025-11-26,Dumbbells,Sports,North,Online,Returning,UPI,1,2744.11,0,2744.11,1733.85,1010.26
+ORD-01460,2025-11-26,USB-C Hub,Electronics,West,Online,Returning,UPI,1,17862.86,10,16076.57,10604.84,5471.73
+ORD-01165,2025-11-26,Laptop Stand,Electronics,West,Online,Returning,Credit Card,3,3820.02,5,10887.06,6005.16,4881.9
+ORD-00717,2025-11-27,Desk Lamp,Home & Kitchen,West,Online,Returning,Net Banking,4,2565.4,10,9235.44,7677.68,1557.76
+ORD-00366,2025-11-28,Laptop Stand,Electronics,South,Online,New,UPI,1,8015.59,20,6412.47,4428.57,1983.9
+ORD-01010,2025-11-28,Perfume,Beauty,East,In-store,Returning,Net Banking,1,1377.66,5,1308.78,1047.33,261.45
+ORD-01015,2025-11-28,Laptop Stand,Electronics,East,Online,New,Debit Card,1,26245.26,0,26245.26,17417.43,8827.83
+ORD-00296,2025-11-29,Coffee Maker,Home & Kitchen,Central,Online,Returning,Cash,2,3682.7,15,6260.59,5048.56,1212.03
+ORD-00701,2025-11-29,Running Bottle,Sports,Central,Online,New,Credit Card,3,557.84,10,1506.17,1104.65,401.52
+ORD-00449,2025-11-29,Air Fryer,Home & Kitchen,South,In-store,Returning,Debit Card,2,2414.67,15,4104.94,3701.34,403.6
+ORD-00712,2025-11-30,Backpack,Fashion,West,Online,Returning,Net Banking,3,2806.23,0,8418.69,5516.03,2902.66
+ORD-00679,2025-11-30,Yoga Mat,Sports,South,In-store,New,UPI,4,2168.98,0,8675.92,5551.35,3124.57
+ORD-00893,2025-11-30,Wallet,Fashion,East,Marketplace,New,UPI,3,365.63,5,1042.05,697.37,344.68
+ORD-01311,2025-12-01,Hair Dryer,Beauty,East,In-store,Returning,Cash,5,252.29,10,1135.3,959.79,175.51
+ORD-00578,2025-12-01,Backpack,Fashion,South,Online,Returning,Debit Card,2,4530.77,25,6796.16,5548.88,1247.28
+ORD-00011,2025-12-02,Dumbbells,Sports,South,In-store,Returning,UPI,2,2381.52,20,3810.43,2933.13,877.3
+ORD-01074,2025-12-02,Jacket,Fashion,North,Marketplace,Returning,Debit Card,4,5260.99,5,19991.76,12198.65,7793.11
+ORD-01195,2025-12-02,Running Bottle,Sports,South,In-store,Returning,Cash,1,252.14,5,239.53,182.19,57.34
+ORD-00997,2025-12-02,Resistance Bands,Sports,North,Marketplace,Returning,Credit Card,1,1719.4,20,1375.52,1340.74,34.78
+ORD-00995,2025-12-04,Resistance Bands,Sports,South,Marketplace,Returning,UPI,2,1940.75,15,3299.28,2299.47,999.81
+ORD-01392,2025-12-04,Storage Organizer,Home & Kitchen,West,In-store,New,UPI,1,8418.58,20,6734.86,5160.34,1574.52
+ORD-00507,2025-12-05,Running Bottle,Sports,East,In-store,Returning,UPI,3,2959.43,15,7546.55,6630.32,916.23
+ORD-01299,2025-12-05,Laptop Stand,Electronics,East,In-store,Returning,Credit Card,1,16701.95,10,15031.76,12253.17,2778.59
+ORD-00488,2025-12-05,Water Bottle,Home & Kitchen,West,Online,Returning,Net Banking,6,4721.3,5,26911.41,22083.8,4827.61
+ORD-00747,2025-12-06,Sunscreen,Beauty,South,In-store,Returning,Credit Card,1,2709.48,15,2303.06,1820.3,482.76
+ORD-00656,2025-12-06,Water Bottle,Home & Kitchen,North,Online,New,Net Banking,1,7422.97,10,6680.67,5365.94,1314.73
+ORD-01147,2025-12-06,Wallet,Fashion,North,In-store,New,UPI,2,352.58,25,528.87,419.08,109.79
+ORD-01164,2025-12-06,T-Shirt,Fashion,South,Online,Returning,Net Banking,1,3643.11,0,3643.11,2379.86,1263.25
+ORD-01335,2025-12-07,Dumbbells,Sports,West,In-store,Returning,Debit Card,1,1146.5,10,1031.85,862.85,169.0
+ORD-00351,2025-12-07,USB-C Hub,Electronics,North,Online,Returning,UPI,2,21948.41,20,35117.46,28441.54,6675.92
+ORD-01341,2025-12-07,Desk Lamp,Home & Kitchen,North,Online,Returning,Credit Card,4,7005.22,0,28020.88,15046.3,12974.58
+ORD-00648,2025-12-08,Perfume,Beauty,South,In-store,New,Credit Card,1,2077.55,5,1973.67,1573.91,399.76
+ORD-00931,2025-12-09,Sports Bag,Sports,East,Online,New,Credit Card,1,607.2,10,546.48,369.25,177.23
+ORD-00606,2025-12-09,Bluetooth Speaker,Electronics,North,Online,New,Credit Card,1,26476.57,15,22505.08,15975.33,6529.75
+ORD-00561,2025-12-09,Storage Organizer,Home & Kitchen,West,Online,Returning,UPI,1,6156.42,5,5848.6,3446.3,2402.3
+ORD-00877,2025-12-11,Coffee Maker,Home & Kitchen,North,Online,New,UPI,4,7498.53,15,25495.0,17809.1,7685.9
+ORD-00539,2025-12-11,Water Bottle,Home & Kitchen,North,Marketplace,Returning,Credit Card,2,6440.45,15,10948.76,9528.96,1419.8
+ORD-01259,2025-12-11,Laptop Stand,Electronics,Central,Online,Returning,Debit Card,1,11086.55,0,11086.55,5859.79,5226.76
+ORD-01140,2025-12-11,Water Bottle,Home & Kitchen,West,In-store,New,Credit Card,5,655.08,15,2784.09,2453.43,330.66
+ORD-01380,2025-12-12,Wireless Headphones,Electronics,North,Online,New,UPI,2,1305.35,20,2088.56,1877.57,210.99
+ORD-00927,2025-12-12,Sports Bag,Sports,East,Marketplace,New,Cash,3,3406.43,10,9197.36,5602.7,3594.66
+ORD-00289,2025-12-12,Air Fryer,Home & Kitchen,North,Online,New,UPI,1,3789.43,20,3031.54,2117.62,913.92
+ORD-00305,2025-12-13,Desk Lamp,Home & Kitchen,West,Marketplace,Returning,Credit Card,2,367.01,10,660.62,494.99,165.63
+ORD-00917,2025-12-13,Moisturizer,Beauty,East,Online,New,Net Banking,3,2322.42,10,6270.53,5176.83,1093.7
+ORD-00029,2025-12-14,Running Bottle,Sports,East,Online,Returning,Debit Card,1,360.31,5,342.29,244.11,98.18
+ORD-00789,2025-12-14,Dumbbells,Sports,South,Online,Returning,Debit Card,2,1277.61,15,2171.94,1554.18,617.76
+ORD-00807,2025-12-14,Moisturizer,Beauty,West,Marketplace,Returning,UPI,1,2807.61,20,2246.09,1654.86,591.23
+ORD-00295,2025-12-14,Smart Watch,Electronics,East,Online,New,UPI,1,5233.49,10,4710.14,3060.02,1650.12
+ORD-00057,2025-12-15,Yoga Mat,Sports,East,In-store,New,Debit Card,1,3273.58,5,3109.9,2152.96,956.94
+ORD-00229,2025-12-15,Backpack,Fashion,West,In-store,Returning,UPI,3,5146.39,20,12351.34,8102.32,4249.02
+ORD-00331,2025-12-15,Air Fryer,Home & Kitchen,Central,In-store,Returning,Net Banking,3,5708.82,5,16270.14,9935.61,6334.53
+ORD-00983,2025-12-16,Dumbbells,Sports,East,Online,New,Cash,1,4933.74,15,4193.68,3659.53,534.15
+ORD-00879,2025-12-16,Laptop Stand,Electronics,North,Online,Returning,Debit Card,2,5650.23,10,10170.41,8536.12,1634.29
+ORD-01323,2025-12-17,Water Bottle,Home & Kitchen,East,In-store,Returning,UPI,3,2209.67,15,5634.66,4102.11,1532.55
+ORD-00992,2025-12-17,Bluetooth Speaker,Electronics,South,In-store,New,Net Banking,1,10295.46,5,9780.69,7240.85,2539.84
+ORD-01497,2025-12-18,Water Bottle,Home & Kitchen,East,In-store,New,Cash,1,3261.37,5,3098.3,2187.93,910.37
+ORD-01222,2025-12-19,Sunscreen,Beauty,North,Online,New,UPI,2,2913.15,10,5243.67,3371.24,1872.43
+ORD-00762,2025-12-19,Wireless Headphones,Electronics,South,In-store,Returning,Credit Card,4,1921.39,10,6917.0,5218.15,1698.85
+ORD-00655,2025-12-19,USB-C Hub,Electronics,South,Online,Returning,UPI,1,24120.29,5,22914.28,15076.03,7838.25
+ORD-00034,2025-12-20,Jacket,Fashion,South,In-store,New,Credit Card,3,5802.58,0,17407.74,13168.72,4239.02
+ORD-00330,2025-12-20,Storage Organizer,Home & Kitchen,South,Marketplace,New,Credit Card,2,5510.22,10,9918.4,5756.51,4161.89
+ORD-01365,2025-12-20,USB-C Hub,Electronics,West,In-store,New,Credit Card,1,2989.9,5,2840.4,1672.61,1167.79
+ORD-00308,2025-12-20,USB-C Hub,Electronics,North,In-store,Returning,Debit Card,1,26050.36,15,22142.81,15633.93,6508.88
+ORD-00132,2025-12-20,Sneakers,Fashion,Central,Online,Returning,UPI,1,4851.97,0,4851.97,3600.87,1251.1
+ORD-00113,2025-12-21,Resistance Bands,Sports,West,In-store,New,UPI,4,2613.92,15,8887.33,7106.98,1780.35
+ORD-00755,2025-12-21,Dumbbells,Sports,East,In-store,Returning,UPI,2,3118.89,20,4990.22,4716.27,273.95
+ORD-01129,2025-12-21,T-Shirt,Fashion,West,Online,Returning,UPI,1,1067.68,10,960.91,752.98,207.93
+ORD-01084,2025-12-21,Wireless Headphones,Electronics,South,In-store,New,Credit Card,1,26841.61,10,24157.45,18540.08,5617.37
+ORD-01258,2025-12-21,Laptop Stand,Electronics,East,In-store,Returning,Credit Card,1,12031.4,15,10226.69,9031.21,1195.48
+ORD-00456,2025-12-21,Wireless Headphones,Electronics,West,Online,Returning,UPI,5,4626.65,20,18506.6,15813.11,2693.49
+ORD-00158,2025-12-22,Laptop Stand,Electronics,North,Online,New,Cash,3,3814.42,15,9726.77,7387.83,2338.94
+ORD-01003,2025-12-23,Face Cleanser,Beauty,Central,Online,Returning,Credit Card,2,930.38,15,1581.65,1203.76,377.89
+ORD-00134,2025-12-23,Backpack,Fashion,North,Online,New,UPI,2,3941.3,15,6700.21,4302.91,2397.3
+ORD-01387,2025-12-24,Water Bottle,Home & Kitchen,South,Online,Returning,Credit Card,5,5809.55,5,27595.36,19348.56,8246.8
+ORD-01412,2025-12-25,Air Fryer,Home & Kitchen,North,Online,Returning,UPI,4,451.86,0,1807.44,1131.17,676.27
+ORD-01434,2025-12-25,Smart Watch,Electronics,South,Online,New,Net Banking,2,14297.45,10,25735.41,15577.21,10158.2
+ORD-00079,2025-12-27,Moisturizer,Beauty,East,In-store,New,Credit Card,1,267.44,0,267.44,198.7,68.74
+ORD-00126,2025-12-27,Moisturizer,Beauty,North,In-store,New,Credit Card,2,3840.14,15,6528.24,5220.88,1307.36
+ORD-01029,2025-12-27,Coffee Maker,Home & Kitchen,East,Marketplace,Returning,Cash,3,7943.7,5,22639.54,13742.47,8897.07
+ORD-00980,2025-12-27,Storage Organizer,Home & Kitchen,West,Marketplace,Returning,Cash,3,1351.3,15,3445.81,2603.12,842.69
+ORD-00706,2025-12-27,Laptop Stand,Electronics,North,Online,Returning,Debit Card,1,4344.58,15,3692.89,2387.77,1305.12
+ORD-00131,2025-12-27,Coffee Maker,Home & Kitchen,South,Online,New,UPI,1,1069.37,10,962.43,601.8,360.63
+ORD-01189,2025-12-28,Desk Lamp,Home & Kitchen,North,In-store,New,Credit Card,2,2377.19,0,4754.38,3418.74,1335.64
+ORD-00437,2025-12-28,Water Bottle,Home & Kitchen,South,Online,Returning,Credit Card,3,2694.95,0,8084.85,5994.95,2089.9
+ORD-00116,2025-12-29,Sunscreen,Beauty,West,Online,Returning,Cash,1,3405.68,5,3235.4,1885.84,1349.56
+ORD-00570,2025-12-31,Perfume,Beauty,South,In-store,Returning,Net Banking,1,2584.4,10,2325.96,1843.7,482.26
+ORD-00288,2025-12-31,Coffee Maker,Home & Kitchen,South,In-store,Returning,Cash,1,5154.7,15,4381.5,2996.91,1384.59
+ORD-00708,2026-01-01,Desk Lamp,Home & Kitchen,West,Marketplace,Returning,Debit Card,2,8336.25,0,16672.5,12855.61,3816.89
+ORD-00922,2026-01-01,Wallet,Fashion,Central,In-store,Returning,Cash,1,3611.3,20,2889.04,2409.69,479.35
+ORD-00978,2026-01-01,Hair Dryer,Beauty,North,Online,New,UPI,4,3385.76,10,12188.74,9996.64,2192.1
+ORD-01455,2026-01-01,Desk Lamp,Home & Kitchen,East,Online,Returning,UPI,3,3505.7,0,10517.1,7455.58,3061.52
+ORD-00129,2026-01-02,Jacket,Fashion,West,Online,Returning,Credit Card,4,2047.18,0,8188.72,6159.1,2029.62
+ORD-01344,2026-01-02,Wireless Headphones,Electronics,South,In-store,New,UPI,2,26705.63,0,53411.26,36325.31,17085.95
+ORD-00930,2026-01-04,Wallet,Fashion,Central,In-store,Returning,UPI,4,3452.97,10,12430.69,9694.72,2735.97
+ORD-00535,2026-01-04,Face Cleanser,Beauty,West,In-store,Returning,Credit Card,4,3681.67,5,13990.35,9890.55,4099.8
+ORD-00597,2026-01-05,Desk Lamp,Home & Kitchen,Central,In-store,New,Credit Card,1,1836.92,20,1469.54,1334.15,135.39
+ORD-00228,2026-01-05,Water Bottle,Home & Kitchen,North,Online,New,Debit Card,2,7031.86,10,12657.35,9765.21,2892.14
+ORD-00266,2026-01-06,Wireless Headphones,Electronics,South,Online,Returning,Credit Card,1,20261.68,0,20261.68,13811.71,6449.97
+ORD-00677,2026-01-06,Smart Watch,Electronics,South,Online,Returning,UPI,1,16906.18,0,16906.18,11202.5,5703.68
+ORD-00424,2026-01-06,Resistance Bands,Sports,South,Marketplace,Returning,UPI,1,1215.58,0,1215.58,946.85,268.73
+ORD-01161,2026-01-07,Wireless Headphones,Electronics,East,Online,Returning,Debit Card,3,4869.21,0,14607.63,10049.54,4558.09
+ORD-00242,2026-01-08,Running Bottle,Sports,East,Online,New,UPI,3,2594.77,0,7784.31,5258.79,2525.52
+ORD-01415,2026-01-09,Sunscreen,Beauty,South,Online,Returning,UPI,6,1342.24,0,8053.44,4252.41,3801.03
+ORD-00985,2026-01-10,Sunscreen,Beauty,South,Marketplace,New,Cash,1,2489.22,5,2364.76,1618.54,746.22
+ORD-00260,2026-01-10,Jacket,Fashion,North,Marketplace,New,UPI,4,2965.28,15,10081.95,7464.03,2617.92
+ORD-01156,2026-01-10,Air Fryer,Home & Kitchen,North,Online,Returning,Credit Card,2,3226.11,15,5484.39,3542.14,1942.25
+ORD-01118,2026-01-10,Wireless Headphones,Electronics,Central,Marketplace,Returning,UPI,1,15605.45,20,12484.36,11002.44,1481.92
+ORD-00966,2026-01-11,Running Bottle,Sports,North,Marketplace,Returning,UPI,3,297.85,15,759.52,618.92,140.6
+ORD-00786,2026-01-11,T-Shirt,Fashion,Central,Online,Returning,Credit Card,1,4258.36,5,4045.44,2387.86,1657.58
+ORD-01423,2026-01-11,Jacket,Fashion,East,In-store,New,Credit Card,3,2927.6,25,6587.1,5442.32,1144.78
+ORD-01396,2026-01-12,Hair Dryer,Beauty,South,In-store,Returning,Credit Card,1,1846.23,20,1476.98,1379.82,97.16
+ORD-01318,2026-01-12,Perfume,Beauty,West,Online,Returning,Cash,1,2109.32,5,2003.85,1613.77,390.08
+ORD-00698,2026-01-12,Wallet,Fashion,North,Online,New,Credit Card,1,2933.49,15,2493.47,1764.81,728.66
+ORD-00981,2026-01-12,Perfume,Beauty,North,Online,Returning,Credit Card,2,1232.03,0,2464.06,1785.56,678.5
+ORD-00270,2026-01-13,Coffee Maker,Home & Kitchen,North,In-store,New,UPI,3,7884.24,0,23652.72,14461.27,9191.45
+ORD-00548,2026-01-13,Bluetooth Speaker,Electronics,Central,Marketplace,Returning,Net Banking,2,19831.03,0,39662.06,30286.73,9375.33
+ORD-00915,2026-01-13,Moisturizer,Beauty,South,In-store,Returning,Credit Card,5,1408.31,0,7041.55,3815.4,3226.15
+ORD-00688,2026-01-14,Backpack,Fashion,Central,In-store,Returning,UPI,2,5651.89,5,10738.59,7162.7,3575.89
+ORD-00520,2026-01-15,Jacket,Fashion,West,Online,New,UPI,2,1152.42,0,2304.84,1690.25,614.59
+ORD-01350,2026-01-15,Wireless Headphones,Electronics,West,Marketplace,New,Net Banking,1,23351.61,15,19848.87,12978.64,6870.23
+ORD-00468,2026-01-16,Sneakers,Fashion,South,Online,Returning,Cash,5,4149.43,0,20747.15,14546.18,6200.97
+ORD-00455,2026-01-16,Smart Watch,Electronics,Central,Online,Returning,Cash,4,15334.25,10,55203.3,47428.15,7775.15
+ORD-01188,2026-01-17,Sneakers,Fashion,North,Online,New,Debit Card,1,2458.95,0,2458.95,1651.83,807.12
+ORD-00665,2026-01-17,Smart Watch,Electronics,South,In-store,New,Debit Card,3,2961.0,0,8883.0,4854.87,4028.13
+ORD-00531,2026-01-17,Air Fryer,Home & Kitchen,North,Online,New,UPI,1,4987.99,0,4987.99,3100.88,1887.11
+ORD-00394,2026-01-18,Yoga Mat,Sports,North,Online,New,Credit Card,2,1253.09,0,2506.18,1615.34,890.84
+ORD-00720,2026-01-18,Smart Watch,Electronics,East,Online,Returning,Cash,3,1115.44,0,3346.32,1751.89,1594.43
+ORD-01048,2026-01-19,Coffee Maker,Home & Kitchen,South,In-store,New,UPI,1,3997.67,10,3597.9,2118.0,1479.9
+ORD-00967,2026-01-19,Coffee Maker,Home & Kitchen,East,Marketplace,Returning,Debit Card,2,3517.61,10,6331.7,3897.29,2434.41
+ORD-00137,2026-01-20,Water Bottle,Home & Kitchen,West,Online,Returning,UPI,5,4589.92,10,20654.64,11973.9,8680.74
+ORD-00494,2026-01-20,Laptop Stand,Electronics,East,Online,New,Net Banking,1,16899.4,15,14364.49,10381.94,3982.55
+ORD-00625,2026-01-21,Face Cleanser,Beauty,West,In-store,New,Net Banking,5,3171.15,20,12684.6,10887.07,1797.53
+ORD-00490,2026-01-22,USB-C Hub,Electronics,East,Online,Returning,Net Banking,4,25416.69,0,101666.76,58721.43,42945.33
+ORD-00850,2026-01-22,Storage Organizer,Home & Kitchen,South,Online,Returning,Credit Card,5,566.23,10,2548.04,2107.08,440.96
+ORD-00193,2026-01-23,USB-C Hub,Electronics,East,In-store,New,Debit Card,1,14996.83,0,14996.83,8229.95,6766.88
+ORD-01181,2026-01-23,Backpack,Fashion,West,Marketplace,New,Credit Card,1,5712.83,10,5141.55,4254.36,887.19
+ORD-00956,2026-01-25,Face Cleanser,Beauty,East,In-store,Returning,Credit Card,1,1984.89,5,1885.65,1144.1,741.55
+ORD-01305,2026-01-25,Air Fryer,Home & Kitchen,North,In-store,Returning,Cash,2,7854.88,10,14138.78,10646.71,3492.07
+ORD-00896,2026-01-26,Backpack,Fashion,West,Online,New,UPI,2,5415.95,10,9748.71,6250.6,3498.11
+ORD-00767,2026-01-26,Laptop Stand,Electronics,East,Online,Returning,Net Banking,2,7677.2,0,15354.4,11307.06,4047.34
+ORD-00269,2026-01-26,Wireless Headphones,Electronics,Central,Online,New,Net Banking,3,25491.96,0,76475.88,46457.47,30018.41
+ORD-01135,2026-01-27,Desk Lamp,Home & Kitchen,East,Online,New,Credit Card,2,5123.42,0,10246.84,5761.39,4485.45
+ORD-00672,2026-01-27,T-Shirt,Fashion,East,In-store,New,UPI,3,6293.22,20,15103.73,11118.86,3984.87
+ORD-00323,2026-01-28,Water Bottle,Home & Kitchen,West,In-store,Returning,Debit Card,1,1436.87,0,1436.87,860.77,576.1
+ORD-00953,2026-01-28,Water Bottle,Home & Kitchen,Central,In-store,New,Credit Card,1,7375.38,0,7375.38,3989.59,3385.79
+ORD-00900,2026-01-29,Sports Bag,Sports,North,Online,Returning,Cash,5,4624.58,5,21966.76,16317.34,5649.42
+ORD-00702,2026-01-29,T-Shirt,Fashion,South,Online,Returning,Net Banking,1,1014.77,15,862.55,769.28,93.27
+ORD-00601,2026-01-29,Running Bottle,Sports,South,In-store,New,Credit Card,4,2764.2,15,9398.28,6015.3,3382.98
+ORD-00987,2026-01-29,Moisturizer,Beauty,South,Marketplace,Returning,Net Banking,5,3353.31,20,13413.24,9453.1,3960.14
+ORD-01200,2026-01-31,Moisturizer,Beauty,North,Online,Returning,Credit Card,3,3264.9,5,9304.96,6478.24,2826.72
+ORD-01397,2026-01-31,Wireless Headphones,Electronics,North,Online,Returning,Debit Card,1,2368.06,0,2368.06,1269.05,1099.01
+ORD-00343,2026-02-01,Coffee Maker,Home & Kitchen,North,Online,Returning,Credit Card,1,7566.1,0,7566.1,5351.1,2215.0
+ORD-00675,2026-02-01,Air Fryer,Home & Kitchen,West,Online,Returning,Credit Card,2,3768.18,5,7159.54,4364.32,2795.22
+ORD-01290,2026-02-01,Sports Bag,Sports,East,Online,New,Cash,1,847.49,25,635.62,563.64,71.98
+ORD-00825,2026-02-02,USB-C Hub,Electronics,West,Online,Returning,Net Banking,1,11356.83,10,10221.15,7262.81,2958.34
+ORD-01211,2026-02-02,Sneakers,Fashion,West,In-store,Returning,UPI,2,357.56,15,607.85,405.21,202.64
+ORD-00996,2026-02-04,Backpack,Fashion,North,Online,Returning,UPI,1,3069.83,5,2916.34,2108.22,808.12
+ORD-00599,2026-02-05,Water Bottle,Home & Kitchen,Central,Marketplace,New,UPI,1,6612.33,10,5951.1,5028.63,922.47
+ORD-00240,2026-02-05,Running Bottle,Sports,South,In-store,Returning,UPI,1,4814.85,15,4092.62,3297.65,794.97
+ORD-00085,2026-02-06,Running Bottle,Sports,West,In-store,New,UPI,2,366.67,20,586.67,480.96,105.71
+ORD-01171,2026-02-06,Sneakers,Fashion,Central,In-store,Returning,Credit Card,2,3423.07,25,5134.61,4378.73,755.88
+ORD-00880,2026-02-06,Storage Organizer,Home & Kitchen,South,Marketplace,New,UPI,1,3342.67,5,3175.54,2164.94,1010.6
+ORD-00245,2026-02-06,Hair Dryer,Beauty,North,Online,New,Cash,3,1589.91,20,3815.78,3166.28,649.5
+ORD-01172,2026-02-07,Desk Lamp,Home & Kitchen,West,Marketplace,Returning,Debit Card,2,3031.71,0,6063.42,3460.68,2602.74
+ORD-00192,2026-02-07,Face Cleanser,Beauty,North,Online,New,UPI,2,1276.3,0,2552.6,1784.18,768.42
+ORD-00040,2026-02-08,Wallet,Fashion,West,Online,Returning,Debit Card,5,575.32,10,2588.94,2170.06,418.88
+ORD-01111,2026-02-08,Sneakers,Fashion,South,Online,Returning,Credit Card,1,2614.26,5,2483.55,1367.33,1116.22
+ORD-00658,2026-02-08,Wireless Headphones,Electronics,South,In-store,Returning,Credit Card,4,2203.32,15,7491.29,6534.36,956.93
+ORD-01370,2026-02-09,Desk Lamp,Home & Kitchen,South,Online,Returning,UPI,1,8889.72,10,8000.75,5312.13,2688.62
+ORD-01196,2026-02-09,Face Cleanser,Beauty,East,Online,Returning,UPI,3,3695.67,10,9978.31,7785.07,2193.24
+ORD-00130,2026-02-09,Sneakers,Fashion,Central,Online,New,Cash,2,4327.32,20,6923.71,5528.74,1394.97
+ORD-00475,2026-02-09,USB-C Hub,Electronics,East,In-store,New,Cash,2,10787.93,10,19418.27,12173.1,7245.17
+ORD-00458,2026-02-09,Sneakers,Fashion,Central,Online,Returning,Debit Card,2,1409.66,5,2678.35,1751.61,926.74
+ORD-00958,2026-02-09,Air Fryer,Home & Kitchen,Central,In-store,Returning,Net Banking,1,1425.37,5,1354.1,840.13,513.97
+ORD-00743,2026-02-09,Wallet,Fashion,Central,Online,New,Net Banking,2,3872.43,0,7744.86,5677.81,2067.05
+ORD-00673,2026-02-10,Water Bottle,Home & Kitchen,South,Marketplace,Returning,UPI,3,8369.1,0,25107.3,17077.62,8029.68
+ORD-01467,2026-02-10,Bluetooth Speaker,Electronics,North,In-store,New,UPI,3,11303.42,0,33910.26,24448.39,9461.87
+ORD-01417,2026-02-10,Moisturizer,Beauty,East,Marketplace,New,UPI,3,1965.22,20,4716.53,4255.38,461.15
+ORD-00341,2026-02-10,Desk Lamp,Home & Kitchen,South,Marketplace,Returning,Net Banking,3,720.97,10,1946.62,1188.38,758.24
+ORD-01235,2026-02-11,Jacket,Fashion,North,Online,Returning,Cash,3,5144.98,15,13119.7,10730.28,2389.42
+ORD-00782,2026-02-11,Bluetooth Speaker,Electronics,West,Online,Returning,UPI,2,14904.51,15,25337.67,16896.82,8440.85
+ORD-01128,2026-02-11,Coffee Maker,Home & Kitchen,East,In-store,Returning,Net Banking,5,8563.76,10,38536.92,28407.1,10129.82
+ORD-00099,2026-02-11,USB-C Hub,Electronics,South,Online,Returning,Debit Card,1,15984.92,20,12787.94,9739.24,3048.7
+ORD-00920,2026-02-11,Hair Dryer,Beauty,South,Online,Returning,Credit Card,5,3581.46,10,16116.57,10283.04,5833.53
+ORD-01337,2026-02-12,Water Bottle,Home & Kitchen,North,Marketplace,Returning,UPI,2,5536.52,0,11073.04,7465.32,3607.72
+ORD-00616,2026-02-13,Sneakers,Fashion,West,Marketplace,New,Net Banking,2,3014.26,15,5124.24,3233.61,1890.63
+ORD-01068,2026-02-13,Sneakers,Fashion,West,Online,Returning,UPI,3,6252.62,15,15944.18,10458.45,5485.73
+ORD-00600,2026-02-14,Smart Watch,Electronics,South,Marketplace,Returning,Net Banking,2,15559.57,5,29563.18,20462.17,9101.01
+ORD-00569,2026-02-14,Yoga Mat,Sports,West,Online,Returning,Credit Card,1,609.51,25,457.13,419.27,37.86
+ORD-00026,2026-02-15,Sunscreen,Beauty,North,In-store,Returning,Debit Card,2,2167.43,10,3901.37,2367.78,1533.59
+ORD-00984,2026-02-18,Water Bottle,Home & Kitchen,South,Online,Returning,UPI,2,5485.86,10,9874.55,6486.45,3388.1
+ORD-01221,2026-02-19,Water Bottle,Home & Kitchen,North,In-store,New,Cash,1,7275.38,10,6547.84,5443.94,1103.9
+ORD-01130,2026-02-19,Backpack,Fashion,Central,Online,New,Net Banking,2,2675.52,0,5351.04,3433.03,1918.01
+ORD-00934,2026-02-19,Storage Organizer,Home & Kitchen,North,Online,Returning,UPI,3,2043.05,15,5209.78,4585.65,624.13
+ORD-00824,2026-02-19,Dumbbells,Sports,North,Online,New,Net Banking,4,2381.54,10,8573.54,5786.66,2786.88
+ORD-01255,2026-02-19,Wireless Headphones,Electronics,West,Online,Returning,Credit Card,2,19641.91,15,33391.25,29900.04,3491.21
+ORD-00244,2026-02-19,Smart Watch,Electronics,South,Online,Returning,Net Banking,3,7755.97,15,19777.72,16413.16,3364.56
+ORD-00771,2026-02-20,Coffee Maker,Home & Kitchen,Central,Marketplace,New,UPI,1,3521.86,10,3169.67,2668.31,501.36
+ORD-00502,2026-02-20,Wireless Headphones,Electronics,East,In-store,New,Net Banking,1,18149.92,0,18149.92,12793.68,5356.24
+ORD-01205,2026-02-20,Moisturizer,Beauty,West,In-store,Returning,UPI,1,2851.4,5,2708.83,1630.42,1078.41
+ORD-01089,2026-02-20,Sports Bag,Sports,North,In-store,New,UPI,1,1021.83,20,817.46,702.57,114.89
+ORD-00986,2026-02-21,Yoga Mat,Sports,North,Marketplace,Returning,Cash,2,4805.07,15,8168.62,6688.55,1480.07
+ORD-01398,2026-02-21,Perfume,Beauty,West,Marketplace,New,Debit Card,1,1676.54,5,1592.71,920.21,672.5
+ORD-00652,2026-02-21,Bluetooth Speaker,Electronics,North,Online,Returning,UPI,1,22605.89,15,19215.01,14377.2,4837.81
+ORD-01438,2026-02-21,T-Shirt,Fashion,South,Online,New,Credit Card,6,5959.73,5,33970.46,19136.65,14833.81
+ORD-01224,2026-02-22,Storage Organizer,Home & Kitchen,North,Marketplace,New,Cash,1,6439.6,0,6439.6,4373.66,2065.94
+ORD-00003,2026-02-22,Water Bottle,Home & Kitchen,South,In-store,Returning,Credit Card,1,4528.44,0,4528.44,3021.76,1506.68
+ORD-00123,2026-02-22,Perfume,Beauty,South,In-store,Returning,Credit Card,4,3507.85,0,14031.4,10163.16,3868.24
+ORD-00842,2026-02-23,Bluetooth Speaker,Electronics,West,Online,Returning,UPI,1,6648.83,5,6316.39,3979.71,2336.68
+ORD-00730,2026-02-24,Sneakers,Fashion,West,Online,Returning,UPI,3,6127.25,10,16543.58,11279.52,5264.06
+ORD-01277,2026-02-24,Dumbbells,Sports,South,In-store,Returning,UPI,1,3784.83,10,3406.35,2722.25,684.1
+ORD-00316,2026-02-25,Moisturizer,Beauty,North,Online,Returning,Debit Card,1,3773.75,5,3585.06,2910.98,674.08
+ORD-00255,2026-02-26,Sneakers,Fashion,North,Marketplace,Returning,UPI,2,5417.46,0,10834.92,6443.84,4391.08
+ORD-00372,2026-02-27,USB-C Hub,Electronics,North,Online,New,Credit Card,1,3181.24,0,3181.24,2005.98,1175.26
+ORD-00446,2026-02-27,Bluetooth Speaker,Electronics,South,Marketplace,New,Debit Card,5,8558.63,0,42793.15,31057.52,11735.63
+ORD-00156,2026-02-27,Backpack,Fashion,South,Marketplace,New,Cash,1,5969.44,0,5969.44,3391.97,2577.47
+ORD-00237,2026-02-28,Coffee Maker,Home & Kitchen,Central,In-store,Returning,Cash,1,3405.74,10,3065.17,2223.1,842.07
+ORD-00162,2026-02-28,Sunscreen,Beauty,Central,Marketplace,Returning,Net Banking,3,3483.44,10,9405.29,6943.02,2462.27
+ORD-00479,2026-02-28,Perfume,Beauty,Central,Marketplace,New,Net Banking,2,1387.76,25,2081.64,2144.56,-62.92
+ORD-00311,2026-03-01,Moisturizer,Beauty,Central,In-store,New,Credit Card,1,1023.27,20,818.62,556.25,262.37
+ORD-00822,2026-03-01,Wallet,Fashion,West,In-store,Returning,UPI,1,5954.68,5,5656.95,4164.01,1492.94
+ORD-00819,2026-03-01,Jacket,Fashion,West,Online,New,Debit Card,2,2777.24,5,5276.76,3785.42,1491.34
+ORD-00108,2026-03-01,Sunscreen,Beauty,West,Online,New,Credit Card,5,1879.01,0,9395.05,7252.61,2142.44
+ORD-00859,2026-03-03,Coffee Maker,Home & Kitchen,West,Online,New,Net Banking,1,4787.06,15,4069.0,2646.34,1422.66
+ORD-01049,2026-03-03,Sneakers,Fashion,South,In-store,Returning,Cash,1,6265.24,25,4698.93,3399.57,1299.36
+ORD-00122,2026-03-03,USB-C Hub,Electronics,South,Marketplace,New,Cash,2,26916.55,15,45758.13,35727.05,10031.08
+ORD-00080,2026-03-04,Air Fryer,Home & Kitchen,South,Online,Returning,Debit Card,1,3186.48,5,3027.16,1889.4,1137.76
+ORD-00641,2026-03-04,Moisturizer,Beauty,South,In-store,New,Debit Card,1,2937.8,10,2644.02,1914.33,729.69
+ORD-01132,2026-03-04,T-Shirt,Fashion,West,Online,Returning,UPI,2,960.72,15,1633.22,1022.0,611.22
+ORD-00736,2026-03-05,USB-C Hub,Electronics,Central,In-store,Returning,Credit Card,2,16882.37,25,25323.56,21470.82,3852.74
+ORD-01427,2026-03-05,Desk Lamp,Home & Kitchen,North,Marketplace,Returning,Cash,1,1225.19,25,918.89,786.8,132.09
+ORD-00312,2026-03-05,Sneakers,Fashion,Central,In-store,Returning,UPI,2,3773.32,10,6791.98,5303.95,1488.03
+ORD-01306,2026-03-05,Backpack,Fashion,North,In-store,Returning,UPI,2,4051.05,0,8102.1,5755.52,2346.58
+ORD-00283,2026-03-05,Sneakers,Fashion,South,Marketplace,Returning,UPI,1,3253.69,20,2602.95,2302.18,300.77
+ORD-01329,2026-03-07,Coffee Maker,Home & Kitchen,West,In-store,New,Credit Card,1,3495.56,0,3495.56,2218.35,1277.21
+ORD-01071,2026-03-07,Hair Dryer,Beauty,South,Online,Returning,UPI,3,2170.33,10,5859.89,5044.06,815.83
+ORD-01424,2026-03-07,USB-C Hub,Electronics,South,Online,Returning,Debit Card,3,8056.04,10,21751.31,14065.97,7685.34
+ORD-01274,2026-03-07,Coffee Maker,Home & Kitchen,Central,In-store,New,Cash,2,3348.89,0,6697.78,4004.3,2693.48
+ORD-00257,2026-03-09,Sunscreen,Beauty,North,Online,Returning,Credit Card,3,2226.18,15,5676.76,5104.06,572.7
+ORD-01298,2026-03-09,Jacket,Fashion,East,Marketplace,New,UPI,1,2928.89,0,2928.89,1612.85,1316.04
+ORD-00049,2026-03-09,Running Bottle,Sports,Central,In-store,New,Credit Card,2,4963.28,10,8933.9,6002.18,2931.72
+ORD-00416,2026-03-09,Face Cleanser,Beauty,South,Marketplace,New,Net Banking,5,2310.04,25,8662.65,7892.27,770.38
+ORD-00711,2026-03-10,Yoga Mat,Sports,Central,Online,New,UPI,2,4112.86,10,7403.15,5975.42,1427.73
+ORD-01327,2026-03-10,Face Cleanser,Beauty,North,In-store,Returning,UPI,2,1058.2,20,1693.12,1567.27,125.85
+ORD-00827,2026-03-11,Running Bottle,Sports,South,In-store,New,UPI,2,4570.23,20,7312.37,5499.78,1812.59
+ORD-00550,2026-03-11,Water Bottle,Home & Kitchen,Central,Marketplace,New,UPI,1,1542.73,5,1465.59,821.16,644.43
+ORD-00060,2026-03-12,Hair Dryer,Beauty,South,In-store,Returning,Net Banking,3,3364.13,10,9083.15,7124.57,1958.58
+ORD-00098,2026-03-12,Yoga Mat,Sports,South,Online,Returning,UPI,2,2091.03,0,4182.06,3070.59,1111.47
+ORD-00813,2026-03-13,Moisturizer,Beauty,East,Online,New,Credit Card,2,2573.97,0,5147.94,3760.0,1387.94
+ORD-00191,2026-03-13,Coffee Maker,Home & Kitchen,North,Online,Returning,Credit Card,4,4310.58,10,15518.09,8983.86,6534.23
+ORD-00636,2026-03-14,Wireless Headphones,Electronics,North,In-store,New,UPI,4,1560.09,10,5616.32,4025.51,1590.81
+ORD-00788,2026-03-14,Sports Bag,Sports,North,In-store,Returning,Net Banking,5,2033.93,15,8644.2,5552.98,3091.22
+ORD-00075,2026-03-14,Resistance Bands,Sports,Central,Marketplace,Returning,Credit Card,3,3771.26,10,10182.4,7474.14,2708.26
+ORD-00615,2026-03-14,Sneakers,Fashion,East,Online,Returning,Credit Card,2,620.89,0,1241.78,775.91,465.87
+ORD-01062,2026-03-15,Coffee Maker,Home & Kitchen,West,Online,New,Debit Card,2,4485.65,20,7177.04,6834.32,342.72
+ORD-01149,2026-03-16,USB-C Hub,Electronics,South,Online,Returning,UPI,1,12201.92,10,10981.73,9179.26,1802.47
+ORD-00587,2026-03-16,USB-C Hub,Electronics,South,Marketplace,New,Net Banking,3,9737.31,0,29211.93,15250.63,13961.3
+ORD-00941,2026-03-17,Running Bottle,Sports,North,Online,Returning,Cash,1,4539.94,10,4085.95,2613.16,1472.79
+ORD-01183,2026-03-17,Dumbbells,Sports,West,Online,Returning,Cash,4,1260.25,0,5041.0,3847.01,1193.99
+ORD-00422,2026-03-19,Sports Bag,Sports,South,Online,Returning,Debit Card,2,412.86,5,784.43,538.22,246.21
+ORD-00666,2026-03-20,Yoga Mat,Sports,South,In-store,Returning,UPI,2,3768.38,10,6783.08,4638.27,2144.81
+ORD-00008,2026-03-21,Sunscreen,Beauty,North,Online,Returning,Cash,1,2259.06,20,1807.25,1634.01,173.24
+ORD-00175,2026-03-21,USB-C Hub,Electronics,West,In-store,Returning,UPI,5,25360.68,20,101442.72,84086.35,17356.37
+ORD-00184,2026-03-21,Yoga Mat,Sports,North,In-store,Returning,Net Banking,3,4923.15,10,13292.5,10453.45,2839.05
+ORD-00875,2026-03-21,Desk Lamp,Home & Kitchen,Central,In-store,New,UPI,1,2021.17,5,1920.11,1139.71,780.4
+ORD-00866,2026-03-22,Wireless Headphones,Electronics,South,Marketplace,New,Net Banking,4,12377.67,20,39608.54,35739.97,3868.57
+ORD-01472,2026-03-22,Air Fryer,Home & Kitchen,South,Online,Returning,Debit Card,1,5266.04,15,4476.13,3712.82,763.31
+ORD-00932,2026-03-23,Dumbbells,Sports,East,Online,Returning,Credit Card,1,3483.57,10,3135.21,2436.04,699.17
+ORD-01303,2026-03-23,Storage Organizer,Home & Kitchen,Central,In-store,Returning,Credit Card,3,5595.9,25,12590.77,9965.28,2625.49
+ORD-00086,2026-03-23,Jacket,Fashion,South,In-store,Returning,Debit Card,2,877.08,15,1491.04,1352.67,138.37
+ORD-00204,2026-03-23,USB-C Hub,Electronics,West,Online,New,UPI,2,10446.77,20,16714.83,13697.74,3017.09
+ORD-00043,2026-03-23,Water Bottle,Home & Kitchen,West,Marketplace,Returning,UPI,1,3442.32,20,2753.86,1937.55,816.31
+ORD-00982,2026-03-24,Wireless Headphones,Electronics,South,Online,Returning,Credit Card,2,1223.46,0,2446.92,1701.66,745.26
+ORD-01348,2026-03-24,Jacket,Fashion,Central,Online,Returning,UPI,2,3800.83,15,6461.41,4823.47,1637.94
+ORD-01194,2026-03-25,Smart Watch,Electronics,West,Marketplace,Returning,Credit Card,1,13677.03,5,12993.18,7837.86,5155.32
+ORD-00223,2026-03-26,USB-C Hub,Electronics,West,Online,Returning,Credit Card,1,9941.09,15,8449.93,6931.37,1518.56
+ORD-00110,2026-03-26,T-Shirt,Fashion,Central,Marketplace,Returning,Net Banking,3,2665.49,0,7996.47,4779.4,3217.07
+ORD-01064,2026-03-27,Wireless Headphones,Electronics,East,Online,New,Debit Card,1,2805.96,25,2104.47,2030.09,74.38
+ORD-01041,2026-03-27,Dumbbells,Sports,South,Marketplace,Returning,Credit Card,3,320.95,25,722.14,698.87,23.27
+ORD-00541,2026-03-29,Sneakers,Fashion,Central,Online,Returning,Credit Card,5,6413.51,5,30464.17,21276.71,9187.46
+ORD-00892,2026-03-29,Wireless Headphones,Electronics,West,Online,New,UPI,2,14553.06,15,24740.2,18324.68,6415.52
+ORD-01317,2026-03-29,T-Shirt,Fashion,Central,Online,Returning,Net Banking,2,2447.61,5,4650.46,3511.04,1139.42
+ORD-00906,2026-03-29,Air Fryer,Home & Kitchen,West,In-store,Returning,Cash,1,6449.75,20,5159.8,4832.65,327.15
+ORD-01045,2026-03-29,Moisturizer,Beauty,East,In-store,Returning,Debit Card,1,1428.74,25,1071.56,767.03,304.53
+ORD-01077,2026-03-30,T-Shirt,Fashion,West,Marketplace,New,Credit Card,1,3753.57,10,3378.21,2584.74,793.47
+ORD-01197,2026-04-01,Wireless Headphones,Electronics,North,Online,New,Credit Card,3,3585.57,20,8605.37,6100.69,2504.68
+ORD-01276,2026-04-01,Water Bottle,Home & Kitchen,North,Online,Returning,Credit Card,1,1425.53,20,1140.42,773.07,367.35
+ORD-00430,2026-04-02,Smart Watch,Electronics,West,Online,New,UPI,1,23497.7,10,21147.93,15810.43,5337.5
+ORD-00015,2026-04-03,Perfume,Beauty,South,Online,New,UPI,4,3900.73,5,14822.77,8928.84,5893.93
+ORD-00774,2026-04-03,Running Bottle,Sports,West,Marketplace,Returning,UPI,1,2836.87,0,2836.87,2209.69,627.18
+ORD-00212,2026-04-03,Desk Lamp,Home & Kitchen,West,Online,Returning,Cash,2,3582.08,0,7164.16,4843.84,2320.32
+ORD-01332,2026-04-03,Wireless Headphones,Electronics,Central,Online,Returning,UPI,1,23804.58,10,21424.12,15876.23,5547.89
+ORD-00177,2026-04-03,Laptop Stand,Electronics,Central,Online,Returning,Debit Card,2,14113.7,5,26816.03,18275.54,8540.49
+ORD-01208,2026-04-05,Smart Watch,Electronics,North,Marketplace,New,Credit Card,1,6470.63,20,5176.5,3944.32,1232.18
+ORD-00236,2026-04-05,Sunscreen,Beauty,North,In-store,New,Debit Card,2,1324.72,20,2119.55,1934.24,185.31
+ORD-00395,2026-04-05,Storage Organizer,Home & Kitchen,West,In-store,Returning,Debit Card,2,6736.86,0,13473.72,7604.35,5869.37
+ORD-00697,2026-04-06,Perfume,Beauty,South,Online,New,UPI,1,1940.04,15,1649.03,1104.76,544.27
+ORD-00225,2026-04-06,Air Fryer,Home & Kitchen,North,Online,Returning,Net Banking,6,679.18,0,4075.08,3017.67,1057.41
+ORD-00174,2026-04-06,Wallet,Fashion,Central,Online,Returning,Debit Card,3,1293.1,10,3491.37,2214.76,1276.61
+ORD-00727,2026-04-06,Air Fryer,Home & Kitchen,Central,Online,New,UPI,1,2352.2,20,1881.76,1231.93,649.83
+ORD-00793,2026-04-07,Air Fryer,Home & Kitchen,North,Marketplace,Returning,UPI,1,557.61,10,501.85,376.72,125.13
+ORD-00461,2026-04-07,Dumbbells,Sports,South,Online,New,Credit Card,1,4416.89,15,3754.36,3364.61,389.75
+ORD-00681,2026-04-07,Perfume,Beauty,West,In-store,Returning,Debit Card,1,2357.25,25,1767.94,1524.43,243.51
+ORD-01119,2026-04-07,Wallet,Fashion,South,In-store,New,Credit Card,1,3092.76,10,2783.48,1935.3,848.18
+ORD-01137,2026-04-08,Smart Watch,Electronics,East,Online,New,Debit Card,3,20832.31,0,62496.93,44485.99,18010.94
+ORD-00676,2026-04-09,Coffee Maker,Home & Kitchen,Central,Online,New,Net Banking,2,1206.09,0,2412.18,1561.57,850.61
+ORD-00318,2026-04-09,Dumbbells,Sports,North,In-store,Returning,UPI,3,1850.36,10,4995.97,4096.46,899.51
+ORD-00731,2026-04-10,Coffee Maker,Home & Kitchen,Central,Marketplace,Returning,Debit Card,1,2861.35,20,2289.08,2173.05,116.03
+ORD-00713,2026-04-10,Laptop Stand,Electronics,Central,Marketplace,New,UPI,1,24192.38,10,21773.14,13124.87,8648.27
+ORD-00317,2026-04-11,Water Bottle,Home & Kitchen,West,Online,Returning,UPI,3,8010.53,15,20426.85,15631.62,4795.23
+ORD-00760,2026-04-11,Dumbbells,Sports,North,Online,New,UPI,1,1412.27,5,1341.66,1043.51,298.15
+ORD-01033,2026-04-12,Storage Organizer,Home & Kitchen,West,In-store,New,Credit Card,1,6602.49,0,6602.49,4433.89,2168.6
+ORD-00737,2026-04-12,Sunscreen,Beauty,South,Online,New,Net Banking,2,243.43,5,462.52,372.78,89.74
+ORD-01218,2026-04-13,Hair Dryer,Beauty,North,Marketplace,Returning,Credit Card,3,150.05,10,405.14,320.87,84.27
+ORD-01009,2026-04-13,Sunscreen,Beauty,North,Marketplace,New,Net Banking,4,847.12,15,2880.21,2315.08,565.13
+ORD-01232,2026-04-14,Coffee Maker,Home & Kitchen,North,Marketplace,New,UPI,1,6922.92,10,6230.63,3991.77,2238.86
+ORD-00886,2026-04-14,Water Bottle,Home & Kitchen,North,In-store,Returning,Debit Card,1,7827.48,15,6653.36,5375.51,1277.85
+ORD-00662,2026-04-14,Face Cleanser,Beauty,Central,Marketplace,Returning,UPI,3,3074.13,5,8761.27,6292.58,2468.69
+ORD-01349,2026-04-14,Bluetooth Speaker,Electronics,East,Online,New,Cash,1,10639.14,10,9575.23,6215.14,3360.09
+ORD-00377,2026-04-15,T-Shirt,Fashion,North,Online,New,UPI,1,6492.27,0,6492.27,3666.21,2826.06
+ORD-00013,2026-04-15,Wireless Headphones,Electronics,West,Marketplace,New,Credit Card,1,25011.71,20,20009.37,17887.1,2122.27
+ORD-00557,2026-04-15,Wallet,Fashion,East,In-store,Returning,UPI,1,2552.86,0,2552.86,1671.03,881.83
+ORD-00739,2026-04-16,Perfume,Beauty,West,Online,Returning,UPI,3,2545.51,5,7254.7,5231.85,2022.85
+ORD-00631,2026-04-16,Air Fryer,Home & Kitchen,North,Online,Returning,UPI,1,7153.97,5,6796.27,5329.09,1467.18
+ORD-01002,2026-04-16,Smart Watch,Electronics,South,In-store,Returning,Cash,2,20174.54,15,34296.72,30719.57,3577.15
+ORD-00805,2026-04-16,Smart Watch,Electronics,North,Online,Returning,Cash,3,6979.71,10,18845.22,15957.45,2887.77
+ORD-00215,2026-04-16,Face Cleanser,Beauty,North,In-store,New,Debit Card,2,174.49,10,314.08,240.32,73.76
+ORD-00757,2026-04-16,Yoga Mat,Sports,South,In-store,Returning,Cash,1,3810.44,0,3810.44,1983.87,1826.57
+ORD-00432,2026-04-17,Bluetooth Speaker,Electronics,East,In-store,Returning,UPI,3,6486.76,15,16541.24,12920.18,3621.06
+ORD-00603,2026-04-17,Air Fryer,Home & Kitchen,East,Online,New,Cash,2,6290.67,20,10065.07,9506.94,558.13
+ORD-00471,2026-04-17,USB-C Hub,Electronics,South,In-store,Returning,UPI,2,19066.89,15,32413.71,27958.95,4454.76
+ORD-01449,2026-04-17,Water Bottle,Home & Kitchen,East,Online,Returning,UPI,2,661.01,20,1057.62,966.72,90.9
+ORD-01282,2026-04-17,Backpack,Fashion,South,Marketplace,New,Credit Card,2,5533.93,0,11067.86,7545.94,3521.92
+ORD-01281,2026-04-18,Wireless Headphones,Electronics,North,Marketplace,Returning,UPI,1,19092.32,5,18137.7,12691.28,5446.42
+ORD-01036,2026-04-19,Hair Dryer,Beauty,South,In-store,Returning,Debit Card,1,3776.28,15,3209.84,2565.93,643.91
+ORD-01394,2026-04-19,Dumbbells,Sports,West,Marketplace,Returning,Debit Card,3,2947.11,0,8841.33,6542.18,2299.15
+ORD-01139,2026-04-20,Face Cleanser,Beauty,West,Online,Returning,UPI,4,1544.42,5,5868.8,3721.93,2146.87
+ORD-00059,2026-04-20,Jacket,Fashion,North,Online,Returning,Net Banking,3,506.35,5,1443.1,1126.65,316.45
+ORD-00062,2026-04-21,Laptop Stand,Electronics,South,Online,Returning,Debit Card,2,25742.58,15,43762.39,27687.59,16074.8
+ORD-00512,2026-04-21,Coffee Maker,Home & Kitchen,West,In-store,New,UPI,4,4067.27,0,16269.08,10354.98,5914.1
+ORD-00878,2026-04-21,Smart Watch,Electronics,Central,In-store,New,Cash,1,24259.02,0,24259.02,16498.33,7760.69
+ORD-00378,2026-04-22,Running Bottle,Sports,Central,In-store,Returning,Cash,2,1079.72,20,1727.55,1275.39,452.16
+ORD-00391,2026-04-22,Water Bottle,Home & Kitchen,North,Online,New,UPI,1,5758.12,5,5470.21,4370.11,1100.1
+ORD-00463,2026-04-23,Wallet,Fashion,North,In-store,Returning,UPI,5,1997.11,0,9985.55,7466.73,2518.82
+ORD-00360,2026-04-23,Bluetooth Speaker,Electronics,West,Online,Returning,Cash,2,2793.76,25,4190.64,4157.61,33.03
+ORD-00895,2026-04-24,Laptop Stand,Electronics,Central,Online,New,Credit Card,4,15639.43,10,56301.95,44526.24,11775.71
+ORD-01234,2026-04-24,Storage Organizer,Home & Kitchen,West,Marketplace,New,UPI,1,2657.27,10,2391.54,1893.94,497.6
+ORD-01378,2026-04-25,Air Fryer,Home & Kitchen,North,Online,Returning,UPI,1,2481.66,15,2109.41,1606.33,503.08
+ORD-00493,2026-04-26,Water Bottle,Home & Kitchen,Central,In-store,Returning,Credit Card,2,7992.11,10,14385.8,10629.99,3755.81
+ORD-01065,2026-04-26,Yoga Mat,Sports,North,Marketplace,New,UPI,1,2968.29,5,2819.88,2106.36,713.52
+ORD-01098,2026-04-27,Jacket,Fashion,West,Online,New,UPI,2,6316.68,0,12633.36,7479.1,5154.26
+ORD-01073,2026-04-28,Sneakers,Fashion,South,In-store,New,Cash,1,2229.93,10,2006.94,1299.32,707.62
+ORD-00247,2026-04-29,Jacket,Fashion,South,Online,Returning,UPI,2,3219.24,10,5794.63,4787.18,1007.45
+ORD-00234,2026-04-29,Sneakers,Fashion,North,Online,New,Debit Card,6,5937.9,0,35627.4,25547.66,10079.74
+ORD-00042,2026-04-29,Desk Lamp,Home & Kitchen,Central,Online,New,Debit Card,2,1468.97,15,2497.25,2274.55,222.7
+ORD-01301,2026-04-30,Face Cleanser,Beauty,East,Online,Returning,Credit Card,3,1093.24,10,2951.75,1754.92,1196.83
+ORD-00051,2026-04-30,Yoga Mat,Sports,Central,Online,Returning,Net Banking,4,673.68,10,2425.25,1509.73,915.52
+ORD-00014,2026-05-01,USB-C Hub,Electronics,West,Online,Returning,UPI,1,9009.14,0,9009.14,5879.99,3129.15
+ORD-01204,2026-05-01,Sunscreen,Beauty,East,In-store,Returning,Debit Card,2,2031.51,5,3859.87,2130.48,1729.39
+ORD-01275,2026-05-02,Storage Organizer,Home & Kitchen,North,Online,Returning,UPI,1,1894.05,10,1704.64,1394.31,310.33
+ORD-00742,2026-05-02,Sports Bag,Sports,North,Online,New,Net Banking,1,2072.8,0,2072.8,1113.93,958.87
+ORD-01134,2026-05-02,Dumbbells,Sports,East,Online,Returning,UPI,1,4262.72,10,3836.45,3119.67,716.78
+ORD-00714,2026-05-03,Desk Lamp,Home & Kitchen,West,Marketplace,Returning,UPI,1,7237.04,10,6513.34,4267.46,2245.88
+ORD-00207,2026-05-03,Running Bottle,Sports,North,Online,Returning,Credit Card,6,3222.71,5,18369.45,10364.43,8005.02
+ORD-00128,2026-05-04,Coffee Maker,Home & Kitchen,North,Online,New,Net Banking,1,5589.33,10,5030.4,3351.05,1679.35
+ORD-00657,2026-05-04,Perfume,Beauty,North,Online,Returning,Net Banking,4,1788.68,0,7154.72,5104.12,2050.6
+ORD-00423,2026-05-04,Storage Organizer,Home & Kitchen,West,Online,Returning,Cash,3,5225.35,10,14108.45,9903.22,4205.23
+ORD-00489,2026-05-04,USB-C Hub,Electronics,North,Marketplace,New,UPI,1,26818.51,20,21454.81,19790.68,1664.13
+ORD-00089,2026-05-05,Desk Lamp,Home & Kitchen,East,In-store,New,UPI,1,4858.08,0,4858.08,3357.44,1500.64
+ORD-01148,2026-05-06,Water Bottle,Home & Kitchen,West,Online,Returning,Debit Card,1,741.26,0,741.26,546.68,194.58
+ORD-00320,2026-05-06,Water Bottle,Home & Kitchen,South,In-store,Returning,UPI,1,1085.66,15,922.81,792.14,130.67
+ORD-00911,2026-05-07,Wireless Headphones,Electronics,East,Online,Returning,UPI,1,3818.03,10,3436.23,2331.28,1104.95
+ORD-00645,2026-05-07,Resistance Bands,Sports,North,Online,Returning,UPI,1,4351.58,5,4134.0,2906.32,1227.68
+ORD-01061,2026-05-07,Laptop Stand,Electronics,Central,Marketplace,New,Debit Card,3,24847.02,5,70814.01,48777.17,22036.84
+ORD-01058,2026-05-08,Air Fryer,Home & Kitchen,Central,Online,New,Cash,5,3645.72,10,16405.74,13457.75,2947.99
+ORD-00173,2026-05-08,Sneakers,Fashion,West,Online,Returning,Net Banking,1,453.56,5,430.88,260.41,170.47
+ORD-00864,2026-05-08,Water Bottle,Home & Kitchen,South,Marketplace,New,Debit Card,1,8351.26,0,8351.26,5584.92,2766.34
+ORD-00370,2026-05-08,Hair Dryer,Beauty,South,In-store,Returning,UPI,5,3117.76,0,15588.8,11794.87,3793.93
+ORD-01278,2026-05-09,Coffee Maker,Home & Kitchen,Central,In-store,Returning,Cash,1,4354.9,25,3266.18,2545.71,720.47
+ORD-00002,2026-05-09,Storage Organizer,Home & Kitchen,East,Online,New,Cash,1,2403.0,5,2282.85,1441.62,841.23
+ORD-00734,2026-05-10,Wireless Headphones,Electronics,East,Online,Returning,UPI,3,5675.62,20,13621.49,9746.9,3874.59
+ORD-01339,2026-05-10,Dumbbells,Sports,East,Online,New,Credit Card,2,1723.07,15,2929.22,2264.29,664.93
+ORD-01242,2026-05-11,Resistance Bands,Sports,West,In-store,New,UPI,1,265.95,5,252.65,173.37,79.28
+ORD-00402,2026-05-11,Hair Dryer,Beauty,West,Online,New,UPI,1,2699.48,15,2294.56,1887.96,406.6
+ORD-00836,2026-05-11,Face Cleanser,Beauty,South,In-store,New,UPI,1,183.43,0,183.43,101.26,82.17
+ORD-00050,2026-05-12,Sports Bag,Sports,South,Online,Returning,Credit Card,2,2116.69,15,3598.37,2508.42,1089.95
+ORD-00602,2026-05-12,Running Bottle,Sports,North,Online,New,Credit Card,1,1177.42,20,941.94,686.24,255.7
+ORD-00210,2026-05-12,T-Shirt,Fashion,North,Online,Returning,UPI,2,4919.85,0,9839.7,5523.34,4316.36
+ORD-01469,2026-05-12,Face Cleanser,Beauty,Central,In-store,Returning,Net Banking,2,1951.6,0,3903.2,2840.42,1062.78
+ORD-00815,2026-05-12,Running Bottle,Sports,South,Online,Returning,Credit Card,1,4842.94,0,4842.94,3720.67,1122.27
+ORD-01441,2026-05-13,Smart Watch,Electronics,North,In-store,Returning,Credit Card,2,9138.48,15,15535.42,12193.29,3342.13
+ORD-00766,2026-05-13,Water Bottle,Home & Kitchen,West,Online,Returning,Net Banking,1,4896.3,0,4896.3,3336.22,1560.08
+ORD-01313,2026-05-13,Sneakers,Fashion,South,In-store,Returning,UPI,5,3849.16,0,19245.8,14366.25,4879.55
+ORD-00107,2026-05-13,Dumbbells,Sports,South,Marketplace,Returning,Cash,1,1207.22,15,1026.14,631.34,394.8
+ORD-00598,2026-05-13,Air Fryer,Home & Kitchen,Central,In-store,New,UPI,2,3276.78,5,6225.88,3851.83,2374.05
+ORD-01498,2026-05-14,Wallet,Fashion,East,Marketplace,Returning,UPI,1,4615.26,5,4384.5,2535.85,1848.65
+ORD-00112,2026-05-14,Dumbbells,Sports,South,Online,Returning,Cash,1,1982.74,5,1883.6,1281.91,601.69
+ORD-01212,2026-05-14,Water Bottle,Home & Kitchen,South,In-store,Returning,Credit Card,1,3901.93,5,3706.83,2639.38,1067.45
+ORD-00806,2026-05-14,Sports Bag,Sports,North,In-store,Returning,Credit Card,2,4375.38,0,8750.76,5623.23,3127.53
+ORD-00025,2026-05-14,USB-C Hub,Electronics,South,In-store,Returning,Credit Card,4,20488.69,10,73759.28,48192.12,25567.16
+ORD-00278,2026-05-15,Desk Lamp,Home & Kitchen,East,Online,Returning,Net Banking,2,656.03,10,1180.85,969.78,211.07
+ORD-00690,2026-05-15,Moisturizer,Beauty,South,In-store,Returning,Cash,1,736.13,10,662.52,542.74,119.78
+ORD-01416,2026-05-16,Coffee Maker,Home & Kitchen,West,In-store,Returning,Debit Card,3,8699.61,5,24793.89,15082.0,9711.89
+ORD-00160,2026-05-16,Storage Organizer,Home & Kitchen,South,Online,Returning,UPI,2,3815.78,25,5723.67,4208.71,1514.96
+ORD-00613,2026-05-16,Wallet,Fashion,East,In-store,Returning,Net Banking,1,4225.19,0,4225.19,2741.8,1483.39
+ORD-00918,2026-05-16,Wireless Headphones,Electronics,East,Marketplace,Returning,Net Banking,2,12088.83,15,20551.01,17231.09,3319.92
+ORD-00476,2026-05-16,Perfume,Beauty,South,Online,New,Net Banking,1,3903.81,10,3513.43,2860.8,652.63
+ORD-00955,2026-05-17,Sneakers,Fashion,North,Marketplace,Returning,Credit Card,3,4518.12,20,10843.49,9687.06,1156.43
+ORD-00016,2026-05-17,Bluetooth Speaker,Electronics,West,Online,New,UPI,1,23787.07,0,23787.07,17628.75,6158.32
+ORD-00725,2026-05-17,T-Shirt,Fashion,West,In-store,Returning,Debit Card,1,4056.16,0,4056.16,2555.66,1500.5
+ORD-00106,2026-05-18,T-Shirt,Fashion,West,Online,Returning,Net Banking,1,4820.24,10,4338.22,3327.36,1010.86
+ORD-00990,2026-05-18,Dumbbells,Sports,Central,In-store,New,UPI,3,1840.6,0,5521.8,3005.29,2516.51
+ORD-01430,2026-05-18,Moisturizer,Beauty,North,Online,Returning,Debit Card,3,2501.71,25,5628.85,4712.1,916.75
+ORD-00249,2026-05-18,Perfume,Beauty,Central,Marketplace,Returning,Debit Card,1,2552.7,10,2297.43,1439.26,858.17
+ORD-00213,2026-05-19,USB-C Hub,Electronics,West,In-store,Returning,UPI,2,4555.14,10,8199.25,7058.3,1140.95
+ORD-01461,2026-05-20,Face Cleanser,Beauty,South,Online,Returning,Debit Card,2,3896.92,0,7793.84,4528.92,3264.92
+ORD-00639,2026-05-21,Face Cleanser,Beauty,West,Online,Returning,Cash,2,2500.21,10,4500.38,2926.7,1573.68
+ORD-00559,2026-05-21,Smart Watch,Electronics,West,In-store,Returning,UPI,5,15033.85,10,67652.32,41491.38,26160.94
+ORD-01414,2026-05-21,Coffee Maker,Home & Kitchen,North,Online,Returning,Debit Card,1,4784.7,5,4545.46,2989.22,1556.24
+ORD-01254,2026-05-22,Sneakers,Fashion,East,In-store,Returning,Cash,2,2258.04,5,4290.28,3381.46,908.82
+ORD-00261,2026-05-22,Wallet,Fashion,North,In-store,Returning,Debit Card,1,6405.9,5,6085.6,4090.83,1994.77
+ORD-01133,2026-05-22,Storage Organizer,Home & Kitchen,South,Online,New,Credit Card,1,4481.54,5,4257.46,3307.17,950.29
+ORD-00071,2026-05-23,Bluetooth Speaker,Electronics,North,Online,Returning,UPI,2,6760.06,15,11492.1,8194.31,3297.79
+ORD-00745,2026-05-23,Air Fryer,Home & Kitchen,North,Online,New,Net Banking,3,7280.47,15,18565.2,13224.93,5340.27
+ORD-00135,2026-05-23,Wireless Headphones,Electronics,West,In-store,New,Credit Card,2,1600.87,20,2561.39,2290.64,270.75
+ORD-00692,2026-05-23,USB-C Hub,Electronics,East,In-store,New,Net Banking,1,5932.58,10,5339.32,4306.63,1032.69
+ORD-00105,2026-05-24,Smart Watch,Electronics,West,In-store,Returning,Net Banking,2,20690.87,10,37243.57,23665.74,13577.83
+ORD-00484,2026-05-24,Running Bottle,Sports,East,Online,Returning,Net Banking,1,3282.45,15,2790.08,2305.64,484.44
+ORD-00716,2026-05-25,Dumbbells,Sports,West,Online,Returning,Credit Card,1,2567.02,5,2438.67,1549.14,889.53
+ORD-01284,2026-05-26,Water Bottle,Home & Kitchen,North,Marketplace,New,Debit Card,2,8610.09,5,16359.17,12603.52,3755.65
+ORD-01012,2026-05-26,Bluetooth Speaker,Electronics,North,In-store,Returning,UPI,6,14698.85,10,79373.79,68064.22,11309.57
+ORD-00686,2026-05-26,Hair Dryer,Beauty,North,Marketplace,New,Net Banking,1,171.13,10,154.02,95.91,58.11
+ORD-00591,2026-05-26,USB-C Hub,Electronics,West,Online,New,Debit Card,2,20530.99,10,36955.78,26632.88,10322.9
+ORD-01087,2026-05-27,Smart Watch,Electronics,East,In-store,Returning,Credit Card,3,19787.9,5,56395.52,42151.32,14244.2
+ORD-00860,2026-05-27,Air Fryer,Home & Kitchen,North,Marketplace,New,Credit Card,1,4627.86,10,4165.07,2953.58,1211.49
+ORD-00852,2026-05-27,Laptop Stand,Electronics,South,In-store,New,Net Banking,1,19820.99,25,14865.74,14176.57,689.17
+ORD-00596,2026-05-27,Backpack,Fashion,Central,In-store,New,Net Banking,3,3305.32,15,8428.57,6137.88,2290.69
+ORD-01260,2026-05-27,Yoga Mat,Sports,South,Online,New,Credit Card,2,4591.83,20,7346.93,5785.05,1561.88
+ORD-00551,2026-05-28,Laptop Stand,Electronics,Central,Online,Returning,Debit Card,1,25809.94,10,23228.95,15457.81,7771.14
+ORD-01199,2026-05-28,Bluetooth Speaker,Electronics,North,Marketplace,Returning,Credit Card,3,17942.25,0,53826.75,34452.62,19374.13
+ORD-00092,2026-05-29,Yoga Mat,Sports,Central,In-store,New,Net Banking,3,2822.18,0,8466.54,5849.94,2616.6
+ORD-00472,2026-05-29,Smart Watch,Electronics,South,Online,Returning,Credit Card,4,3528.9,0,14115.6,8423.68,5691.92
+ORD-00428,2026-05-29,Storage Organizer,Home & Kitchen,Central,In-store,Returning,UPI,4,4105.32,20,13137.02,9924.88,3212.14
+ORD-00654,2026-05-29,Desk Lamp,Home & Kitchen,North,Online,Returning,Net Banking,3,6142.43,10,16584.56,9826.04,6758.52
+ORD-00103,2026-05-29,Moisturizer,Beauty,Central,Marketplace,Returning,UPI,4,1999.42,5,7597.8,5038.03,2559.77
+ORD-00336,2026-05-31,Running Bottle,Sports,South,Marketplace,New,Debit Card,1,4184.31,10,3765.88,3034.12,731.76
+ORD-00837,2026-05-31,Desk Lamp,Home & Kitchen,West,In-store,New,Cash,1,1740.96,20,1392.77,1099.57,293.2
+ORD-00227,2026-05-31,Backpack,Fashion,West,Marketplace,Returning,Credit Card,3,6483.24,0,19449.72,12436.78,7012.94
+ORD-00291,2026-05-31,Wireless Headphones,Electronics,South,In-store,Returning,UPI,5,11882.02,15,50498.59,37688.84,12809.75
+ORD-01334,2026-05-31,Smart Watch,Electronics,East,In-store,Returning,UPI,2,1106.36,5,2102.08,1284.43,817.65
+ORD-01001,2026-05-31,Wallet,Fashion,West,Online,Returning,Credit Card,2,4768.52,5,9060.19,5214.86,3845.33
+ORD-01219,2026-06-01,Backpack,Fashion,Central,Online,New,UPI,2,668.54,10,1203.37,707.12,496.25
+ORD-00885,2026-06-03,Face Cleanser,Beauty,Central,Online,Returning,Credit Card,1,1017.73,20,814.18,542.08,272.1
+ORD-01426,2026-06-04,Backpack,Fashion,South,Online,New,UPI,1,3311.29,5,3145.73,2300.34,845.39
+ORD-00166,2026-06-04,Perfume,Beauty,West,Online,Returning,UPI,2,1679.49,0,3358.98,2012.32,1346.66
+ORD-00514,2026-06-05,Perfume,Beauty,Central,In-store,Returning,Debit Card,1,3258.45,15,2769.68,2503.75,265.93
+ORD-00741,2026-06-06,Smart Watch,Electronics,North,Online,Returning,Credit Card,3,14732.52,20,35358.05,23633.32,11724.73
+ORD-00867,2026-06-08,Wireless Headphones,Electronics,East,Online,Returning,Credit Card,1,915.48,5,869.71,684.38,185.33
+ORD-00849,2026-06-08,Dumbbells,Sports,South,In-store,New,Credit Card,1,2047.74,0,2047.74,1585.18,462.56
+ORD-01264,2026-06-09,Coffee Maker,Home & Kitchen,West,Marketplace,New,UPI,1,2379.22,5,2260.26,1376.63,883.63
+ORD-01231,2026-06-09,Perfume,Beauty,Central,Online,New,Credit Card,4,2181.25,10,7852.5,6227.22,1625.28
+ORD-01025,2026-06-09,Jacket,Fashion,West,Online,New,Credit Card,4,1630.35,0,6521.4,5026.21,1495.19
+ORD-00149,2026-06-09,Smart Watch,Electronics,Central,Online,Returning,Debit Card,1,10866.11,0,10866.11,5926.61,4939.5
+ORD-00028,2026-06-09,Wireless Headphones,Electronics,Central,In-store,New,Cash,2,23311.22,10,41960.2,25527.87,16432.33
+ORD-00433,2026-06-11,USB-C Hub,Electronics,Central,Marketplace,New,Credit Card,3,16775.16,0,50325.48,33788.84,16536.64
+ORD-00524,2026-06-11,T-Shirt,Fashion,South,In-store,New,UPI,3,3468.2,0,10404.6,6436.73,3967.87
+ORD-00794,2026-06-11,Bluetooth Speaker,Electronics,North,In-store,Returning,Credit Card,2,2118.24,0,4236.48,3166.53,1069.95
+ORD-01040,2026-06-12,USB-C Hub,Electronics,West,Online,Returning,Debit Card,3,15433.15,25,34724.59,33448.57,1276.02
+ORD-00605,2026-06-12,Face Cleanser,Beauty,Central,Marketplace,Returning,UPI,4,853.6,0,3414.4,2541.63,872.77
+ORD-00302,2026-06-12,Laptop Stand,Electronics,South,Online,Returning,Cash,1,10883.8,10,9795.42,7842.85,1952.57
+ORD-00038,2026-06-13,Desk Lamp,Home & Kitchen,North,Marketplace,New,Cash,3,5155.87,10,13920.85,11672.75,2248.1
+ORD-00553,2026-06-13,Sports Bag,Sports,South,In-store,Returning,Net Banking,4,3238.57,10,11658.85,9938.86,1719.99
+ORD-00334,2026-06-14,Moisturizer,Beauty,South,In-store,Returning,UPI,2,2509.48,5,4768.01,3706.09,1061.92
+ORD-00482,2026-06-14,Wallet,Fashion,West,Online,Returning,Net Banking,1,2518.12,10,2266.31,1484.51,781.8
+ORD-00388,2026-06-15,Storage Organizer,Home & Kitchen,Central,In-store,New,Credit Card,3,7405.38,10,19994.53,16750.36,3244.17
+ORD-00545,2026-06-15,Water Bottle,Home & Kitchen,South,Online,New,Net Banking,2,5480.53,5,10413.01,8022.06,2390.95
+ORD-00090,2026-06-15,Sneakers,Fashion,Central,Marketplace,Returning,UPI,2,2931.89,10,5277.4,3839.18,1438.22
+ORD-00084,2026-06-16,Resistance Bands,Sports,West,Marketplace,New,Cash,2,1234.89,10,2222.8,1694.83,527.97
+ORD-00611,2026-06-16,Running Bottle,Sports,West,Online,Returning,Debit Card,1,4729.35,10,4256.42,3650.65,605.77
+ORD-00101,2026-06-16,USB-C Hub,Electronics,Central,In-store,Returning,Net Banking,3,9414.64,0,28243.92,19224.45,9019.47
+ORD-00582,2026-06-16,T-Shirt,Fashion,West,In-store,Returning,UPI,2,693.9,0,1387.8,760.61,627.19
+ORD-01080,2026-06-18,Sneakers,Fashion,South,In-store,Returning,Credit Card,2,4725.29,25,7087.94,5594.77,1493.17
+ORD-01097,2026-06-18,Storage Organizer,Home & Kitchen,East,Marketplace,Returning,UPI,1,566.79,0,566.79,323.96,242.83
+ORD-00816,2026-06-18,T-Shirt,Fashion,South,Online,New,UPI,1,1381.78,5,1312.69,748.66,564.03
+ORD-01016,2026-06-19,Bluetooth Speaker,Electronics,East,Marketplace,Returning,UPI,1,3695.77,0,3695.77,2505.6,1190.17
+ORD-00868,2026-06-19,T-Shirt,Fashion,South,Marketplace,New,Cash,3,5174.13,10,13970.15,11774.93,2195.22
+ORD-00589,2026-06-19,Face Cleanser,Beauty,West,Marketplace,Returning,UPI,4,3127.39,10,11258.6,8121.45,3137.15
+ORD-00963,2026-06-20,Hair Dryer,Beauty,West,Online,Returning,UPI,2,700.91,15,1191.55,968.45,223.1
+ORD-01086,2026-06-20,Bluetooth Speaker,Electronics,Central,Marketplace,Returning,Debit Card,5,22830.44,15,97029.37,68474.01,28555.36
+ORD-00019,2026-06-20,Bluetooth Speaker,Electronics,South,In-store,Returning,Debit Card,2,20171.09,10,36307.96,25341.35,10966.61
+ORD-00513,2026-06-21,Storage Organizer,Home & Kitchen,Central,Online,New,UPI,2,2440.01,5,4636.02,3536.59,1099.43
+ORD-01125,2026-06-21,Moisturizer,Beauty,Central,Online,New,Debit Card,3,779.54,20,1870.9,1815.72,55.18
+ORD-01500,2026-06-21,Coffee Maker,Home & Kitchen,West,Marketplace,New,UPI,2,6998.1,15,11896.77,10396.74,1500.03
+ORD-00459,2026-06-21,Water Bottle,Home & Kitchen,North,Online,Returning,Credit Card,2,5384.45,15,9153.56,7705.03,1448.53
+ORD-00093,2026-06-21,Backpack,Fashion,Central,In-store,Returning,Cash,2,1115.39,5,2119.24,1532.71,586.53
+ORD-01024,2026-06-22,Perfume,Beauty,Central,In-store,Returning,UPI,1,3986.27,0,3986.27,2903.11,1083.16
+ORD-01093,2026-06-22,Laptop Stand,Electronics,West,In-store,Returning,Net Banking,4,4963.83,10,17869.79,14321.09,3548.7
+ORD-00590,2026-06-23,Storage Organizer,Home & Kitchen,South,Online,Returning,Credit Card,2,1448.62,15,2462.65,1648.56,814.09
+ORD-01144,2026-06-23,Bluetooth Speaker,Electronics,South,Online,New,Debit Card,2,4633.56,15,7877.05,6556.81,1320.24
+ORD-01126,2026-06-23,Resistance Bands,Sports,North,In-store,Returning,Credit Card,1,1684.64,0,1684.64,957.64,727.0
+ORD-00865,2026-06-24,Dumbbells,Sports,Central,Marketplace,Returning,UPI,2,525.63,10,946.13,617.49,328.64
+ORD-00723,2026-06-24,USB-C Hub,Electronics,Central,Online,Returning,Debit Card,1,13962.74,0,13962.74,10353.38,3609.36
+ORD-00775,2026-06-24,Resistance Bands,Sports,West,Online,Returning,Debit Card,1,3943.96,10,3549.56,2464.63,1084.93
+ORD-00361,2026-06-24,Wireless Headphones,Electronics,South,In-store,New,UPI,1,8469.54,0,8469.54,5400.6,3068.94
+ORD-00477,2026-06-25,T-Shirt,Fashion,West,Online,Returning,Cash,2,3692.93,10,6647.27,4342.04,2305.23
+ORD-00650,2026-06-26,Storage Organizer,Home & Kitchen,Central,Online,New,Credit Card,2,4254.75,5,8084.02,6201.91,1882.11
+ORD-00856,2026-06-26,Water Bottle,Home & Kitchen,North,Marketplace,New,Cash,1,1081.72,10,973.55,780.8,192.75
+ORD-01163,2026-06-26,Perfume,Beauty,Central,In-store,Returning,Net Banking,1,1594.09,15,1354.98,1156.53,198.45
+ORD-01158,2026-06-27,USB-C Hub,Electronics,North,Marketplace,Returning,UPI,2,22324.64,10,40184.35,27074.47,13109.88
+ORD-00780,2026-06-27,Coffee Maker,Home & Kitchen,Central,In-store,Returning,Debit Card,1,7377.11,15,6270.54,4657.19,1613.35
+ORD-01007,2026-06-27,Wireless Headphones,Electronics,East,Online,Returning,UPI,2,11625.87,10,20926.57,16763.95,4162.62
+ORD-00297,2026-06-27,Laptop Stand,Electronics,West,Online,Returning,Debit Card,1,3647.26,25,2735.44,1942.42,793.02
+ORD-01465,2026-06-28,Hair Dryer,Beauty,North,In-store,Returning,Debit Card,1,1115.83,10,1004.25,735.96,268.29
+ORD-01150,2026-06-28,USB-C Hub,Electronics,South,Online,Returning,UPI,3,19218.68,5,54773.24,39743.35,15029.89
+ORD-00560,2026-06-28,Hair Dryer,Beauty,East,Online,New,Net Banking,1,2746.98,5,2609.63,1504.03,1105.6
+ORD-00882,2026-06-28,Perfume,Beauty,Central,In-store,Returning,UPI,1,622.17,10,559.95,391.98,167.97
+ORD-01314,2026-06-29,USB-C Hub,Electronics,West,In-store,Returning,Net Banking,6,27974.37,15,142669.29,87808.48,54860.81
+ORD-01127,2026-06-29,Storage Organizer,Home & Kitchen,East,In-store,New,Debit Card,1,346.4,10,311.76,248.72,63.04
+ORD-00643,2026-06-29,Bluetooth Speaker,Electronics,West,Online,New,Debit Card,3,25148.36,5,71672.83,51854.85,19817.98
+ORD-01310,2026-06-29,Smart Watch,Electronics,West,In-store,Returning,Net Banking,3,4480.11,5,12768.31,7012.07,5756.24
+ORD-00146,2026-06-29,Sunscreen,Beauty,West,Marketplace,Returning,Debit Card,1,2914.68,0,2914.68,2117.8,796.88
+ORD-00835,2026-06-30,Jacket,Fashion,South,Online,Returning,Credit Card,1,5567.23,5,5288.87,2987.62,2301.25
+ORD-01347,2026-06-30,Wireless Headphones,Electronics,West,Marketplace,New,Cash,3,15661.72,15,39937.39,26992.69,12944.7
+ORD-01401,2026-06-30,Wallet,Fashion,West,Marketplace,Returning,Credit Card,1,6050.03,0,6050.03,4454.54,1595.49
+ORD-00151,2026-06-30,Sneakers,Fashion,North,Marketplace,Returning,Cash,3,2442.61,0,7327.83,5329.15,1998.68
+ORD-00125,2026-06-30,Dumbbells,Sports,North,Online,New,UPI,2,4334.56,25,6501.84,4613.62,1888.22
+ORD-00232,2026-07-01,Resistance Bands,Sports,North,Marketplace,Returning,UPI,1,4015.17,20,3212.14,2527.75,684.39
+ORD-01042,2026-07-01,Coffee Maker,Home & Kitchen,West,In-store,New,Credit Card,1,4620.36,10,4158.32,3576.58,581.74
+ORD-00610,2026-07-02,Smart Watch,Electronics,South,Marketplace,New,UPI,1,10829.61,15,9205.17,7594.41,1610.76
+ORD-00006,2026-07-02,Smart Watch,Electronics,West,Online,Returning,Cash,3,20017.78,5,57050.67,41589.39,15461.28
+ORD-01292,2026-07-02,Yoga Mat,Sports,North,In-store,New,Net Banking,2,3832.22,10,6898.0,5539.08,1358.92
+ORD-00037,2026-07-02,Yoga Mat,Sports,East,In-store,Returning,UPI,2,4528.06,10,8150.51,6469.65,1680.86
+ORD-01247,2026-07-03,Storage Organizer,Home & Kitchen,Central,Online,Returning,UPI,1,664.47,25,498.35,407.41,90.94
+ORD-00668,2026-07-04,Backpack,Fashion,North,In-store,Returning,Net Banking,4,6473.77,15,22010.82,18546.74,3464.08
+ORD-01419,2026-07-04,Desk Lamp,Home & Kitchen,North,Marketplace,Returning,Net Banking,6,406.12,5,2314.88,1785.15,529.73
+ORD-01486,2026-07-05,Moisturizer,Beauty,South,Online,Returning,Cash,1,2595.35,20,2076.28,1906.48,169.8
+ORD-00829,2026-07-05,Face Cleanser,Beauty,Central,Online,Returning,Cash,3,1902.01,15,4850.13,4400.51,449.62
+ORD-00427,2026-07-06,Sneakers,Fashion,North,Online,New,Credit Card,2,1156.28,10,2081.3,1441.8,639.5
+ORD-01325,2026-07-07,Storage Organizer,Home & Kitchen,North,Online,Returning,Net Banking,2,2158.04,10,3884.47,2783.07,1101.4
+ORD-01280,2026-07-07,Backpack,Fashion,West,Online,Returning,Debit Card,5,6399.8,10,28799.1,16685.73,12113.37
+ORD-00492,2026-07-08,Storage Organizer,Home & Kitchen,North,Marketplace,Returning,Net Banking,3,8535.11,5,24325.06,13319.37,11005.69
+ORD-00504,2026-07-08,Jacket,Fashion,West,Online,Returning,Credit Card,5,1581.56,20,6326.24,4609.59,1716.65
+ORD-01214,2026-07-08,Bluetooth Speaker,Electronics,North,In-store,Returning,UPI,1,16211.92,5,15401.32,9210.02,6191.3
+ORD-01023,2026-07-09,Jacket,Fashion,South,Online,New,Net Banking,4,2233.3,10,8039.88,5094.56,2945.32
+ORD-00921,2026-07-11,Water Bottle,Home & Kitchen,North,Online,Returning,Debit Card,3,2040.92,10,5510.48,4652.44,858.04
+ORD-01408,2026-07-12,Water Bottle,Home & Kitchen,South,In-store,Returning,Cash,3,6128.7,10,16547.49,10053.27,6494.22
+ORD-00396,2026-07-12,Storage Organizer,Home & Kitchen,Central,In-store,Returning,UPI,5,6108.47,5,29015.23,21872.75,7142.48
+ORD-01245,2026-07-13,Backpack,Fashion,West,In-store,Returning,UPI,1,2244.47,5,2132.25,1714.82,417.43
+ORD-00558,2026-07-13,Sports Bag,Sports,Central,In-store,New,Debit Card,1,3288.02,5,3123.62,2031.53,1092.09
+ORD-00812,2026-07-15,Wallet,Fashion,North,Online,New,Debit Card,2,2665.66,10,4798.19,3019.43,1778.76
+ORD-01201,2026-07-15,Hair Dryer,Beauty,North,Marketplace,New,Debit Card,1,2657.84,15,2259.16,2053.35,205.81
+ORD-00781,2026-07-15,Desk Lamp,Home & Kitchen,North,Marketplace,Returning,UPI,1,1834.07,0,1834.07,1168.61,665.46
+ORD-01371,2026-07-16,Desk Lamp,Home & Kitchen,South,In-store,New,UPI,1,2307.76,0,2307.76,1531.53,776.23
+ORD-00517,2026-07-17,Wireless Headphones,Electronics,East,In-store,Returning,Cash,2,24871.71,10,44769.08,30752.25,14016.83
+ORD-01141,2026-07-17,Bluetooth Speaker,Electronics,South,Online,Returning,Debit Card,3,1113.13,15,2838.48,2294.28,544.2
+ORD-00904,2026-07-19,Laptop Stand,Electronics,East,Online,New,Cash,1,14487.8,20,11590.24,10314.76,1275.48
+ORD-00375,2026-07-20,Coffee Maker,Home & Kitchen,East,In-store,New,UPI,6,5269.44,0,31616.64,20755.16,10861.48
+ORD-01324,2026-07-20,Face Cleanser,Beauty,North,Online,Returning,Cash,2,2384.61,25,3576.92,3607.32,-30.4
+ORD-01004,2026-07-20,Resistance Bands,Sports,South,In-store,Returning,UPI,2,424.11,10,763.4,638.02,125.38
+ORD-01375,2026-07-21,Desk Lamp,Home & Kitchen,East,Online,Returning,Credit Card,2,6601.8,20,10562.88,8301.08,2261.8
+ORD-00035,2026-07-21,Face Cleanser,Beauty,Central,In-store,Returning,Debit Card,1,1930.37,5,1833.85,1291.0,542.85
+ORD-00565,2026-07-22,Laptop Stand,Electronics,Central,Marketplace,Returning,Net Banking,1,18602.38,5,17672.26,11786.54,5885.72
+ORD-00362,2026-07-23,Water Bottle,Home & Kitchen,South,Marketplace,Returning,Credit Card,3,4161.02,10,11234.75,9189.13,2045.62
+ORD-01389,2026-07-23,Resistance Bands,Sports,West,Marketplace,New,Cash,3,930.11,10,2511.3,2068.63,442.67
+ORD-00358,2026-07-23,Desk Lamp,Home & Kitchen,East,In-store,Returning,Debit Card,2,5926.2,0,11852.4,7138.91,4713.49
+ORD-00048,2026-07-24,USB-C Hub,Electronics,West,Online,New,Credit Card,1,11975.27,5,11376.51,7151.8,4224.71
+ORD-00389,2026-07-24,Smart Watch,Electronics,South,Online,Returning,UPI,1,7396.47,15,6287.0,5184.37,1102.63
+ORD-00579,2026-07-25,Water Bottle,Home & Kitchen,West,Online,Returning,Net Banking,1,1299.61,5,1234.63,820.6,414.03
+ORD-00364,2026-07-25,Hair Dryer,Beauty,East,In-store,New,UPI,1,2124.14,10,1911.73,1347.69,564.04
+ORD-00304,2026-07-26,Bluetooth Speaker,Electronics,Central,Online,New,UPI,1,16346.59,10,14711.93,10864.2,3847.73
+ORD-01304,2026-07-26,Perfume,Beauty,South,In-store,Returning,Credit Card,3,2264.06,20,5433.74,3654.25,1779.49
+ORD-00095,2026-07-27,Bluetooth Speaker,Electronics,East,Online,Returning,UPI,3,6930.36,10,18711.97,15113.82,3598.15
+ORD-00828,2026-07-27,Moisturizer,Beauty,South,Marketplace,Returning,UPI,1,2060.28,0,2060.28,1167.11,893.17
+ORD-01384,2026-07-27,Moisturizer,Beauty,East,Marketplace,New,Credit Card,5,3295.49,0,16477.45,9025.03,7452.42
+ORD-01471,2026-07-27,Desk Lamp,Home & Kitchen,Central,Online,New,Net Banking,3,2313.44,10,6246.29,4947.46,1298.83
+ORD-00740,2026-07-28,Wallet,Fashion,South,In-store,New,Debit Card,1,4388.98,15,3730.63,2293.38,1437.25
+ORD-00179,2026-07-29,Jacket,Fashion,North,Online,New,Net Banking,1,5095.07,5,4840.32,3361.16,1479.16
+ORD-01037,2026-07-30,Coffee Maker,Home & Kitchen,South,Online,New,Credit Card,2,8095.18,20,12952.29,9932.77,3019.52
+ORD-00220,2026-07-30,Wireless Headphones,Electronics,South,Online,Returning,UPI,2,5295.18,15,9001.81,5751.12,3250.69
+ORD-01315,2026-07-30,Storage Organizer,Home & Kitchen,North,In-store,New,Net Banking,2,6482.86,0,12965.72,7069.9,5895.82
+ORD-01428,2026-07-30,Running Bottle,Sports,North,Marketplace,New,Net Banking,3,3977.52,10,10739.3,8716.09,2023.21
+ORD-00592,2026-07-30,Dumbbells,Sports,South,In-store,Returning,Credit Card,1,713.06,20,570.45,477.25,93.2
+ORD-01206,2026-07-31,Perfume,Beauty,West,Online,Returning,UPI,1,2338.44,5,2221.52,1232.14,989.38
+ORD-00067,2026-08-01,Hair Dryer,Beauty,South,In-store,Returning,Credit Card,1,1530.78,0,1530.78,964.04,566.74
+ORD-00345,2026-08-01,Jacket,Fashion,East,Online,New,Credit Card,1,4207.58,15,3576.44,3004.01,572.43
+ORD-01108,2026-08-02,Storage Organizer,Home & Kitchen,West,In-store,Returning,Cash,1,8538.62,5,8111.69,5619.92,2491.77
+ORD-00202,2026-08-03,Coffee Maker,Home & Kitchen,Central,Online,Returning,UPI,1,8670.82,15,7370.2,5197.73,2172.47
+ORD-01287,2026-08-03,Hair Dryer,Beauty,Central,Marketplace,Returning,UPI,2,3577.79,20,5724.46,5327.84,396.62
+ORD-01390,2026-08-03,Moisturizer,Beauty,East,Online,New,Credit Card,1,894.05,25,670.54,571.26,99.28
+ORD-00843,2026-08-04,Sunscreen,Beauty,West,Marketplace,Returning,UPI,1,860.65,20,688.52,544.33,144.19
+ORD-01154,2026-08-04,Laptop Stand,Electronics,East,Online,Returning,Credit Card,2,10117.82,10,18212.08,13740.56,4471.52
+ORD-00840,2026-08-04,Laptop Stand,Electronics,South,Online,Returning,Cash,1,27054.67,25,20291.0,17075.78,3215.22
+ORD-00943,2026-08-06,Water Bottle,Home & Kitchen,North,Marketplace,Returning,Debit Card,1,7130.69,10,6417.62,3940.66,2476.96
+ORD-00529,2026-08-07,Hair Dryer,Beauty,West,In-store,Returning,Net Banking,2,3291.06,10,5923.91,4673.92,1249.99
+ORD-01354,2026-08-07,Hair Dryer,Beauty,North,Online,Returning,UPI,4,3008.71,15,10229.61,7122.3,3107.31
+ORD-00324,2026-08-08,Perfume,Beauty,West,In-store,New,Debit Card,2,2761.04,5,5245.98,4086.34,1159.64
+ORD-00642,2026-08-08,Yoga Mat,Sports,North,In-store,Returning,Debit Card,1,943.65,10,849.28,534.09,315.19
+ORD-01170,2026-08-09,Hair Dryer,Beauty,South,Marketplace,New,Net Banking,2,714.75,0,1429.5,823.98,605.52
+ORD-00804,2026-08-09,Storage Organizer,Home & Kitchen,North,Online,New,UPI,3,6649.2,0,19947.6,11815.39,8132.21
+ORD-00153,2026-08-09,Smart Watch,Electronics,South,Online,New,UPI,3,15049.06,15,38375.1,25462.52,12912.58
+ORD-01103,2026-08-10,Backpack,Fashion,East,Marketplace,Returning,Debit Card,1,6106.78,5,5801.44,4063.52,1737.92
+ORD-00669,2026-08-10,Moisturizer,Beauty,South,Online,New,Credit Card,3,3706.65,5,10563.95,7353.93,3210.02
+ORD-01081,2026-08-11,T-Shirt,Fashion,South,In-store,Returning,UPI,2,3495.7,5,6641.83,5048.74,1593.09
+ORD-00733,2026-08-11,Sneakers,Fashion,East,Online,Returning,Net Banking,1,6458.67,5,6135.74,4694.64,1441.1
+ORD-00530,2026-08-11,Sneakers,Fashion,East,Online,New,UPI,5,1926.37,0,9631.85,6894.74,2737.11
+ORD-00969,2026-08-11,T-Shirt,Fashion,South,In-store,Returning,UPI,3,1413.85,0,4241.55,2537.51,1704.04
+ORD-00715,2026-08-11,Wallet,Fashion,Central,Online,Returning,Debit Card,1,310.69,0,310.69,187.74,122.95
+ORD-01006,2026-08-11,Wallet,Fashion,North,Online,Returning,Debit Card,1,1274.25,10,1146.82,885.06,261.76
+ORD-00061,2026-08-12,Laptop Stand,Electronics,East,Marketplace,Returning,Net Banking,1,24124.99,0,24124.99,12685.88,11439.11
+ORD-00527,2026-08-13,Smart Watch,Electronics,North,Online,New,Debit Card,1,14692.86,15,12488.93,9632.99,2855.94
+ORD-01262,2026-08-13,Coffee Maker,Home & Kitchen,Central,Marketplace,Returning,Credit Card,2,8706.12,0,17412.24,11477.49,5934.75
+ORD-00264,2026-08-14,Moisturizer,Beauty,East,In-store,Returning,Debit Card,3,3423.21,0,10269.63,6174.96,4094.67
+ORD-00452,2026-08-14,Backpack,Fashion,East,In-store,New,UPI,5,1853.71,15,7878.27,6719.01,1159.26
+ORD-00577,2026-08-14,Air Fryer,Home & Kitchen,West,In-store,Returning,Credit Card,1,1517.68,5,1441.8,896.04,545.76
+ORD-00586,2026-08-14,Moisturizer,Beauty,West,Online,New,Cash,6,3438.38,5,19598.77,12513.34,7085.43
+ORD-01067,2026-08-14,Dumbbells,Sports,South,In-store,Returning,Net Banking,2,2132.83,15,3625.81,2956.37,669.44
+ORD-00438,2026-08-15,Sunscreen,Beauty,South,In-store,New,Credit Card,2,3054.41,0,6108.82,3696.03,2412.79
+ORD-00421,2026-08-15,Water Bottle,Home & Kitchen,Central,Online,New,UPI,2,732.32,5,1391.41,1049.3,342.11
+ORD-00499,2026-08-15,Hair Dryer,Beauty,South,Online,New,Debit Card,2,3911.27,0,7822.54,4572.41,3250.13
+ORD-00024,2026-08-15,Perfume,Beauty,East,Marketplace,Returning,Credit Card,2,2019.18,0,4038.36,2334.84,1703.52
+ORD-00862,2026-08-15,Sports Bag,Sports,North,Online,Returning,Net Banking,2,2627.87,20,4204.59,2938.22,1266.37
+ORD-01182,2026-08-15,Jacket,Fashion,North,Online,Returning,UPI,2,4079.59,20,6527.34,5913.48,613.86
+ORD-00693,2026-08-18,Laptop Stand,Electronics,North,Online,Returning,Credit Card,2,20840.75,20,33345.2,29482.88,3862.32
+ORD-01273,2026-08-18,Laptop Stand,Electronics,West,Online,New,UPI,1,17260.22,20,13808.18,11021.78,2786.4
+ORD-01143,2026-08-18,Jacket,Fashion,North,Marketplace,Returning,Credit Card,1,2293.66,0,2293.66,1581.59,712.07
+ORD-00722,2026-08-18,USB-C Hub,Electronics,East,In-store,New,Cash,2,27680.01,0,55360.02,33361.8,21998.22
+ORD-00470,2026-08-19,USB-C Hub,Electronics,Central,In-store,Returning,Credit Card,1,7020.58,0,7020.58,5112.42,1908.16
+ORD-00491,2026-08-19,Hair Dryer,Beauty,East,Online,New,UPI,2,1677.19,0,3354.38,2377.13,977.25
+ORD-00409,2026-08-20,Desk Lamp,Home & Kitchen,East,In-store,Returning,UPI,3,6391.88,10,17258.08,12244.96,5013.12
+ORD-01443,2026-08-20,Yoga Mat,Sports,Central,Online,Returning,Credit Card,1,4949.36,5,4701.89,3409.16,1292.73
+ORD-00754,2026-08-21,Storage Organizer,Home & Kitchen,West,Marketplace,Returning,Cash,1,426.61,0,426.61,223.52,203.09
+ORD-00382,2026-08-21,Wallet,Fashion,Central,In-store,Returning,Credit Card,4,2897.03,5,11008.71,6613.95,4394.76
+ORD-00764,2026-08-21,Running Bottle,Sports,South,Marketplace,Returning,Net Banking,1,1636.73,15,1391.22,883.89,507.33
+ORD-00680,2026-08-21,Storage Organizer,Home & Kitchen,North,In-store,Returning,Debit Card,2,3802.76,10,6844.97,4114.88,2730.09
+ORD-00348,2026-08-21,Yoga Mat,Sports,East,In-store,Returning,Debit Card,1,4209.09,0,4209.09,2416.51,1792.58
+ORD-01447,2026-08-22,Smart Watch,Electronics,South,Online,Returning,Credit Card,1,23876.55,20,19101.24,12497.61,6603.63
+ORD-00286,2026-08-22,Sneakers,Fashion,West,Marketplace,Returning,Net Banking,4,934.34,0,3737.36,2626.72,1110.64
+ORD-00181,2026-08-22,Air Fryer,Home & Kitchen,Central,Marketplace,New,Net Banking,2,3986.44,5,7574.24,4513.24,3061.0
+ORD-00319,2026-08-22,Laptop Stand,Electronics,North,In-store,Returning,Net Banking,1,21947.56,10,19752.8,12910.77,6842.03
+ORD-00081,2026-08-23,Backpack,Fashion,South,In-store,New,Debit Card,3,3193.61,20,7664.66,5906.32,1758.34
+ORD-01109,2026-08-24,Desk Lamp,Home & Kitchen,Central,Online,New,Debit Card,1,7780.47,15,6613.4,5535.19,1078.21
+ORD-00936,2026-08-24,USB-C Hub,Electronics,South,Online,Returning,Cash,2,8796.39,5,16713.14,12687.39,4025.75
+ORD-00694,2026-08-27,Wireless Headphones,Electronics,East,In-store,Returning,Net Banking,2,2472.88,5,4698.47,3722.23,976.24
+ORD-00926,2026-08-27,Moisturizer,Beauty,East,In-store,New,UPI,2,3891.01,0,7782.02,4941.53,2840.49
+ORD-00949,2026-08-28,Sunscreen,Beauty,Central,In-store,Returning,Credit Card,2,2582.21,5,4906.2,3520.2,1386.0
+ORD-00383,2026-08-28,Laptop Stand,Electronics,Central,In-store,Returning,Debit Card,3,14212.63,15,36242.21,27476.32,8765.89
+ORD-00571,2026-08-29,Wallet,Fashion,West,Online,Returning,UPI,5,1046.55,10,4709.48,3699.64,1009.84
+ORD-00763,2026-08-29,T-Shirt,Fashion,North,Online,Returning,Cash,2,4867.35,5,9247.96,5574.59,3673.37
+ORD-00640,2026-08-29,USB-C Hub,Electronics,East,Marketplace,Returning,Debit Card,1,8905.16,10,8014.64,6465.7,1548.94
+ORD-00965,2026-08-29,Coffee Maker,Home & Kitchen,South,Online,New,UPI,4,385.56,10,1388.02,1109.67,278.35
+ORD-01421,2026-08-30,Coffee Maker,Home & Kitchen,South,Online,New,UPI,3,1750.68,5,4989.44,3376.85,1612.59
+ORD-00776,2026-08-30,Smart Watch,Electronics,East,In-store,Returning,Debit Card,1,3817.18,0,3817.18,2696.47,1120.71
+ORD-00340,2026-08-31,Water Bottle,Home & Kitchen,East,Online,Returning,Debit Card,3,2980.4,10,8047.08,5831.43,2215.65
+ORD-01295,2026-08-31,Sunscreen,Beauty,West,In-store,Returning,UPI,2,385.75,0,771.5,484.31,287.19
+ORD-00671,2026-08-31,Resistance Bands,Sports,South,In-store,New,Net Banking,1,1574.68,5,1495.95,1161.76,334.19
+ORD-01269,2026-09-01,T-Shirt,Fashion,West,Online,Returning,UPI,1,5200.79,5,4940.75,2963.56,1977.19
+ORD-00293,2026-09-01,Wallet,Fashion,East,Online,Returning,Credit Card,2,4661.12,0,9322.24,5483.5,3838.74
+ORD-01440,2026-09-02,Face Cleanser,Beauty,South,Marketplace,Returning,Net Banking,3,1770.85,0,5312.55,3054.66,2257.89
+ORD-00448,2026-09-02,T-Shirt,Fashion,West,Marketplace,Returning,UPI,3,3564.89,10,9625.2,5624.99,4000.21
+ORD-00684,2026-09-04,USB-C Hub,Electronics,East,In-store,Returning,Credit Card,4,8756.44,0,35025.76,21117.2,13908.56
+ORD-01376,2026-09-04,Coffee Maker,Home & Kitchen,North,Online,New,Debit Card,1,7038.44,20,5630.75,4937.99,692.76
+ORD-00515,2026-09-04,Jacket,Fashion,Central,Online,New,Credit Card,5,1390.53,10,6257.38,5054.8,1202.58
+ORD-01083,2026-09-04,Desk Lamp,Home & Kitchen,West,Online,Returning,UPI,1,1407.57,5,1337.19,904.24,432.95
+ORD-01054,2026-09-04,Resistance Bands,Sports,South,Online,Returning,UPI,1,2210.06,5,2099.56,1616.25,483.31
+ORD-00274,2026-09-04,Wallet,Fashion,West,Online,New,Net Banking,2,4152.36,0,8304.72,5447.39,2857.33
+ORD-00683,2026-09-05,Bluetooth Speaker,Electronics,South,Online,Returning,UPI,2,26858.17,0,53716.34,35910.79,17805.55
+ORD-00649,2026-09-05,Sneakers,Fashion,South,Marketplace,Returning,Cash,1,1541.28,0,1541.28,1061.27,480.01
+ORD-01448,2026-09-05,Wallet,Fashion,East,In-store,New,UPI,2,819.59,0,1639.18,1059.83,579.35
+ORD-00451,2026-09-05,Sneakers,Fashion,West,Online,New,UPI,1,6141.53,5,5834.45,4639.13,1195.32
+ORD-00195,2026-09-05,Desk Lamp,Home & Kitchen,West,Online,New,Debit Card,3,4508.42,5,12849.0,7702.4,5146.6
+ORD-01223,2026-09-06,Resistance Bands,Sports,South,Online,Returning,UPI,2,3399.31,10,6118.76,4813.07,1305.69
+ORD-00200,2026-09-06,Coffee Maker,Home & Kitchen,Central,In-store,Returning,UPI,3,4616.5,15,11772.08,7422.17,4349.91
+ORD-01377,2026-09-06,Water Bottle,Home & Kitchen,West,In-store,New,Net Banking,3,5198.03,0,15594.09,11851.76,3742.33
+ORD-00751,2026-09-06,Yoga Mat,Sports,North,Online,New,Debit Card,2,4794.23,20,7670.77,6828.03,842.74
+ORD-00999,2026-09-06,Wallet,Fashion,South,Online,Returning,UPI,2,2615.14,15,4445.74,3362.8,1082.94
+ORD-01243,2026-09-07,Water Bottle,Home & Kitchen,East,Marketplace,Returning,Credit Card,6,2310.71,25,10398.2,9996.24,401.96
+ORD-01210,2026-09-07,Jacket,Fashion,North,In-store,Returning,Debit Card,2,2522.68,20,4036.29,3528.42,507.87
+ORD-00503,2026-09-07,Bluetooth Speaker,Electronics,North,In-store,Returning,Debit Card,4,18004.03,5,68415.31,50127.39,18287.92
+ORD-01369,2026-09-07,USB-C Hub,Electronics,North,Online,Returning,Debit Card,1,14397.0,10,12957.3,9516.66,3440.64
+ORD-00337,2026-09-07,Yoga Mat,Sports,East,Online,Returning,Debit Card,1,2248.48,0,2248.48,1641.1,607.38
+ORD-00853,2026-09-07,Yoga Mat,Sports,South,In-store,Returning,Cash,1,1961.86,0,1961.86,1312.5,649.36
+ORD-00609,2026-09-09,Dumbbells,Sports,North,In-store,New,UPI,1,4911.52,5,4665.94,3045.02,1620.92
+ORD-00466,2026-09-09,Backpack,Fashion,West,Online,Returning,Cash,1,1760.78,15,1496.66,1354.32,142.34
+ORD-00064,2026-09-10,Backpack,Fashion,Central,Marketplace,Returning,UPI,1,5184.09,15,4406.48,3203.12,1203.36
+ORD-00797,2026-09-10,Coffee Maker,Home & Kitchen,West,Marketplace,Returning,UPI,3,404.44,20,970.66,673.97,296.69
+ORD-00861,2026-09-10,Desk Lamp,Home & Kitchen,East,In-store,New,Credit Card,3,1589.95,10,4292.87,2677.48,1615.39
+ORD-00355,2026-09-11,Wireless Headphones,Electronics,East,Online,New,Debit Card,4,19492.38,0,77969.52,44306.58,33662.94
+ORD-00208,2026-09-11,T-Shirt,Fashion,North,Online,New,UPI,2,2881.71,5,5475.25,3693.23,1782.02
+ORD-00417,2026-09-11,Yoga Mat,Sports,West,In-store,Returning,Net Banking,1,2157.85,20,1726.28,1159.25,567.03
+ORD-01226,2026-09-11,Smart Watch,Electronics,Central,Marketplace,New,Net Banking,1,20530.63,5,19504.1,14635.14,4868.96
+ORD-00046,2026-09-12,Desk Lamp,Home & Kitchen,Central,Online,Returning,Debit Card,3,823.37,15,2099.59,1800.6,298.99
+ORD-01233,2026-09-12,Perfume,Beauty,West,In-store,New,Debit Card,5,1438.63,10,6473.84,3997.0,2476.84
+ORD-00959,2026-09-12,Sunscreen,Beauty,North,Online,New,UPI,4,1868.45,25,5605.35,4998.53,606.82
+ORD-00441,2026-09-13,Desk Lamp,Home & Kitchen,South,Marketplace,Returning,Credit Card,2,5176.88,15,8800.7,7454.28,1346.42
+ORD-00404,2026-09-13,Bluetooth Speaker,Electronics,Central,Marketplace,Returning,UPI,2,13472.28,5,25597.33,17576.05,8021.28
+ORD-00947,2026-09-14,Bluetooth Speaker,Electronics,North,Marketplace,Returning,UPI,3,23093.48,5,65816.42,48702.92,17113.5
+ORD-00012,2026-09-15,Laptop Stand,Electronics,Central,In-store,Returning,UPI,3,19440.52,0,58321.56,35920.19,22401.37
+ORD-00325,2026-09-15,Sunscreen,Beauty,East,Online,Returning,Net Banking,1,1958.76,5,1860.82,1067.07,793.75
+ORD-01475,2026-09-16,Perfume,Beauty,East,Marketplace,Returning,Debit Card,1,1681.03,10,1512.93,912.96,599.97
+ORD-01250,2026-09-16,Backpack,Fashion,West,Marketplace,Returning,UPI,3,6070.01,0,18210.03,13707.66,4502.37
+ORD-00594,2026-09-17,Wallet,Fashion,North,Online,Returning,Net Banking,1,4251.32,5,4038.75,2935.33,1103.42
+ORD-00914,2026-09-18,USB-C Hub,Electronics,South,Online,Returning,Debit Card,2,7748.01,20,12396.82,11164.31,1232.51
+ORD-01381,2026-09-18,Wireless Headphones,Electronics,East,Online,New,UPI,2,19376.81,5,36815.94,20257.47,16558.47
+ORD-00894,2026-09-18,USB-C Hub,Electronics,East,Online,New,UPI,1,25226.65,0,25226.65,18977.9,6248.75
+ORD-00851,2026-09-18,Moisturizer,Beauty,South,Marketplace,Returning,Net Banking,1,1128.23,15,959.0,588.36,370.64
+ORD-00141,2026-09-19,Water Bottle,Home & Kitchen,South,Online,New,Credit Card,2,4060.0,5,7714.0,4498.27,3215.73
+ORD-01198,2026-09-19,Hair Dryer,Beauty,Central,Marketplace,Returning,Debit Card,2,2777.51,15,4721.77,4091.47,630.3
+ORD-01393,2026-09-20,Yoga Mat,Sports,East,In-store,New,Cash,2,2987.35,15,5078.5,3373.27,1705.23
+ORD-01457,2026-09-21,Dumbbells,Sports,North,In-store,Returning,UPI,3,2753.69,0,8261.07,4661.08,3599.99
+ORD-01203,2026-09-21,Dumbbells,Sports,North,Online,New,Credit Card,1,2250.93,10,2025.84,1514.94,510.9
+ORD-01246,2026-09-21,Yoga Mat,Sports,South,Online,Returning,Debit Card,4,3981.39,20,12740.45,11668.57,1071.88
+ORD-00555,2026-09-21,Yoga Mat,Sports,South,Marketplace,New,Net Banking,1,943.98,20,755.18,588.24,166.94
+ORD-01228,2026-09-21,Face Cleanser,Beauty,North,Online,New,Debit Card,2,434.98,10,782.96,477.72,305.24
+ORD-00772,2026-09-22,T-Shirt,Fashion,Central,Marketplace,Returning,Credit Card,1,4915.14,5,4669.38,3579.84,1089.54
+ORD-00265,2026-09-24,Storage Organizer,Home & Kitchen,South,Online,Returning,UPI,2,1569.44,15,2668.05,2167.25,500.8
+ORD-01088,2026-09-24,Water Bottle,Home & Kitchen,East,Online,New,UPI,1,7507.89,0,7507.89,4462.52,3045.37
+ORD-01082,2026-09-24,Perfume,Beauty,South,Online,Returning,Debit Card,3,1018.05,5,2901.44,1844.88,1056.56
+ORD-00347,2026-09-25,USB-C Hub,Electronics,West,Online,Returning,UPI,3,11730.06,0,35190.18,25265.36,9924.82
+ORD-00356,2026-09-26,Resistance Bands,Sports,South,Marketplace,Returning,Cash,1,1725.29,5,1639.03,1152.88,486.15
+ORD-00145,2026-09-26,Yoga Mat,Sports,West,Online,Returning,UPI,2,486.76,5,924.84,564.45,360.39
+ORD-01422,2026-09-27,Desk Lamp,Home & Kitchen,North,Online,New,Cash,2,1893.36,15,3218.71,2727.7,491.01
+ORD-00511,2026-09-27,USB-C Hub,Electronics,Central,Online,Returning,Net Banking,2,16921.52,0,33843.04,25467.25,8375.79
+ORD-00161,2026-09-28,Sports Bag,Sports,Central,In-store,Returning,UPI,1,1795.5,0,1795.5,1218.44,577.06
+ORD-01056,2026-09-28,Running Bottle,Sports,West,Marketplace,Returning,Credit Card,2,1071.82,5,2036.46,1490.23,546.23
+ORD-00691,2026-09-28,Bluetooth Speaker,Electronics,North,In-store,Returning,UPI,1,13038.15,5,12386.24,6978.35,5407.89
+ORD-01117,2026-09-28,Hair Dryer,Beauty,East,Online,Returning,UPI,1,3779.93,10,3401.94,2318.81,1083.13
+ORD-01346,2026-09-29,Coffee Maker,Home & Kitchen,Central,Marketplace,Returning,UPI,2,7582.43,15,12890.13,8546.82,4343.31
+ORD-01169,2026-09-29,Jacket,Fashion,East,In-store,Returning,UPI,2,5835.25,10,10503.45,6413.54,4089.91
+ORD-00810,2026-09-29,Sunscreen,Beauty,West,Online,Returning,Net Banking,1,3105.86,5,2950.57,1915.04,1035.53
+ORD-00401,2026-09-29,Smart Watch,Electronics,North,In-store,New,Debit Card,1,18914.96,10,17023.46,11475.99,5547.47
+ORD-00820,2026-09-30,Sneakers,Fashion,West,Online,Returning,UPI,1,5782.37,10,5204.13,3803.46,1400.67
+ORD-01336,2026-09-30,Water Bottle,Home & Kitchen,North,Online,Returning,Credit Card,4,8398.68,5,31914.98,20937.15,10977.83

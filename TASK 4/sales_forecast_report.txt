@@ -1,0 +1,17 @@
+PREDICTIVE SALES FORECASTING REPORT
+========================================
+
+Historical Records: 36
+Forecast Period: Next 6 Months
+Model: Linear Regression
+MAE: 2099.62
+RMSE: 2454.25
+
+PREDICTED SALES
+      Date  Predicted_Sales
+2026-01-01         36848.99
+2026-02-01         37307.19
+2026-03-01         37765.40
+2026-04-01         38223.60
+2026-05-01         38681.80
+2026-06-01         39140.01
